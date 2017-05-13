@@ -1,0 +1,17 @@
+{
+ "address": "1Gif7PqWTzVWDQ42Mo7np3zXmGAo3DXc7h",
+ "cert_auth_type": "web",
+ "cert_sign": "HDz8AWVPYjSd45cB8dIhKw8nhhdNRTSxCC9BRA1Ivrz1k1P/RnxMzS9ClzxmF8IfoM77KnJSSYxoCT8PqbsO/Vw=",
+ "cert_user_id": "nanciscor@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "91ff264e965746febc5a73be8a1566954ea97dd7a122df13ce233efbfbd740bd",
+   "size": 117
+  }
+ },
+ "inner_path": "data/users/1Jo9vUfyVsyxk8iGDVPwXZnXoFwk5EKV5/content.json",
+ "modified": 1457195608.795836,
+ "signs": {
+  "1Jo9vUfyVsyxk8iGDVPwXZnXoFwk5EKV5": "HFFCaavFIpyaDdwmAd3xfYw52gC+W8j8lgS1zPrWHfFbtGTgZw2vFUgKDOY2uBF8seSqzehbG0Piz8SiY5teGAw="
+ }
+}

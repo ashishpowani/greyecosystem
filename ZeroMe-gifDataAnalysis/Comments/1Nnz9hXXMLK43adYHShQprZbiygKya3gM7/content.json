@@ -1,0 +1,17 @@
+{
+ "address": "1Gif7PqWTzVWDQ42Mo7np3zXmGAo3DXc7h",
+ "cert_auth_type": "web",
+ "cert_sign": "G6Y9niQLNo84JyOSAG0mG07b/ZentkTZQJG1aKUzvqTzn9w0hSF6OstCOxjuJQpcFPJw8JTXg6scCSYPMBSPKKs=",
+ "cert_user_id": "satoshi@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "5c8711f8f4c71839f3130e72da4c04a57e1ff881e3f977f0133e89a74db6025c",
+   "size": 94
+  }
+ },
+ "inner_path": "data/users/1Nnz9hXXMLK43adYHShQprZbiygKya3gM7/content.json",
+ "modified": 1456951399.445,
+ "signs": {
+  "1Nnz9hXXMLK43adYHShQprZbiygKya3gM7": "G+o/tyc2x0T2Bs+CY3tClOl56NnyTLOa0TltnaKOUL0zoW7NlulSgPr56rGu4YYs5XYxL6kZMRd6kTwgxcKHGNE="
+ }
+}

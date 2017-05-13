@@ -1,0 +1,17 @@
+{
+ "address": "1Gif7PqWTzVWDQ42Mo7np3zXmGAo3DXc7h",
+ "cert_auth_type": "web",
+ "cert_sign": "Gy2jAuTEbrVXhSwjpXu4uGy17bAozcGgskX0ppV36XRc8AANyLHVFEcaEy3oja+hjig1TskHErkaol7T7L5S4+E=",
+ "cert_user_id": "paradise@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "d611aac3a5eb6ae01dc6d667865225e81718cb77781eba8f745138ad13f31fa8",
+   "size": 211
+  }
+ },
+ "inner_path": "data/users/1BJgcGcUu9jt31R8fgMU7YvgHjGMGQ7QQb/content.json",
+ "modified": 1465882008.824,
+ "signs": {
+  "1BJgcGcUu9jt31R8fgMU7YvgHjGMGQ7QQb": "HKiBOPa4ST8tOcVRg0xt3naerqnhOpwhwwq0B13NSfWevCQcqwIbeTWwZTawVgbdXUfCnZtZ0RasMJAL3Xlg33U="
+ }
+}

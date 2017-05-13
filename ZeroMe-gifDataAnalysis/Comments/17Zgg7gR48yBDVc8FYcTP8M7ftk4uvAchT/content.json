@@ -1,0 +1,17 @@
+{
+ "address": "1Gif7PqWTzVWDQ42Mo7np3zXmGAo3DXc7h",
+ "cert_auth_type": "web",
+ "cert_sign": "HD+88PII+tDORrcNHtRgx2K5ztc351DIoecu0WiF5zjmG1oKVEDt9F3tCqcrVoQLsNhr1Te6b+qTVnStZKfaeAQ=",
+ "cert_user_id": "accamo@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "deb734a91382ab533cba433368a87f2c59b82156e3a8ec6559cf8c1fcb9af7d9",
+   "size": 94
+  }
+ },
+ "inner_path": "data/users/17Zgg7gR48yBDVc8FYcTP8M7ftk4uvAchT/content.json",
+ "modified": 1488213888,
+ "signs": {
+  "17Zgg7gR48yBDVc8FYcTP8M7ftk4uvAchT": "HITtg/yQoO16smTFYloJ/BbS2HToJbJZBi1Nzt8VlR+ymv3wPyelAt2G+BHkMXjxBRYdZZEapAg4cCF5l4dxDGg="
+ }
+}

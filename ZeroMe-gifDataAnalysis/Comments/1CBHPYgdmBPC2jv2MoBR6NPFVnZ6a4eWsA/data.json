@@ -1,0 +1,23 @@
+{
+	"next_comment_id": 3,
+	"comment": [
+		{
+			"comment_id": 1,
+			"body": "wow",
+			"post_id": 1333,
+			"date_added": 1458398943
+		},
+		{
+			"comment_id": 2,
+			"body": "> [5w9m](#comment_1_1CBHPYgdmBPC2jv2MoBR6NPFVnZ6a4eWsA): wow\n\nwoow",
+			"post_id": 1333,
+			"date_added": 1458398958
+		}
+	],
+	"comment_vote": {},
+	"topic_vote": {},
+	"post_vote": {
+		"440": 1,
+		"1044": 1
+	}
+}

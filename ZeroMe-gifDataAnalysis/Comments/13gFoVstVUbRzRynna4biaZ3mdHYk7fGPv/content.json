@@ -1,0 +1,17 @@
+{
+ "address": "1Gif7PqWTzVWDQ42Mo7np3zXmGAo3DXc7h",
+ "cert_auth_type": "web",
+ "cert_sign": "G2rwlMIkE2NYOM+rXmy1sVMpWVxvvsegKEA3aMxJvYIPLUBSbSNoF+QwKpdUeuJbANguooKlor591Gm6SpqeqGE=",
+ "cert_user_id": "pagantroll@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "00f0e15bf93356944ace72ec568343b3813bd1dcc05f3fa54e350d3a7cdf0218",
+   "size": 267
+  }
+ },
+ "inner_path": "data/users/13gFoVstVUbRzRynna4biaZ3mdHYk7fGPv/content.json",
+ "modified": 1475423235.550954,
+ "signs": {
+  "13gFoVstVUbRzRynna4biaZ3mdHYk7fGPv": "GwrsvSjHhPTubgFJjdRt6GRtDiOhSbKSCCJIAIvNCRDPL0Yx+9IDnft8ZfERvr8P2ET8MyEKUApa7DbLY6+SRpk="
+ }
+}

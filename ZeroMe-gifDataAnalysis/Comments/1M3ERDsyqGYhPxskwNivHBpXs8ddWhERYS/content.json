@@ -1,0 +1,17 @@
+{
+ "address": "1Gif7PqWTzVWDQ42Mo7np3zXmGAo3DXc7h",
+ "cert_auth_type": "web",
+ "cert_sign": "G9rkFgi6uH1ndDGmQ7JxZItcOT9yPjh8/PvQzaVG5nU6d75SIZ60VdmrnjvbK7qHDA+xrqMAOQ7sjS6qfr93UUI=",
+ "cert_user_id": "lunarrunner@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "60ec32c10da0ff771aebd830c5e5c8d1f16944d0c3eee60411f869f0c042e12e",
+   "size": 614
+  }
+ },
+ "inner_path": "data/users/1M3ERDsyqGYhPxskwNivHBpXs8ddWhERYS/content.json",
+ "modified": 1490055097,
+ "signs": {
+  "1M3ERDsyqGYhPxskwNivHBpXs8ddWhERYS": "G+h7LQhwTBc8PuzpGfLrK/94Pzj9uZJJexG1xNcuhiySZmhxm9ydwtgr00dVvIsjFTZ/96UEyzkSSxUji+dISEU="
+ }
+}

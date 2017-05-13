@@ -1,0 +1,17 @@
+{
+ "address": "1Gif7PqWTzVWDQ42Mo7np3zXmGAo3DXc7h",
+ "cert_auth_type": "web",
+ "cert_sign": "HDnf5ol1vgBbGNs3WVVkgMcLCUj5fFISHgZlV+VJDfJJ6RrH1Ttlcw8Xu8mnAxE624ToxXssYQi9z1Vvazl8//c=",
+ "cert_user_id": "squeakypancakes@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "d71c4f511a9ae108892a4a2693ffe52a59cc9e70e283ea7e1851c902ea12f35d",
+   "size": 458
+  }
+ },
+ "inner_path": "data/users/17tbgFeQK1BwXfi7SAMzbRHYSPv4zCUYDs/content.json",
+ "modified": 1473977632.748568,
+ "signs": {
+  "17tbgFeQK1BwXfi7SAMzbRHYSPv4zCUYDs": "G2xnXE3z0/uPmnf6yYsrS7UxMZ2f8x9NYiU/iT720IpD4gb30VofKumtzjqCm06KgrdkS5kN5dVUWG84xc4UO7M="
+ }
+}

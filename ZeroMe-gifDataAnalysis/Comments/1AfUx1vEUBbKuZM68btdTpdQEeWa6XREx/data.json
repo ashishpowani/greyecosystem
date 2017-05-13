@@ -1,0 +1,17 @@
+{
+	"next_comment_id": 2,
+	"comment": [
+		{
+			"comment_id": 1,
+			"body": "Fucking java courses :(\n",
+			"post_id": 873,
+			"date_added": 1478949656
+		}
+	],
+	"comment_vote": {},
+	"topic_vote": {},
+	"post_vote": {
+		"249": 1,
+		"873": 1
+	}
+}

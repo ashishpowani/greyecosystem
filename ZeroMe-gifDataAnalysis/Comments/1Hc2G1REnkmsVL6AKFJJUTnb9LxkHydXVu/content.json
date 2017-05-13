@@ -1,0 +1,17 @@
+{
+ "address": "1Gif7PqWTzVWDQ42Mo7np3zXmGAo3DXc7h",
+ "cert_auth_type": "web",
+ "cert_sign": "HHSaCWMsi39C3sBCAZ+dcVtlKU0kL3SpcvpO4u0z9YYgX8OmK0xjj55AYiUJ35uqhByZbDaDNYASoZskSDkxopg=",
+ "cert_user_id": "mathkruger@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "fb2f02b094d6505c6c6df54354927b3a35766532ea8c03e90f29f300856e609c",
+   "size": 94
+  }
+ },
+ "inner_path": "data/users/1Hc2G1REnkmsVL6AKFJJUTnb9LxkHydXVu/content.json",
+ "modified": 1484330572,
+ "signs": {
+  "1Hc2G1REnkmsVL6AKFJJUTnb9LxkHydXVu": "HNI0fo1k4A8gqnbOxi2yM9rs74u5bg9s4SQXetbREqkWaQZgCSKljzIZFveq3zpsoeYEYD9vwgq2k89/zFjQz60="
+ }
+}

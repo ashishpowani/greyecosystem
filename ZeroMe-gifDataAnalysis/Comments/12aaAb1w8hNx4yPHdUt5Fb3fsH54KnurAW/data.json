@@ -1,0 +1,38 @@
+{
+	"next_comment_id": 3,
+	"comment": [
+		{
+			"comment_id": 1,
+			"body": "Very nice! Thank you for the link",
+			"post_id": 4274,
+			"date_added": 1479704875
+		},
+		{
+			"comment_id": 2,
+			"body": "What is this movie?",
+			"post_id": 3733,
+			"date_added": 1479834156
+		}
+	],
+	"comment_vote": {},
+	"post_vote": {
+		"444": 1,
+		"681": 1,
+		"793": 1,
+		"1172": 1,
+		"3798": 1,
+		"4274": 1,
+		"4312": 1,
+		"4382": 1,
+		"4479": 1,
+		"4508": 1,
+		"4509": 1,
+		"4545": 1,
+		"4615": 1,
+		"4696": 1,
+		"4744": 1,
+		"4747": 1,
+		"4758": 1,
+		"4790": 1
+	}
+}

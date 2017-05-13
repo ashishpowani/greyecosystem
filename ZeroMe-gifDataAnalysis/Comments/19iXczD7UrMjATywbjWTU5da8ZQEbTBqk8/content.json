@@ -1,0 +1,17 @@
+{
+ "address": "1Gif7PqWTzVWDQ42Mo7np3zXmGAo3DXc7h",
+ "cert_auth_type": "web",
+ "cert_sign": "HCqP1Mg7w/lVVa7sQXe2tk+/87bjtcExqkcuuxTkujsr6iBrU+JSmETj85nIUvB20Y0itfuRC7w+G5Z9aR8C5pE=",
+ "cert_user_id": "iran@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "f606cdf9346ba944fc482f323bdd31a2ef26eeba01ed869f0a770adb8fe739c1",
+   "size": 107
+  }
+ },
+ "inner_path": "data/users/19iXczD7UrMjATywbjWTU5da8ZQEbTBqk8/content.json",
+ "modified": 1485608621,
+ "signs": {
+  "19iXczD7UrMjATywbjWTU5da8ZQEbTBqk8": "Gz6PpENO1eVPRJgzIC5rVFQxEtzPGfnWRziJ9OkeopZfe8xzyqxNmvUPjoV0chUpR7wVEaZ5MsAVCh8XRyjZ59I="
+ }
+}

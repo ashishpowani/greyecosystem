@@ -1,0 +1,17 @@
+{
+ "address": "1Gif7PqWTzVWDQ42Mo7np3zXmGAo3DXc7h",
+ "cert_auth_type": "web",
+ "cert_sign": "G0P+Nf0YnJLwWiQbhWIlU24HVSb8rkM18gxv3E8pBH+tDXSYq198ZyXDGSKltwn5O8tYaLPMOpPhUUdkNZZLq+o=",
+ "cert_user_id": "elboletaire@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "85f7e089154e2425e016c11f4253369b3b495c67c21c7245b75a526588bfdd51",
+   "size": 159
+  }
+ },
+ "inner_path": "data/users/14qYbg5mWHCCALDFbuVc9Ce3Qsmxt8mghk/content.json",
+ "modified": 1458932770.29,
+ "signs": {
+  "14qYbg5mWHCCALDFbuVc9Ce3Qsmxt8mghk": "G7Qv2XiUe9L8a4JFNszjMs/3rSIKIUfmzaCiGkEShKwtUKZSKoYFQzPnFccjtU4QYWSrgdYrrSFh/DLjfDMz1aw="
+ }
+}

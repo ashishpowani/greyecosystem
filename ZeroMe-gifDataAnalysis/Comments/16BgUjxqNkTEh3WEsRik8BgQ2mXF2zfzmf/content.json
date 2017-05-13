@@ -1,0 +1,17 @@
+{
+ "address": "1Gif7PqWTzVWDQ42Mo7np3zXmGAo3DXc7h",
+ "cert_auth_type": "web",
+ "cert_sign": "HDJJ0N6BaiytIcoY42rT8pG5iMxPsG2Mbyk+2ZNGEGw/f8ubck1APRL01ZI+P00UhtF5WXkPzNCC7LMdSfInLfU=",
+ "cert_user_id": "millennion@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "48e3844fbbfc62abc8771ccd523f80f570de7353ac3ffb635147f8d02283c57c",
+   "size": 94
+  }
+ },
+ "inner_path": "data/users/16BgUjxqNkTEh3WEsRik8BgQ2mXF2zfzmf/content.json",
+ "modified": 1480672548.861,
+ "signs": {
+  "16BgUjxqNkTEh3WEsRik8BgQ2mXF2zfzmf": "HPg58zHWKXEYgme7b1EzJli4jQl/UgFMgdScE4hqgJuh7c0b0txQraRSP1cb1oC4WhzY07okJ62jx/TSKtiRdfU="
+ }
+}

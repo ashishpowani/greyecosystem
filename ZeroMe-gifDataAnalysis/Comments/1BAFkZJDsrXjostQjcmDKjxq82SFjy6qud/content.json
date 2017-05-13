@@ -1,0 +1,17 @@
+{
+ "address": "1Gif7PqWTzVWDQ42Mo7np3zXmGAo3DXc7h",
+ "cert_auth_type": "web",
+ "cert_sign": "HBBLiea0c/agGbwSgtGAJksnvB+MlH2kVAvMCvVl1ZdaoyDU8yxRdKexTSCnNqfjOwIhwl11DwsgrtBCEMhgC+c=",
+ "cert_user_id": "bryceed@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "48272e04e45b0fb7e8dd5bd6b019068942830830197229817e1d4185b6025489",
+   "size": 120
+  }
+ },
+ "inner_path": "data/users/1BAFkZJDsrXjostQjcmDKjxq82SFjy6qud/content.json",
+ "modified": 1482094944.614,
+ "signs": {
+  "1BAFkZJDsrXjostQjcmDKjxq82SFjy6qud": "HAeCjeaxt1rWVjflmouWDrb91t6HOgZhgtrWDspmzyryLBXz3d1lI+Z7dvAM9HPcFNP/YvGCgK8cW/gD02vp4qY="
+ }
+}

@@ -1,0 +1,21 @@
+{
+	"next_comment_id": 2,
+	"comment": [
+		{
+			"comment_id": 1,
+			"body": "Wat ?",
+			"post_id": 1337,
+			"date_added": 1458419249
+		}
+	],
+	"comment_vote": {},
+	"post_vote": {
+		"1068": 1,
+		"1108": 1,
+		"1123": 1,
+		"1124": 1,
+		"1317": 1,
+		"1333": 1,
+		"1342": 1
+	}
+}

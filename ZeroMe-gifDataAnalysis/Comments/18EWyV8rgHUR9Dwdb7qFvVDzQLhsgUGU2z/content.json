@@ -1,0 +1,17 @@
+{
+ "address": "1Gif7PqWTzVWDQ42Mo7np3zXmGAo3DXc7h",
+ "cert_auth_type": "web",
+ "cert_sign": "G/yUCtnmMIPnDXjuh1AbLn/ku8n6mN1SRtizrqKSL3pSSMqRw/bE9SlWKnTi01v2i9datbeY7WDNq5V947a+WH0=",
+ "cert_user_id": "patmorgan235@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "286fab442c8b21716b04406f0ed90ffc7f1492c6305c996d2b552c33916c5caf",
+   "size": 120
+  }
+ },
+ "inner_path": "data/users/18EWyV8rgHUR9Dwdb7qFvVDzQLhsgUGU2z/content.json",
+ "modified": 1462164183.438,
+ "signs": {
+  "18EWyV8rgHUR9Dwdb7qFvVDzQLhsgUGU2z": "Gxgcor85HFrXQzypWg19bJl7ZbLDuIQlUpkzhjsOCjqREifyCaQfB14X9QcVIesoVR7X3MOyoG1L8BPuuGfvGh0="
+ }
+}

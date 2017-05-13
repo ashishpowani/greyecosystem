@@ -1,0 +1,17 @@
+{
+ "address": "1Gif7PqWTzVWDQ42Mo7np3zXmGAo3DXc7h",
+ "cert_auth_type": "web",
+ "cert_sign": "G/Ws3hv85XhKWfRORLY2dPg6f0raOH254BBqIn1EH9F23NBdJoneInxJCE/rzdMVaNSBkg7icX3STJEMDuySYGU=",
+ "cert_user_id": "fearlord@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "105235f76a5b47f073246634cc67be4fb036b881b8a50d632b31497af793d3dd",
+   "size": 172
+  }
+ },
+ "inner_path": "data/users/1AHmzh97TLGe7EvkKH228s7SH3CVH1aH12/content.json",
+ "modified": 1472933730.716,
+ "signs": {
+  "1AHmzh97TLGe7EvkKH228s7SH3CVH1aH12": "HJqNRgMtCiWCnI0UHUsDDiLvsjJnMFCYvhCiYB7M57c/GNjFInfoxAMGHA8I0m7ImhCgQc0YPcxUniDH/UUdJNE="
+ }
+}

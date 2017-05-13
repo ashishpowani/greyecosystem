@@ -1,0 +1,17 @@
+{
+ "address": "1Gif7PqWTzVWDQ42Mo7np3zXmGAo3DXc7h",
+ "cert_auth_type": "web",
+ "cert_sign": "HOb1BnBMOkf786RhxFtx8uvyolEsrvlDTrl6rR2NgQLD4ru+FcrZ14yIALU3K/9AV9dLygFyquyNi9ZaVDCoQXI=",
+ "cert_user_id": "irackers@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "6edf5d9165faa06c6b5d79a933360725611ca1e6dd55614e156fb240c4b08bea",
+   "size": 120
+  }
+ },
+ "inner_path": "data/users/1HiDYBQEhrB44SiMujbafo7ciddt8uqZvt/content.json",
+ "modified": 1460212855.958,
+ "signs": {
+  "1HiDYBQEhrB44SiMujbafo7ciddt8uqZvt": "HOeDxE3OI6ISCzgcWgwsjYhCPUObisvbEhK3ma2vjCV6mqvK38jNJuPGaPgMWBHCtoHczpJgLGhEEUOZzsNl0BE="
+ }
+}

@@ -1,0 +1,17 @@
+{
+ "address": "1Gif7PqWTzVWDQ42Mo7np3zXmGAo3DXc7h",
+ "cert_auth_type": "web",
+ "cert_sign": "HBjbEwUPB7JaPhNcupB7HpLsaX0nPDshEQwnTVaSC9JKVil5wLEWhAu4O/nOTTrarsRAMixWY5LG9fJtbn48K44=",
+ "cert_user_id": "martensite@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "3caddba092f5ce807c78227465e747a6735947edc7465d40f810ffba520d0792",
+   "size": 170
+  }
+ },
+ "inner_path": "data/users/15C9oNU7bpevpdE6epiqfc25YdB4bFnKg5/content.json",
+ "modified": 1457303769.317026,
+ "signs": {
+  "15C9oNU7bpevpdE6epiqfc25YdB4bFnKg5": "HF+CqWxnPAwzPm6TPRD9nK5BEhGv9nhU724fO0kT3PpfUHKUu5feMW5vLjZinhjswkjKGbvzkt2NuUJIEYNSh5s="
+ }
+}

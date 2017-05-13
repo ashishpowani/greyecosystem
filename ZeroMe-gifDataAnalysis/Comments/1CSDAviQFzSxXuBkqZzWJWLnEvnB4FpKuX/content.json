@@ -1,0 +1,17 @@
+{
+ "address": "1Gif7PqWTzVWDQ42Mo7np3zXmGAo3DXc7h",
+ "cert_auth_type": "web",
+ "cert_sign": "HGCjdht4mXQBKVqoVXb0yOXGhdU//3dCLaG2yiLbrd8+VhgvEEl0PslcGsxNu1FFZYOyj0u+q30Y1q9OdJXaxrU=",
+ "cert_user_id": "caviar@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "9e3000fa4d95ff45bab7c235735134b059036bdcfcff6e3f96bb8e54a59478fa",
+   "size": 94
+  }
+ },
+ "inner_path": "data/users/1CSDAviQFzSxXuBkqZzWJWLnEvnB4FpKuX/content.json",
+ "modified": 1491359549,
+ "signs": {
+  "1CSDAviQFzSxXuBkqZzWJWLnEvnB4FpKuX": "GzQFhl0zDTBK4bfbmOrlIK/Pqv0F11JY6HnwC+wpQAJ1zWgJV2fIhmoeiF5gPUefHbkLyytu222PfmcUs2/c3mc="
+ }
+}

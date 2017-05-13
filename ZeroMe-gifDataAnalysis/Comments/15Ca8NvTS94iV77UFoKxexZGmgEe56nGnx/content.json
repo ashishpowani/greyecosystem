@@ -1,0 +1,17 @@
+{
+ "address": "1Gif7PqWTzVWDQ42Mo7np3zXmGAo3DXc7h",
+ "cert_auth_type": "web",
+ "cert_sign": "G6kaEcTgBLLbnbWwewZ1d3g5hVfGTXe0ZlFsAg80AwJ7Ihy+vgj1UunwHa8IQEabNcUNjxHJfDFbLusgT4VqD+U=",
+ "cert_user_id": "jamesmcgregor@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "2a509983e4c6530b0eb899735c30e8f732123c20bb3859ecd60658a2d7050247",
+   "size": 266
+  }
+ },
+ "inner_path": "data/users/15Ca8NvTS94iV77UFoKxexZGmgEe56nGnx/content.json",
+ "modified": 1469193060.027216,
+ "signs": {
+  "15Ca8NvTS94iV77UFoKxexZGmgEe56nGnx": "G/cJw96269R6JcPpP2qc7h8cF1b2cG1aFuhVFax7s1zbzgH+i/vYy/dKw+exneqcW5YKsOqXlrHCIeKX2ZkmXEo="
+ }
+}

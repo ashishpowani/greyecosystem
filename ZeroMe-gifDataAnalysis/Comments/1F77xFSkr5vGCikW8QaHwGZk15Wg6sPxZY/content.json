@@ -1,0 +1,17 @@
+{
+ "address": "1Gif7PqWTzVWDQ42Mo7np3zXmGAo3DXc7h",
+ "cert_auth_type": "web",
+ "cert_sign": "GwVfIPQ5yLfBOb6nIzUN5MCjPOtIWjHK+0zo2m3nN6Ix97kNy3H8iZiyflF7l1W3SYPak5OHfJd6q4odOzPWdwU=",
+ "cert_user_id": "combustion@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "f21e318ea5d78ddec58ca6115a8ff95fd9958e7351b8a5383d73af2450b4b043",
+   "size": 172
+  }
+ },
+ "inner_path": "data/users/1F77xFSkr5vGCikW8QaHwGZk15Wg6sPxZY/content.json",
+ "modified": 1477357406.998969,
+ "signs": {
+  "1F77xFSkr5vGCikW8QaHwGZk15Wg6sPxZY": "HCDNM3YM2TbZBlEf1TJQvPXIJez7msnzL3FaYiUcFRhVBWzahiQKrJ1GncXS3DiHMn+JRYCsOvEierAp1/2SvI0="
+ }
+}

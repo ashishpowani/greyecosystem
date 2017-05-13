@@ -1,0 +1,16 @@
+{
+	"next_comment_id": 2,
+	"comment": [
+		{
+			"comment_id": 1,
+			"body": "THIS IS INCREDIBLE",
+			"post_id": 386,
+			"date_added": 1447106460
+		}
+	],
+	"comment_vote": {},
+	"post_vote": {
+		"371": 1,
+		"386": 1
+	}
+}

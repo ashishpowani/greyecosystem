@@ -1,0 +1,17 @@
+{
+ "address": "1Gif7PqWTzVWDQ42Mo7np3zXmGAo3DXc7h",
+ "cert_auth_type": "web",
+ "cert_sign": "G28W+NLY4YcAl4LZZ4NPivlimIU4VAkKdOUGwBTbvITIzp/bcJFDjFD6CPrrIAFP2xHcSFE1e89AWTnr7JawV6o=",
+ "cert_user_id": "caelum@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "94789ecc1a77c425d7901d8cd9debd3527d1eb1ddde5ccd9c32a8b2c36628a82",
+   "size": 105
+  }
+ },
+ "inner_path": "data/users/1FSeZjsGFQb5z6jbuKjwDhNaebRT6DuNE1/content.json",
+ "modified": 1469667449.156,
+ "signs": {
+  "1FSeZjsGFQb5z6jbuKjwDhNaebRT6DuNE1": "HMFrH3zOyuXbw2oYlL/Lq9Rj4kUrq2Kag0wfKRxe2PxjEzF+sAVwFHzcD9rQUsQeIUFCi2RtCNxK+NaOxQDQLWk="
+ }
+}

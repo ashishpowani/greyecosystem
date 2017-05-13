@@ -1,0 +1,17 @@
+{
+ "address": "1Gif7PqWTzVWDQ42Mo7np3zXmGAo3DXc7h",
+ "cert_auth_type": "web",
+ "cert_sign": "G45V2nNuAgnxu8gj/n1nZwuYlWB+eXGDVO5pSJ9EBfsMdH6COydMJi3KP8lSDPr9M4UhHjIWgWGFbefgtZdLUsg=",
+ "cert_user_id": "subashkarki68@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "1b7eab8d1779df43aa13d7848d3cf7a09cac133ca71ee7723bd0426639836720",
+   "size": 107
+  }
+ },
+ "inner_path": "data/users/1CL78KJpcGR5M6sirXPazWMRqryxLTAgHg/content.json",
+ "modified": 1485147371,
+ "signs": {
+  "1CL78KJpcGR5M6sirXPazWMRqryxLTAgHg": "HLduGMDaeHGkGQhp500BbSBHSz1GwM7LfPZcJeFGBXtx7aAd6BtQYWyX1DcyGO+SICpbzXBcOPrWXnhb2EA5Mg0="
+ }
+}

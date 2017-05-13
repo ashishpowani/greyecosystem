@@ -1,0 +1,17 @@
+{
+ "address": "1Gif7PqWTzVWDQ42Mo7np3zXmGAo3DXc7h",
+ "cert_auth_type": "web",
+ "cert_sign": "G9USY+B06PmJBtxuYfQpIG5Fgh2hIY0dymVfygt4xYeG+QT+FGvTYStK+dp5Q8l576/gUPUde0U3wQM+1kpvX68=",
+ "cert_user_id": "stevevalet@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "4e7e6b93f75be7dc9138934c5625eb89750b913506caf10a3dad8980fd208fc7",
+   "size": 120
+  }
+ },
+ "inner_path": "data/users/1GkPokogs775Ho9F9YB3ijvHekF53p1ip1/content.json",
+ "modified": 1471437918.425,
+ "signs": {
+  "1GkPokogs775Ho9F9YB3ijvHekF53p1ip1": "GzGDagKMw8ej/cO7ceyYabdyhqcZXV/oGzDpZzqy7qUdvzYS2Nln2mKQN5T+k1S+scOkX/Peew1O0eoyhDs1gF4="
+ }
+}

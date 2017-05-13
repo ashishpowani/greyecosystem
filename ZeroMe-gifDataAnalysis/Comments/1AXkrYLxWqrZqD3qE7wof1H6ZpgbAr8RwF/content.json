@@ -1,0 +1,17 @@
+{
+ "address": "1Gif7PqWTzVWDQ42Mo7np3zXmGAo3DXc7h",
+ "cert_auth_type": "web",
+ "cert_sign": "Gwu9zbzMe+klt8VtJWUTQZRPa5kAgeXLwp3jK2/JCF+TSWyIZGyOjpcCM9+sxbHoqgPL9BRtU5xlNDn/2gmFjTY=",
+ "cert_user_id": "jacobsyndeo@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "15ec51d25aef475d7afaab6ed185acfb66497a4bdef0bb9645e5628c20517924",
+   "size": 211
+  }
+ },
+ "inner_path": "data/users/1AXkrYLxWqrZqD3qE7wof1H6ZpgbAr8RwF/content.json",
+ "modified": 1492706150,
+ "signs": {
+  "1AXkrYLxWqrZqD3qE7wof1H6ZpgbAr8RwF": "HIIFkT3yqTy9zUAdw7wr7Mf26SJGjJrlD7ff6W5iYWGOPKPkHzVfFGQxSSIYmXGDn+WEjkkzX+jCzCm3DxStgY8="
+ }
+}

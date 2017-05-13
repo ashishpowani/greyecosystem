@@ -1,0 +1,17 @@
+{
+ "address": "1Gif7PqWTzVWDQ42Mo7np3zXmGAo3DXc7h",
+ "cert_auth_type": "web",
+ "cert_sign": "G+R1CURhwEVQ9WOUwhuPkHSaHNxPW7mFh2E5RJ537yJNL/QrDqdKyw6Sq5qb1D1Z0FKxGsP1cJ/3GXf9Xnjkvds=",
+ "cert_user_id": "antoniope98@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "6546442ef9b4af297725fb0fd6bdebe8f90da2b37842a7cdd71de52fca26ee93",
+   "size": 208
+  }
+ },
+ "inner_path": "data/users/18QMAAxQU7bmyifihfmJowF9UkmT6U6B5V/content.json",
+ "modified": 1472498154.235,
+ "signs": {
+  "18QMAAxQU7bmyifihfmJowF9UkmT6U6B5V": "HN0EZhlekdXw0CJ6Qmi/9QDNXZC1rwXsOEhAKHb3G1zY6n5aLKT22af2T0f/WBWqqv0p/pkweS7VuVYK7RRu8sk="
+ }
+}

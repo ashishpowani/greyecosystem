@@ -1,0 +1,17 @@
+{
+ "address": "1Gif7PqWTzVWDQ42Mo7np3zXmGAo3DXc7h",
+ "cert_auth_type": "web",
+ "cert_sign": "G+UVIiKt7Ca0edR3ADS9GKWVpuTVOYez/XnQ+YKtNOhSpOs0jHFquz1SixGWAov/zgRyQgCCYmyhDAXyjfbM1QI=",
+ "cert_user_id": "toliveahappylife@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "12ed04e757d849163188e20e04ac0f9d179fba1a0e2e764dc86c054e98f7c29f",
+   "size": 559
+  }
+ },
+ "inner_path": "data/users/1GPTHYpYoG1oTAXAN2DN3cwLFUahDiGcFU/content.json",
+ "modified": 1480076339.142,
+ "signs": {
+  "1GPTHYpYoG1oTAXAN2DN3cwLFUahDiGcFU": "HP5kl3SH/8LIsJC28BxpiyZ2p8zyaDez/TaCW547rNK45j9QqwPtc+nHZVyhR2YVTs3sAQfifonrSxrF5xsYg3M="
+ }
+}

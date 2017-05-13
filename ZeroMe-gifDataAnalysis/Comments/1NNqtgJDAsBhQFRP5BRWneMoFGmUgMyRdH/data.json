@@ -1,0 +1,23 @@
+{
+	"next_comment_id": 3,
+	"comment": [
+		{
+			"comment_id": 1,
+			"body": "/dev/null",
+			"post_id": 1561,
+			"date_added": 1478368044
+		},
+		{
+			"comment_id": 2,
+			"body": "Who is that girl?",
+			"post_id": 4198,
+			"date_added": 1479178697
+		}
+	],
+	"comment_vote": {},
+	"post_vote": {
+		"2184": 1,
+		"3827": 1,
+		"4316": 1
+	}
+}

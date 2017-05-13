@@ -1,0 +1,17 @@
+{
+ "address": "1Gif7PqWTzVWDQ42Mo7np3zXmGAo3DXc7h",
+ "cert_auth_type": "web",
+ "cert_sign": "HNapf2JuuDB9+E5f4PqJHgLKAVdethwTWc8MS3w2TkUvkk5cwo56RC2ebAb0uOpf+VUMnd2DIRl4qwhlGy6y9dY=",
+ "cert_user_id": "hitman2@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "24b6478aad267c56cd19983f429db3795717321b17f81883f71a7f99607ff807",
+   "size": 107
+  }
+ },
+ "inner_path": "data/users/1Eu8hHSm3SG3hAgMDfjfnVqQJ9FVnrQMZQ/content.json",
+ "modified": 1461609358.03355,
+ "signs": {
+  "1Eu8hHSm3SG3hAgMDfjfnVqQJ9FVnrQMZQ": "G84g1nXeCA4V4lNkyCZCw/VYRMETfFCdp7wArexfvJvVFmk3zVfQXFs7jK7hHkrcRPrxWjBs3UJackuImuZU9mM="
+ }
+}

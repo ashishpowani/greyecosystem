@@ -1,0 +1,22 @@
+{
+	"next_comment_id": 3,
+	"comment": [
+		{
+			"comment_id": 1,
+			"body": "What is commonly known in the trade as a \"rockstar\" programmer......",
+			"post_id": 3682,
+			"date_added": 1481442051
+		},
+		{
+			"comment_id": 2,
+			"body": "Proving once and for all, you cannot compress a liquid",
+			"post_id": 4705,
+			"date_added": 1481442126
+		}
+	],
+	"comment_vote": {},
+	"topic_vote": {},
+	"post_vote": {
+		"4688": 1
+	}
+}

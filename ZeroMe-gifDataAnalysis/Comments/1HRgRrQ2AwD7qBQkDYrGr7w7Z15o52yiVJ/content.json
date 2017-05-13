@@ -1,0 +1,17 @@
+{
+ "address": "1Gif7PqWTzVWDQ42Mo7np3zXmGAo3DXc7h",
+ "cert_auth_type": "web",
+ "cert_sign": "HHKqB6izQxVT1AF1m9Is7CJb2bzZqglBz6lOT2t9A647M3nM0wnTuVmH1XbjOh+l1uny5/DeCxvAcutankqDVKg=",
+ "cert_user_id": "curtwagner1984@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "045eab12c84e6552ca76ead882ded086f50033418835fac78eedccc3c7c5eba0",
+   "size": 171
+  }
+ },
+ "inner_path": "data/users/1HRgRrQ2AwD7qBQkDYrGr7w7Z15o52yiVJ/content.json",
+ "modified": 1457722542.978,
+ "signs": {
+  "1HRgRrQ2AwD7qBQkDYrGr7w7Z15o52yiVJ": "HIBsQbFNYyKkrMjR+/HBQWGGT2Ied7qpWLMnU0hZ0ftMCYgPinIMKE8LIqVk+DK9pXTdm9mjEc7U7aITzyF2r/I="
+ }
+}

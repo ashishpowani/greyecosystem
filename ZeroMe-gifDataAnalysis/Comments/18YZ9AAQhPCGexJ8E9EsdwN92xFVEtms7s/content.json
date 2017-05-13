@@ -1,0 +1,17 @@
+{
+ "address": "1Gif7PqWTzVWDQ42Mo7np3zXmGAo3DXc7h",
+ "cert_auth_type": "web",
+ "cert_sign": "G5FTpNR6DvDL6gF90gMZDPXbQqUnEfjPQeFUf9B402MHcd7CfU/f6qdP6nZwIQVoRlaeYQJCp8aEjA02ANhY318=",
+ "cert_user_id": "vrsl@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "242e92fa58088914a6f5846010de18d787e89922dfcb267ac2b6d83f93cbd6bf",
+   "size": 120
+  }
+ },
+ "inner_path": "data/users/18YZ9AAQhPCGexJ8E9EsdwN92xFVEtms7s/content.json",
+ "modified": 1473164643.529,
+ "signs": {
+  "18YZ9AAQhPCGexJ8E9EsdwN92xFVEtms7s": "HBYBTSigoLxeaghJGu3H7xoaE46SWq+JaaRUKU2G3SNjZTunjUSVcEbT+7Z8TwSnIaps8P/eRtG9LoJdCPoomvs="
+ }
+}

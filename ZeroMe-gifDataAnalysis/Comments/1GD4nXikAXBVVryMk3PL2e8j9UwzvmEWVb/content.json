@@ -1,0 +1,17 @@
+{
+ "address": "1Gif7PqWTzVWDQ42Mo7np3zXmGAo3DXc7h",
+ "cert_auth_type": "web",
+ "cert_sign": "G9P8Kw/pXN4sYIm1KYBR5OfXYAfGrn//M/F6e1QnJMx4tx329ANKlbcV4iRdR4vu1PRa7wwO7PpAKNf8XngVVuY=",
+ "cert_user_id": "aitorpazos@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "4518cd74aeb67e657086933f03bb3ae59de871d5ffd7404b14655ca725a452ee",
+   "size": 130
+  }
+ },
+ "inner_path": "data/users/1GD4nXikAXBVVryMk3PL2e8j9UwzvmEWVb/content.json",
+ "modified": 1476542689.296743,
+ "signs": {
+  "1GD4nXikAXBVVryMk3PL2e8j9UwzvmEWVb": "Gy4783/QoedKmj3joYHslM+fcAIhi0mT8ZEpEUogZq7o9vgxG+nslxqbhYHm3xE7ZE1VCh2RkrCjpiPr6smjS0g="
+ }
+}

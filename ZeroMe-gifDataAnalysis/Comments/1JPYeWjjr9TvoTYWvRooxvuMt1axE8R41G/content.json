@@ -1,0 +1,17 @@
+{
+ "address": "1Gif7PqWTzVWDQ42Mo7np3zXmGAo3DXc7h",
+ "cert_auth_type": "web",
+ "cert_sign": "G8c4Z7grQwp2XxWaHx1EnBXnYb6JMcLW3+Cxa0S3MC85JFOtHy/HEnntbPeE4cLQU/cVxrhKjeTljZf7EXKOGNU=",
+ "cert_user_id": "alanchen@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "dc140a22eadd072713586e2560b9dda8b5e947d0e164abb3e738ff926372d51f",
+   "size": 94
+  }
+ },
+ "inner_path": "data/users/1JPYeWjjr9TvoTYWvRooxvuMt1axE8R41G/content.json",
+ "modified": 1461222623.235341,
+ "signs": {
+  "1JPYeWjjr9TvoTYWvRooxvuMt1axE8R41G": "Gx9duPZ6YdvTQGOowYxCM5aXFUIuT6UWBzOJOvSghjNQntLoihdU4EQtcDv2OiwRIkxqgvZDwWKHO9oGlCPw6gc="
+ }
+}

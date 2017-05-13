@@ -1,0 +1,17 @@
+{
+ "address": "1Gif7PqWTzVWDQ42Mo7np3zXmGAo3DXc7h",
+ "cert_auth_type": "web",
+ "cert_sign": "HHNklVEn1CDD5ACpV7I3IDUr+IMQoRZt3DcuBc4ydKTl/zyANSRmxWQ0OzXfPwrlbpks22KgAJCCbW0JiVoB8Xo=",
+ "cert_user_id": "rudilee@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "2a6f5039463970f7b67d34584673ba4ae23d60eb52337124e86a8a7909580c8f",
+   "size": 285
+  }
+ },
+ "inner_path": "data/users/1NN1vGdCjA8DcL2zpxmANUCLQTMWrUxM5G/content.json",
+ "modified": 1471589608.584615,
+ "signs": {
+  "1NN1vGdCjA8DcL2zpxmANUCLQTMWrUxM5G": "HIyQRst0b1qNZ6bgXRUHkgx7w5Xj2MsiPoeGvyhYrVeqa/WMURzvI3kl5kgy3oq8tCIESubNeWOZmYM2YSFpjk4="
+ }
+}

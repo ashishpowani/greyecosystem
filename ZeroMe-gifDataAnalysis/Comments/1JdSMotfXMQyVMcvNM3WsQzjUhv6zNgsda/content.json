@@ -1,0 +1,17 @@
+{
+ "address": "1Gif7PqWTzVWDQ42Mo7np3zXmGAo3DXc7h",
+ "cert_auth_type": "web",
+ "cert_sign": "G13RGjRfMMa+jCJN9Me/P1cXgHVbKoSOtGJK2aIq4DPWcXJ9KKi2N3yKGJ6i+197yVQSjYvVTAHxffehSI7wn4M=",
+ "cert_user_id": "boulate@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "e7ad56a43d9c818e7a1d7cf4c5698e909a34e8285cf3f753e7b5768578770c20",
+   "size": 141
+  }
+ },
+ "inner_path": "data/users/1JdSMotfXMQyVMcvNM3WsQzjUhv6zNgsda/content.json",
+ "modified": 1456957099.250903,
+ "signs": {
+  "1JdSMotfXMQyVMcvNM3WsQzjUhv6zNgsda": "Gzj8wokYvsSim5jDfSSDA1Az2EshzFEcy6RLC9djHyVqGddt10DBprtZlsiwChg9tLw8Jn/0Fq50xi6hdjssVxg="
+ }
+}

@@ -1,0 +1,17 @@
+{
+ "address": "1Gif7PqWTzVWDQ42Mo7np3zXmGAo3DXc7h",
+ "cert_auth_type": "web",
+ "cert_sign": "G1OwJ4KUNT+8v4Dru6OfpitzBpw5FKNblVZPGAxQtmExEk18de7Hb92WHky//1egZlJ+FUWPRJIFLGlkRTrCUxs=",
+ "cert_user_id": "lantos@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "48e3844fbbfc62abc8771ccd523f80f570de7353ac3ffb635147f8d02283c57c",
+   "size": 94
+  }
+ },
+ "inner_path": "data/users/15ccKLCqx1AERp57EgCNdD5A7ifkWbK87W/content.json",
+ "modified": 1478550893.988,
+ "signs": {
+  "15ccKLCqx1AERp57EgCNdD5A7ifkWbK87W": "G+8DyjM0qm4NNTFPsHpf0M2cWPUGlG4JbmNhZEl9gMDUwr7Xxs8TLUA5YSUY5WCikRITSKhbHUSQvF3Y4QrmkdI="
+ }
+}

@@ -1,0 +1,23 @@
+{
+	"next_comment_id": 2,
+	"comment": [
+		{
+			"comment_id": 1,
+			"body": "Where is the food moment?...",
+			"post_id": 1135,
+			"date_added": 1457556037
+		}
+	],
+	"comment_vote": {},
+	"post_vote": {
+		"1076": 1,
+		"1064": 1,
+		"1135": 1,
+		"780": 1,
+		"737": 1,
+		"340": 1,
+		"324": 1,
+		"138": 1,
+		"222": 1
+	}
+}

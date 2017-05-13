@@ -1,0 +1,17 @@
+{
+ "address": "1Gif7PqWTzVWDQ42Mo7np3zXmGAo3DXc7h",
+ "cert_auth_type": "web",
+ "cert_sign": "GzCFlzd+xub3o8gqMVIty7gNjKIqvtuD9YdtOSDAXe/5E4wl0PezqkOQSVpliEa1vjV+8rS2vNP/my0UeZDfBZU=",
+ "cert_user_id": "rouflard@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "f0a07ee77e2201da26e7cff05cfe2588024af92db184bcd3c6579371f9833cf9",
+   "size": 107
+  }
+ },
+ "inner_path": "data/users/16LfcZZbUNamCtugjsB8GHL3FVSzJrskLM/content.json",
+ "modified": 1457952390.689,
+ "signs": {
+  "16LfcZZbUNamCtugjsB8GHL3FVSzJrskLM": "HKkVIJYk+kq1qN4E1TZgt55nAx+/5EqZTC6vZK1utAZC3aOmTpw5eveJD/RsvumxKnl25wxy+qortquZfxieah8="
+ }
+}

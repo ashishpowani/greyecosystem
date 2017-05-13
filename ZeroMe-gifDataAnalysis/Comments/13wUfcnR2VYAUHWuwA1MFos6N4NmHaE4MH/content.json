@@ -1,0 +1,17 @@
+{
+ "address": "1Gif7PqWTzVWDQ42Mo7np3zXmGAo3DXc7h",
+ "cert_auth_type": "web",
+ "cert_sign": "G3hy9S2AV2IrUB9wNoUF3ZzweMBxo+vLzVhbvleMxgY1oDXv5NpjGAQlE8bJ2EK7Tj2EhtfkvZNuAwbPf4WLaD8=",
+ "cert_user_id": "patcheco@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "c150389a4b153dfae43fddcc333c91b8393d8eec6a6ad1bf02e3d7c476081545",
+   "size": 181
+  }
+ },
+ "inner_path": "data/users/13wUfcnR2VYAUHWuwA1MFos6N4NmHaE4MH/content.json",
+ "modified": 1457000154.841801,
+ "signs": {
+  "13wUfcnR2VYAUHWuwA1MFos6N4NmHaE4MH": "HBEADJKGKSttX7cpdF1jI9qeY5zrVKkvqu6rc6Ek5+6pK8uykqH8lcf3dUbiYHc8Gi8+GlbCzv6BkGRzwRrd944="
+ }
+}

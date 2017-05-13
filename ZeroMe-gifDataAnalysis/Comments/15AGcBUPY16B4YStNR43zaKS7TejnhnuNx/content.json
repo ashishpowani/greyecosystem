@@ -1,0 +1,17 @@
+{
+ "address": "1Gif7PqWTzVWDQ42Mo7np3zXmGAo3DXc7h",
+ "cert_auth_type": "web",
+ "cert_sign": "HEMruut6/rNbLRmbylUEnxZFrsZ+N5B0B4XhZaFMuDGi0S0IWqSCJe5MzQY+xZFBeyAfm9TFGuEFke+6TDPVGmA=",
+ "cert_user_id": "sinolawyer@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "fb063a187c3d3add569cabdd71fd74953c6424fe0701db014e06586e167d698b",
+   "size": 94
+  }
+ },
+ "inner_path": "data/users/15AGcBUPY16B4YStNR43zaKS7TejnhnuNx/content.json",
+ "modified": 1462626140.643,
+ "signs": {
+  "15AGcBUPY16B4YStNR43zaKS7TejnhnuNx": "HLgjBQCM0b11isllrPTGaN0mniUJ0fjpxoDqmxzbfYfFuqsV0NIXBj5KnyiyTkkDqfvcnT3ccWGO+HqFqQ8ZayU="
+ }
+}

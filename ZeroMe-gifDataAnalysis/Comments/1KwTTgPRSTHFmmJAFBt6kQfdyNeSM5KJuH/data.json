@@ -1,0 +1,31 @@
+{
+	"next_comment_id": 2,
+	"comment": [
+		{
+			"comment_id": 1,
+			"body": "Woah. Thanks for making me aware of these things--I may have a new favorite animal.",
+			"post_id": 1033,
+			"date_added": 1456177887
+		}
+	],
+	"comment_vote": {},
+	"post_vote": {
+		"309": 1,
+		"386": 1,
+		"394": 1,
+		"726": 1,
+		"945": 1,
+		"965": 1,
+		"1033": 1,
+		"1108": 1,
+		"1195": 1,
+		"1316": 1,
+		"1421": 1,
+		"1518": 1,
+		"1565": 1,
+		"1938": 1,
+		"2027": 1,
+		"2110": 1,
+		"2112": 1
+	}
+}

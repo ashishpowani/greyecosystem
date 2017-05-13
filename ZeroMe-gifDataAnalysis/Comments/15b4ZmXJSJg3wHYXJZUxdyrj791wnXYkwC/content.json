@@ -1,0 +1,17 @@
+{
+ "address": "1Gif7PqWTzVWDQ42Mo7np3zXmGAo3DXc7h",
+ "cert_auth_type": "web",
+ "cert_sign": "HF+PlzvOLYAENM2cUJKpMcl9OWIeoh1CsOMvPBLkXJFtUm8oh5en89g8eXPTpEnS3ufhanKSayzDoT8d3S+0FVE=",
+ "cert_user_id": "theo1996@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "fe3a948d871d76e7540300d8f255ed88917d88398c729293caae6800785c35bc",
+   "size": 94
+  }
+ },
+ "inner_path": "data/users/15b4ZmXJSJg3wHYXJZUxdyrj791wnXYkwC/content.json",
+ "modified": 1471208591.795,
+ "signs": {
+  "15b4ZmXJSJg3wHYXJZUxdyrj791wnXYkwC": "HNyAhQly0e8NrA33PREPF9imCb+XOv0VEa4D2O8BpXNQAGbkAhlTyepFPZ6kuDxqovgwcGvFRgTcrqTCUYgEN30="
+ }
+}

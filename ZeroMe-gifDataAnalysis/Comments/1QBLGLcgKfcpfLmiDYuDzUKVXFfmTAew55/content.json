@@ -1,0 +1,15 @@
+{
+ "cert_auth_type": "web", 
+ "cert_sign": "G8m2mqE92uvMKa5oSqabYzyEIG8nQlLZrXEZ+1AyXBjli/PGPnPuqHm5RdSBwfVGQFRjJfT7ROTv7nC42xsHYSA=", 
+ "cert_user_id": "zozon@zeroid.bit", 
+ "files": {
+  "data.json": {
+   "sha512": "d466c7ca1005496d754d7fb57883b25bd1129c14c061f899cc95f1731f35c6f2", 
+   "size": 519
+  }
+ }, 
+ "modified": 1457494403.262669, 
+ "signs": {
+  "1QBLGLcgKfcpfLmiDYuDzUKVXFfmTAew55": "G7mDyfHkn6bggVPU9epI1KHZa8Fh3vyGO0gy0uTnsUdnB63DmBhrd1x7io8twMTpwi8eystkDxFCaIRTL3qQvCg="
+ }
+}

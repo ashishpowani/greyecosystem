@@ -1,0 +1,15 @@
+{
+ "cert_auth_type": "web", 
+ "cert_sign": "HPg0thZFk9BYL3HKYUplE1ku7oDYyOkqdsJ8baa95tdIZEiZvLw7a1R/O1SQFJQR/AFnl81Qu0eyRwIRDyayRnQ=", 
+ "cert_user_id": "notalizard@zeroid.bit", 
+ "files": {
+  "data.json": {
+   "sha512": "116d81736dc0d864cea3f445ec6cd9e2c6d22b16f7a83bbd1a5a9d124e79925d", 
+   "size": 105
+  }
+ }, 
+ "modified": 1450896877.133, 
+ "signs": {
+  "1C2Sn7YWZdyyYBgBvBb1A1wKyKXMvWHvUP": "HGOaDGbep7+kJNojT3cv/+iEBeiMH43UmMeOR7JlHHz/xdjERIn95FHgXd+imHBGz7oXnvYOLz8YebrUCv0rjig="
+ }
+}

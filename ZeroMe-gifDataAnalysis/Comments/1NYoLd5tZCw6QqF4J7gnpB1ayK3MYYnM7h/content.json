@@ -1,0 +1,17 @@
+{
+ "address": "1Gif7PqWTzVWDQ42Mo7np3zXmGAo3DXc7h",
+ "cert_auth_type": "web",
+ "cert_sign": "HKlwPfkNb9UGA2r2gzXvER3W7zrayua+AGt1NXxwFZyJrUtchggz3hns1IX0pAQosjd7xlc/djuur0rtAL8E7JE=",
+ "cert_user_id": "darklingpeggys@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "f383223ace688251830c5bf347a59163271b3c98b4ffac05c26c3f4864bdec31",
+   "size": 146
+  }
+ },
+ "inner_path": "data/users/1NYoLd5tZCw6QqF4J7gnpB1ayK3MYYnM7h/content.json",
+ "modified": 1462106180.21,
+ "signs": {
+  "1NYoLd5tZCw6QqF4J7gnpB1ayK3MYYnM7h": "HHzctxO/wevHJ67tRus/uXvmVI1b5FSlcwsI0ANTcKwuNUfZnhA031sbYi+LKB+wmt95UANKSEwcubhsf9Ijo0g="
+ }
+}

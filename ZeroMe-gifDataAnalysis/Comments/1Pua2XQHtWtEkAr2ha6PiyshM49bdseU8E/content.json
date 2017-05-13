@@ -1,0 +1,17 @@
+{
+ "address": "1Gif7PqWTzVWDQ42Mo7np3zXmGAo3DXc7h",
+ "cert_auth_type": "web",
+ "cert_sign": "GxoJo7VDt+lcDqFu+PUX7gIydEwNKuRni4ZDfHIir8476xk21PMIl1kSebflF7lnR60zC3sbkcbFq4sFbO+J4nY=",
+ "cert_user_id": "neutrino@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "5e4f6882ee4c6af223d5d528c3a9d26335951bb63844a9e0eb23a8cc016bf2dd",
+   "size": 146
+  }
+ },
+ "inner_path": "data/users/1Pua2XQHtWtEkAr2ha6PiyshM49bdseU8E/content.json",
+ "modified": 1480344001.848,
+ "signs": {
+  "1Pua2XQHtWtEkAr2ha6PiyshM49bdseU8E": "G54pSon6JwbJXsHadQQuEvMtfyVVaIoFJdVanKVinNvjbTcMGxWZuzIuVngRw5utoo5/nNb8rXckJlgArvCrsH4="
+ }
+}

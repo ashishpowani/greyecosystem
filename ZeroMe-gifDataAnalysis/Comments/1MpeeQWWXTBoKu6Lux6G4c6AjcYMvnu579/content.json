@@ -1,0 +1,12 @@
+{
+ "address": "1Gif7PqWTzVWDQ42Mo7np3zXmGAo3DXc7h",
+ "cert_auth_type": "web",
+ "cert_sign": "GwtjTBiEU+wCAiFQvhxfw7nvBCEjuNXu283ijAJZP1gBAiJxstyDV54p5Ygj1KS0vGz/0Vr64eDsy4IChMoymxo=",
+ "cert_user_id": "juliengarrigue@zeroid.bit",
+ "files": {},
+ "inner_path": "data/users/1MpeeQWWXTBoKu6Lux6G4c6AjcYMvnu579/content.json",
+ "modified": 1459094079.606,
+ "signs": {
+  "1Gif7PqWTzVWDQ42Mo7np3zXmGAo3DXc7h": "G8YV5UC1XW2zO+/cSjm1yC7O99X+Giwvh+X4wUmAezP+Imiu7rZ1KUJ29XfkpwLc+rZF0tLz+lIxnenw/+F9FqU="
+ }
+}

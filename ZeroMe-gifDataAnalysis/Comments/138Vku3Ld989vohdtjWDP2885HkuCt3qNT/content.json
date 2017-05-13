@@ -1,0 +1,17 @@
+{
+ "address": "1Gif7PqWTzVWDQ42Mo7np3zXmGAo3DXc7h",
+ "cert_auth_type": "web",
+ "cert_sign": "HNTsBPjgGQ84Y+5nV+3Vaeb2Kr3Lbfo0NzrC/WnOsHDvgJ8f2zmfKSEQphctopnGEE3CwtoyP4A+EzZL973kNu8=",
+ "cert_user_id": "nitnitiantour@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "840ebb5fc6bc493a49213eeb8c54fcc329699aa112ea815d1863a5a9ebec372c",
+   "size": 183
+  }
+ },
+ "inner_path": "data/users/138Vku3Ld989vohdtjWDP2885HkuCt3qNT/content.json",
+ "modified": 1460830647.388,
+ "signs": {
+  "138Vku3Ld989vohdtjWDP2885HkuCt3qNT": "G/Afkr6DX+dn/KW1tzJbX37Rgi3tgh8Y9VbPewH7kCp4aP50uZ/LVTFCSJumYU8zKMcS5sU+dLApdnvpj/GAJ98="
+ }
+}

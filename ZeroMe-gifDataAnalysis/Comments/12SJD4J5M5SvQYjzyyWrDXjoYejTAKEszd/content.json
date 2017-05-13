@@ -1,0 +1,17 @@
+{
+ "address": "1Gif7PqWTzVWDQ42Mo7np3zXmGAo3DXc7h",
+ "cert_auth_type": "web",
+ "cert_sign": "HC1ywxLmEpuovbyoHjRUGCUtc+EWEcwwPylbi/3HBd1QhwLKpNRszNwliTi69tTOQVsj8CU76tm2stB1hBPdfog=",
+ "cert_user_id": "wendellalves2016@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "90b42dbf0f0f8d09837ad569d6caaeeaa95fa6541fffe5abd98bab5e91738354",
+   "size": 107
+  }
+ },
+ "inner_path": "data/users/12SJD4J5M5SvQYjzyyWrDXjoYejTAKEszd/content.json",
+ "modified": 1475380258.695,
+ "signs": {
+  "12SJD4J5M5SvQYjzyyWrDXjoYejTAKEszd": "GyUXDGhP6XPs69Gbn3CPLUPA09sSsNC1A32ylt5DTyFVHzJrIz5O/wIinxe5zcBLnSWxPO1VpBrKVPNPz+7dMVA="
+ }
+}

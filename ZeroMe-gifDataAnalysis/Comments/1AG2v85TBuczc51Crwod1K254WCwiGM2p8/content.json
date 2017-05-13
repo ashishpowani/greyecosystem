@@ -1,0 +1,17 @@
+{
+ "address": "1Gif7PqWTzVWDQ42Mo7np3zXmGAo3DXc7h",
+ "cert_auth_type": "web",
+ "cert_sign": "G9e8328D8MzayQR6/iKQB0abkS+m5KVZywJmhcqPDvJT2ZWQDoaSuT2VK9/DW59Ist2nRKJcEWreDKcBm6KU7Aw=",
+ "cert_user_id": "sadkitten@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "acd4386a4cfa38b8951a958b321f52c7467cdb4e0927aee42bc27339cbb44c56",
+   "size": 1225
+  }
+ },
+ "inner_path": "data/users/1AG2v85TBuczc51Crwod1K254WCwiGM2p8/content.json",
+ "modified": 1479081279.7963,
+ "signs": {
+  "1AG2v85TBuczc51Crwod1K254WCwiGM2p8": "HBVs8YAyjYtZMwWAQgyJQcLJEgLSSa7BnaqGMk6MZ3cFlqV5mR459mqU1i/0vdZddLct/ndjWtZuzBcgHsoPf+g="
+ }
+}

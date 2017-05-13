@@ -1,0 +1,17 @@
+{
+ "address": "1Gif7PqWTzVWDQ42Mo7np3zXmGAo3DXc7h",
+ "cert_auth_type": "web",
+ "cert_sign": "GwNkijhqZClGqRWchri/lc/y0Bxs0huZp/vxPMmNz0SmUWoH93LyVu7YsUwDWd0mRrAZGweAsACUQuDeHD+lYHk=",
+ "cert_user_id": "boiledice@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "3220ef2637e0f3f12ed2b17440b9dabcaef9f40df2e171e07b73b5e0bebd316b",
+   "size": 94
+  }
+ },
+ "inner_path": "data/users/1Pj8sm4Nt7EcrgoMcGoNTz4Ywtq6YER8SD/content.json",
+ "modified": 1493416834,
+ "signs": {
+  "1Pj8sm4Nt7EcrgoMcGoNTz4Ywtq6YER8SD": "G8MS2BvnUypkD3OFpLBk/1kfNe1LoxtbN6LCL5gX/XCNe342VEFswUMIgewUi7cVIt56jFFuk0nw/CnshmJwmQI="
+ }
+}

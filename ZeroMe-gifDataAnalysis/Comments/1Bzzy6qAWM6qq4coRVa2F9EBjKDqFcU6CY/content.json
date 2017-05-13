@@ -1,0 +1,17 @@
+{
+ "address": "1Gif7PqWTzVWDQ42Mo7np3zXmGAo3DXc7h",
+ "cert_auth_type": "web",
+ "cert_sign": "HCyBkDC4j4BbqF6zfD9XOwCmMoSmPqXfROYeyCAohxsbsN7Vovl9HJQYZvT1KZR8y1qPxQSstgCTrpgMS2yf8RE=",
+ "cert_user_id": "happypig@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "b2fa3871abcf2ec9755fbb064e3b2bd2b22749c2952aa5d02e312194bf63a1fa",
+   "size": 80
+  }
+ },
+ "inner_path": "data/users/1Bzzy6qAWM6qq4coRVa2F9EBjKDqFcU6CY/content.json",
+ "modified": 1460966905.569,
+ "signs": {
+  "1Bzzy6qAWM6qq4coRVa2F9EBjKDqFcU6CY": "HFvC7LZyHy4+ZmDtoJ7Ox7TSDm2TCcKNx3JKV5DbF44S20/uwCck5zoB83wuEla5O5bjn58LABFXcKneQDOeHWA="
+ }
+}

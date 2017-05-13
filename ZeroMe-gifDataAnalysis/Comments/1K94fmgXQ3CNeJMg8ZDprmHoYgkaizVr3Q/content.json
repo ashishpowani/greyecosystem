@@ -1,0 +1,17 @@
+{
+ "address": "1Gif7PqWTzVWDQ42Mo7np3zXmGAo3DXc7h",
+ "cert_auth_type": "web",
+ "cert_sign": "HK1lHOrDN/tdr4N7IMQEsyCTL0bOeWJ+nFoIi19xTFklbcN437/USwFF+6hMskKuEXIOH68ouXjuYt8dpkofUag=",
+ "cert_user_id": "walkjango@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "5635b8a435c0bfc8727dadb9ac3ca0aaddc400fc320d311600f69a37a7d7585f",
+   "size": 595
+  }
+ },
+ "inner_path": "data/users/1K94fmgXQ3CNeJMg8ZDprmHoYgkaizVr3Q/content.json",
+ "modified": 1464891329.278,
+ "signs": {
+  "1K94fmgXQ3CNeJMg8ZDprmHoYgkaizVr3Q": "G1nJdMDOpfOTAc4pXDFhhBv2qyCCrz+jI0JWgwB1Y9kuinhSE55ToWz919f9La+n0YEFGlfa73p/n1XoRmcO1WU="
+ }
+}

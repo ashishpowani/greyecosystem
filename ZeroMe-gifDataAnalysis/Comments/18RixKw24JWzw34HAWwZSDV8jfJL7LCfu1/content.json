@@ -1,0 +1,17 @@
+{
+ "address": "1Gif7PqWTzVWDQ42Mo7np3zXmGAo3DXc7h",
+ "cert_auth_type": "web",
+ "cert_sign": "HEcTUdAiSclmnqwZ7FCOd2tBoZZkcAQ7SxM/Td44hl+qLVvAa+yfOyq3MjpgsPXAR38mn6TIDtiozuAeNXsKqYw=",
+ "cert_user_id": "lpwaterhouse@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "d90ce8762ed3397642f9c91cdbac56c3273d092b2114bc145651962635366737",
+   "size": 120
+  }
+ },
+ "inner_path": "data/users/18RixKw24JWzw34HAWwZSDV8jfJL7LCfu1/content.json",
+ "modified": 1458747988.430658,
+ "signs": {
+  "18RixKw24JWzw34HAWwZSDV8jfJL7LCfu1": "G3dcX1kIOs/aNnSRHBVgC5Ip0osZASDAjNpy9brd2rTKwYgDs88xVwg8OE/0mjx6sAujECN/G7vRFaL8Dfml6nw="
+ }
+}

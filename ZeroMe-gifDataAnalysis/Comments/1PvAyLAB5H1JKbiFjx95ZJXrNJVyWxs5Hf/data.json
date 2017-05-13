@@ -1,0 +1,51 @@
+{
+	"next_comment_id": 4,
+	"comment": [
+		{
+			"comment_id": 1,
+			"body": "All managers are the same!",
+			"post_id": 945,
+			"date_added": 1454537769
+		},
+		{
+			"comment_id": 2,
+			"body": "This one is funny too: http://s01.yapfiles.ru/files/1102803/bbdcb12db3d5e2d29578d839e72.gif",
+			"post_id": 945,
+			"date_added": 1455618042
+		},
+		{
+			"comment_id": 3,
+			"body": "This is definitly Russia!)",
+			"post_id": 3,
+			"date_added": 1455618212
+		}
+	],
+	"comment_vote": {},
+	"post_vote": {
+		"3": 1,
+		"654": 1,
+		"927": 1,
+		"929": 1,
+		"938": 1,
+		"941": 1,
+		"945": 1,
+		"951": 1,
+		"962": 1,
+		"977": 1,
+		"982": 1,
+		"1022": 1,
+		"1024": 1,
+		"1025": 1,
+		"1041": 1,
+		"1059": 1,
+		"1064": 1,
+		"1065": 1,
+		"1067": 1,
+		"1068": 1,
+		"1069": 1,
+		"1077": 1,
+		"1078": 1,
+		"1135": 1,
+		"1769": 1
+	}
+}

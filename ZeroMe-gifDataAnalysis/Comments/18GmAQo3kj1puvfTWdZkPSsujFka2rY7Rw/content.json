@@ -1,0 +1,17 @@
+{
+ "address": "1Gif7PqWTzVWDQ42Mo7np3zXmGAo3DXc7h",
+ "cert_auth_type": "web",
+ "cert_sign": "Gwhx+4RM0z+y5wQVBBmONwh7B1XzZuw3Kg5kRgcxiScA2LwBE7MZwbbS/de0szhdDw4B1yR27LuOgW0OYZH5EtI=",
+ "cert_user_id": "netoearth@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "c5f379e419f2880f7d19e8ec9dab13488de3e0639e5d2dcbb51ffe3c55522c20",
+   "size": 94
+  }
+ },
+ "inner_path": "data/users/18GmAQo3kj1puvfTWdZkPSsujFka2rY7Rw/content.json",
+ "modified": 1490527704,
+ "signs": {
+  "18GmAQo3kj1puvfTWdZkPSsujFka2rY7Rw": "HHIfVM5fxOSDVW6jR/8oJ0xzTsjMPsZfcuAbe1W0uLl5SCNXs2/5RSWkC7VJ3eqS0snfm5uWiiuGBdiem3WCXUA="
+ }
+}

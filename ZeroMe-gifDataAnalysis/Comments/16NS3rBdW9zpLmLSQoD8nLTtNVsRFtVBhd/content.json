@@ -1,0 +1,17 @@
+{
+ "address": "1Gif7PqWTzVWDQ42Mo7np3zXmGAo3DXc7h",
+ "cert_auth_type": "web",
+ "cert_sign": "G1B8HkZ3weEJXttc6X4D/P3Tyb7/K9U3v1yG7AXwydLRV67I+lK37SdJ/5/rE7nEwm6fmcHJYtuS5wNvHp/4UjM=",
+ "cert_user_id": "styromaniac@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "1cbe5564f22284b1538b63de973f10bafdbe7bacd4ac1b577842be502fceb67b",
+   "size": 94
+  }
+ },
+ "inner_path": "data/users/16NS3rBdW9zpLmLSQoD8nLTtNVsRFtVBhd/content.json",
+ "modified": 1487534354,
+ "signs": {
+  "16NS3rBdW9zpLmLSQoD8nLTtNVsRFtVBhd": "HJZuPq3d0T8Tw+3Z0ZOe20jjDdpq2hPwFNiI9w9m1lxToh/OdWEJa5sNGpXCSGaDJ5x05NbQRQ+IypicXc9ig3c="
+ }
+}

@@ -1,0 +1,17 @@
+{
+ "address": "1Gif7PqWTzVWDQ42Mo7np3zXmGAo3DXc7h",
+ "cert_auth_type": "web",
+ "cert_sign": "G1K1RK3WxHaQMeVek3hEmLfm4pSwbubaACRjR85YFASI8W9GU3kI2O2HWzliV/24pLfAE9OURzIstJ2ITUukHuM=",
+ "cert_user_id": "inothere@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "f0de7b556109433a5ba93ea0a3104173692b150b793b94e72e68bd53eba50dbb",
+   "size": 94
+  }
+ },
+ "inner_path": "data/users/1LqwFhEsSRQmxctkifTrTFx7TJrWBEAa1h/content.json",
+ "modified": 1483988619,
+ "signs": {
+  "1LqwFhEsSRQmxctkifTrTFx7TJrWBEAa1h": "HNln6w2gwKCsedoBmjlRClqkieVG+sLr/oTi2Mq4W+nxrzPwrBvrHOivDwVekGEY4/vOoBF+12AxeMknD1/JRgI="
+ }
+}

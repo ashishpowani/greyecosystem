@@ -1,0 +1,24 @@
+{
+	"next_comment_id": 3,
+	"comment": [
+		{
+			"comment_id": 1,
+			"body": "Pain in the ass you know.\n",
+			"post_id": 1096,
+			"date_added": 1456986348
+		},
+		{
+			"comment_id": 2,
+			"body": "so accurate\n",
+			"post_id": 1118,
+			"date_added": 1456986371
+		}
+	],
+	"comment_vote": {},
+	"post_vote": {
+		"1096": 1,
+		"1116": 1,
+		"1117": 1,
+		"1118": 1
+	}
+}

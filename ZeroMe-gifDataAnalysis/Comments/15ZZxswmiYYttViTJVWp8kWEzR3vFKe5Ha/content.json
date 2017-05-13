@@ -1,0 +1,17 @@
+{
+ "address": "1Gif7PqWTzVWDQ42Mo7np3zXmGAo3DXc7h",
+ "cert_auth_type": "web",
+ "cert_sign": "GyKExmRUQNhxQEFQOzaV6Lw1ApPvkj9WorlVPJfuKiyWLWATPxiXw8DGOYBG4YqcYmwv7YS7mPqsD4E7zgBY5Iw=",
+ "cert_user_id": "cestbon@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "bcb036dcec022efb9de900b470f4fe4626d538afbbc3b420f2075363c62d88e3",
+   "size": 133
+  }
+ },
+ "inner_path": "data/users/15ZZxswmiYYttViTJVWp8kWEzR3vFKe5Ha/content.json",
+ "modified": 1478404933.371,
+ "signs": {
+  "15ZZxswmiYYttViTJVWp8kWEzR3vFKe5Ha": "HKPN/tYLwHYApj1H6tvVuVA3VYUcF7AoMf8alnkAyNUgOtWnqHem/3JSop66WAQVsY5v/DEkZZLpewd8FhxxP20="
+ }
+}

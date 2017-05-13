@@ -1,0 +1,17 @@
+{
+ "address": "1Gif7PqWTzVWDQ42Mo7np3zXmGAo3DXc7h",
+ "cert_auth_type": "web",
+ "cert_sign": "GziUyTNWLhRGLKCsabn0lUwZ260uCuum3bYke72VEMBenK7/Gs4D0b5q6LX0cnf+FfxDr+mMTVmUewhDjfEP7qY=",
+ "cert_user_id": "accountdiprova@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "1363a039ff85b65888d6d6ec0f5048db296ebecce4eb3495aa12adeaafb5ad5c",
+   "size": 231
+  }
+ },
+ "inner_path": "data/users/13CcdcqfnnvzpmgBSB2awhDAEJBKqvaeSR/content.json",
+ "modified": 1475147967.928008,
+ "signs": {
+  "13CcdcqfnnvzpmgBSB2awhDAEJBKqvaeSR": "G22spCcjwq8NygO0DMyazDpGzTVqVgTLIfBvt3by4TFtXAQJFEWIfScQkPeqdC5mR/EXjWi9zxOtDbc5FBtzdIQ="
+ }
+}

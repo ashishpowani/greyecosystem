@@ -1,0 +1,17 @@
+{
+ "address": "1Gif7PqWTzVWDQ42Mo7np3zXmGAo3DXc7h",
+ "cert_auth_type": "web",
+ "cert_sign": "G1G+HILJLzfOcbDnrz/bwpRoepbBsMw/fHW+MKRcytDBI0hbMfkiuG50r9/XLtV5+PQ5cFc1fToBf2OENvDQCg8=",
+ "cert_user_id": "pandragrav@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "9dc08927daa3ecd7efd61ad5c145bb9019b610e8b273190752af08fca0105fb6",
+   "size": 198
+  }
+ },
+ "inner_path": "data/users/12SdYUhhLLJPVZREvn7i7euSyTTjHGp4mR/content.json",
+ "modified": 1483736220.17,
+ "signs": {
+  "12SdYUhhLLJPVZREvn7i7euSyTTjHGp4mR": "HLmStCTkHWqQLmQEudxpZ7wuMjKVaIx6lmHReSCQt/mk5w0Tx9NH8/AwZlJo8JhG81DOo38LZZiK6sUnWPxLoGg="
+ }
+}

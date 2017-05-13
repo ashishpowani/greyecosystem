@@ -1,0 +1,17 @@
+{
+ "address": "1Gif7PqWTzVWDQ42Mo7np3zXmGAo3DXc7h",
+ "cert_auth_type": "web",
+ "cert_sign": "HPW0IYanj01mZx+c1FfOUlMN/juMQI7oFdC/I41rMCrTuAGu26+/7j3YSjSC3lWZAX+mn2dK/VnWdVucQzvtM0k=",
+ "cert_user_id": "kerplunk@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "4f626f3dadb6d8ebecc7ba0b4880b03eb88744d925aaa56664801d20979ae159",
+   "size": 107
+  }
+ },
+ "inner_path": "data/users/1Cd6YU6ZULFqqLGymDqemcUbxfUJq1YMDA/content.json",
+ "modified": 1457067017.261,
+ "signs": {
+  "1Cd6YU6ZULFqqLGymDqemcUbxfUJq1YMDA": "G8Cx6kO8smAS9rSXE1zSU2M7RD2OPXd6gr0+ZNMokCZEtohWPZZ+jXn+XLqtbaLJZXC/P8CbUY1+Mi91N7yHJPk="
+ }
+}

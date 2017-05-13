@@ -1,0 +1,77 @@
+{
+	"next_comment_id": 6,
+	"comment": [
+		{
+			"comment_id": 1,
+			"body": "Este gif é muito maneiro. Desculpe meu entusiasmo, é que eu estou muito empolgado com esta tal ZeroNet, tem potencial esta belezinha.",
+			"post_id": 3752,
+			"date_added": 1476509851
+		},
+		{
+			"comment_id": 2,
+			"body": "Really cool, man.",
+			"post_id": 3752,
+			"date_added": 1476509865
+		},
+		{
+			"comment_id": 3,
+			"body": "Well done, little dog...",
+			"post_id": 3962,
+			"date_added": 1476510622
+		},
+		{
+			"comment_id": 4,
+			"body": "first i was like \"WTF?\" but then i just: ooooohh, i get it.",
+			"post_id": 3961,
+			"date_added": 1476510760
+		},
+		{
+			"comment_id": 5,
+			"body": "Classic.",
+			"post_id": 3944,
+			"date_added": 1476510951
+		}
+	],
+	"comment_vote": {},
+	"post_vote": {
+		"2905": 1,
+		"2927": 1,
+		"2967": 1,
+		"2980": 1,
+		"3238": 1,
+		"3260": 1,
+		"3272": 1,
+		"3311": 1,
+		"3320": 1,
+		"3670": 1,
+		"3682": 1,
+		"3739": 1,
+		"3752": 1,
+		"3772": 1,
+		"3811": 1,
+		"3827": 1,
+		"3909": 1,
+		"3910": 1,
+		"3912": 1,
+		"3914": 1,
+		"3916": 1,
+		"3918": 1,
+		"3919": 1,
+		"3923": 1,
+		"3925": 1,
+		"3927": 1,
+		"3931": 1,
+		"3936": 1,
+		"3942": 1,
+		"3944": 1,
+		"3947": 1,
+		"3956": 1,
+		"3961": 1,
+		"3962": 1,
+		"3964": 1,
+		"3966": 1,
+		"3968": 1,
+		"3969": 1,
+		"3970": 1
+	}
+}

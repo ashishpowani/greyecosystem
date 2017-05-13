@@ -1,0 +1,15 @@
+{
+ "cert_auth_type": "web", 
+ "cert_sign": "HLdVuaiVqXCGH3Bo77EEWFnhW9cGvgq+gL0QHD0aIGpRQhyZBJ1YlejdOr4Yh0RtVT2wBQCu8iDtjuLNHnlQSYo=", 
+ "cert_user_id": "axlcrypto@zeroid.bit", 
+ "files": {
+  "data.json": {
+   "sha512": "af6bdd2ceff3e3d76508e44407f893cfffe5152e9d817fc149871bf55a9eb4c1", 
+   "size": 93
+  }
+ }, 
+ "modified": 1447259140.614, 
+ "signs": {
+  "14AcSRzpeDZwqwBqUtKLgTakKKqRheBFCs": "HLns9tS0LN6QidVyHmJcQ+lbh5c7QKMCKC0qKOpP4GUKIEG7PRsveLVe7hernBbXObifZU8lY9oyVI/JOrQNGdE="
+ }
+}

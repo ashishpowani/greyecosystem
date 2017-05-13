@@ -1,0 +1,19 @@
+{
+	"next_comment_id": 2,
+	"comment": [
+		{
+			"comment_id": 1,
+			"body": "this is amazing",
+			"post_id": 2620,
+			"date_added": 1473947069
+		}
+	],
+	"comment_vote": {},
+	"post_vote": {
+		"2893": 1,
+		"3272": 1,
+		"3588": 1,
+		"3597": 1,
+		"3599": 1
+	}
+}

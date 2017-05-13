@@ -1,0 +1,41 @@
+{
+	"next_comment_id": 4,
+	"comment": [
+		{
+			"comment_id": 1,
+			"body": "＼（＾▽＾）／",
+			"post_id": 386,
+			"date_added": 1447032139
+		},
+		{
+			"comment_id": 2,
+			"body": "haha i can not stop!",
+			"post_id": 166,
+			"date_added": 1447212741
+		},
+		{
+			"comment_id": 3,
+			"body": "which tech is it?",
+			"post_id": 491,
+			"date_added": 1450345489
+		}
+	],
+	"comment_vote": {},
+	"topic_vote": {},
+	"post_vote": {
+		"117": 1,
+		"118": 1,
+		"119": 1,
+		"121": 1,
+		"124": 1,
+		"125": 1,
+		"126": 1,
+		"135": 1,
+		"138": 1,
+		"166": 1,
+		"199": 1,
+		"201": 1,
+		"204": 1,
+		"236": 1
+	}
+}

@@ -1,0 +1,17 @@
+{
+ "address": "1Gif7PqWTzVWDQ42Mo7np3zXmGAo3DXc7h",
+ "cert_auth_type": "web",
+ "cert_sign": "G8ieeqpbFr+UAJc2sUOeLzyZA1LJJzBm5PBZBQq7Snw2h8RpYPxCr/Q2ZE+T+kZhQO0zFJE8NGpMYg4YRG5vv3M=",
+ "cert_user_id": "zaklaus@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "53f88ff2345d1841946173d03863dccb23cf75301d92b4c6d12cf764188693c1",
+   "size": 331
+  }
+ },
+ "inner_path": "data/users/1AaaWfs5KUCdWsz89RCU5HPyLVScZ86T3Q/content.json",
+ "modified": 1467727810.83,
+ "signs": {
+  "1AaaWfs5KUCdWsz89RCU5HPyLVScZ86T3Q": "G21h4F1jNmokYuYNjPHIq11ts5TsnzlOPD6HadBibjO8xVJr+1pTmaCMYdJYLQpYK0xN2xqZLOTUxPiY7lEwdk0="
+ }
+}

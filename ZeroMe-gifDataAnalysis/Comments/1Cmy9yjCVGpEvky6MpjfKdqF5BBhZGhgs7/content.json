@@ -1,0 +1,17 @@
+{
+ "address": "1Gif7PqWTzVWDQ42Mo7np3zXmGAo3DXc7h",
+ "cert_auth_type": "web",
+ "cert_sign": "HOfSmXlIG1CBSJQm08fW5QY1tmBNlvC5JwOLtkgiTokZF6PxcVJMio6ruUm40oEtywxYIcaUYBt1IQyMJM/2B5U=",
+ "cert_user_id": "prostitutki@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "9f83201b2b5c45dc071f683806f9b7db45bfdcde31ccc876eedc88658ca0d0eb",
+   "size": 94
+  }
+ },
+ "inner_path": "data/users/1Cmy9yjCVGpEvky6MpjfKdqF5BBhZGhgs7/content.json",
+ "modified": 1458465483.895,
+ "signs": {
+  "1Cmy9yjCVGpEvky6MpjfKdqF5BBhZGhgs7": "HO6DmL56iL4/j7JyjYOvYLjHrTW3wtSUYeV5T9bPhkufnU3JS3Xzzzc0j08j7aJvzBH0OAGuUPy0ylOaLpOvtPY="
+ }
+}

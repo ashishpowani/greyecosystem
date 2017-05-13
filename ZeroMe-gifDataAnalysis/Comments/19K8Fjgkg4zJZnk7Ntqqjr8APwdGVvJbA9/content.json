@@ -1,0 +1,17 @@
+{
+ "address": "1Gif7PqWTzVWDQ42Mo7np3zXmGAo3DXc7h",
+ "cert_auth_type": "web",
+ "cert_sign": "HCmaN0i/T00eZSl+fKtkrOVwnFmaAfng3JEhiVuhP8rkRatq1T0dzD+bk4e5TMDZPqZhysJc5rTHD0hlaaoInzw=",
+ "cert_user_id": "subliminalbanter@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "ed83ed51f21e57be5fa7fcb01364da802432689ea0aac4c3e69486af713ff0a3",
+   "size": 107
+  }
+ },
+ "inner_path": "data/users/19K8Fjgkg4zJZnk7Ntqqjr8APwdGVvJbA9/content.json",
+ "modified": 1470590672.104,
+ "signs": {
+  "19K8Fjgkg4zJZnk7Ntqqjr8APwdGVvJbA9": "G1V8oVIDsBoVyO6XU1mIAVp1fCrS2NlpNVrKXTMTOqXJDdh7xw5C1fchkVrrPrGfQIpfEsR9TUBtMVEiPgTp6qw="
+ }
+}

@@ -1,0 +1,17 @@
+{
+ "address": "1Gif7PqWTzVWDQ42Mo7np3zXmGAo3DXc7h",
+ "cert_auth_type": "web",
+ "cert_sign": "G1V4TxVJomNC+AgBP67Won7O0j6N8WejWQEz0pbnUgP4V7Es14CqhWI4O4fq7bAgqf+MnbwLs3NM0TokcGeqZLM=",
+ "cert_user_id": "dunayus@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "cbab18a40555cebc38aa86dc1948df6f5cc2750cdc63c5db508d540c54db98dc",
+   "size": 119
+  }
+ },
+ "inner_path": "data/users/17Dn4mgmVub2KkwyBYEj2R9viHtcyZrx3b/content.json",
+ "modified": 1457180384.341,
+ "signs": {
+  "17Dn4mgmVub2KkwyBYEj2R9viHtcyZrx3b": "HBC2/sV2V5AlbmqoNL+ePoPa8lVJDM5bc0tsq1x8T3HRLPk/iheNzUN/fLLTmGtRU88L3bbdo9rL194Cc95ksVM="
+ }
+}

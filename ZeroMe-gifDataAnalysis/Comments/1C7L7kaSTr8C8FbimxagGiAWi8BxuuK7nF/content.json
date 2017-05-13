@@ -1,0 +1,17 @@
+{
+ "address": "1Gif7PqWTzVWDQ42Mo7np3zXmGAo3DXc7h",
+ "cert_auth_type": "web",
+ "cert_sign": "HFEtpfnAgmBBqIrsuasw5p1eXl53KpqfPUbX9i1NfOhA/2ETLBM4PaUkdJbqFFLFCZWvClfL9ssnPJdTbCZTOZM=",
+ "cert_user_id": "atefnouri@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "08189571b3172d5bacade1f394557161eedd6d72e10aa914ab5c9e000813b330",
+   "size": 106
+  }
+ },
+ "inner_path": "data/users/1C7L7kaSTr8C8FbimxagGiAWi8BxuuK7nF/content.json",
+ "modified": 1459717402.17,
+ "signs": {
+  "1C7L7kaSTr8C8FbimxagGiAWi8BxuuK7nF": "G0QYvbiVw9OBDBRo4XLTQipPSqNYErG1Hl5nvaV8bZcGcF6dMeVPv/HyGqSN3lEw7Re7usGwcA82NFe4f0Zx5U8="
+ }
+}

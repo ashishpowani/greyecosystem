@@ -1,0 +1,17 @@
+{
+ "address": "1Gif7PqWTzVWDQ42Mo7np3zXmGAo3DXc7h",
+ "cert_auth_type": "web",
+ "cert_sign": "HD3A+osiivyFKEB1oYsj+xuxNGL1TXLnsUHFkXtfIludfsa6oX+RdQBTQh1AEtaSKdCiIcrqz3Z+Gsj4iYP0cRI=",
+ "cert_user_id": "tudosobretodos@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "74d6e0b121b1473ff1444b9f73cae1ed0ad6dedb6b8131d05115f196de490a64",
+   "size": 2518
+  }
+ },
+ "inner_path": "data/users/1CmQtSWf8zQtufk4VRFCsonHPU3sPGuXRa/content.json",
+ "modified": 1492025651,
+ "signs": {
+  "1CmQtSWf8zQtufk4VRFCsonHPU3sPGuXRa": "HNNMeiPBqadjqfcBTSSQ49pnb/znRIQ4MyH3tbl1qPuTDrPUDMItFAx/zECtv5xRD1zQKpNdp4F85UjkGOSJesE="
+ }
+}

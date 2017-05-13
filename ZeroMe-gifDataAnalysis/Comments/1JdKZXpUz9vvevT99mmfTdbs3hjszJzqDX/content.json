@@ -1,0 +1,15 @@
+{
+ "cert_auth_type": "web",
+ "cert_sign": "HK1zui6fnDQs3nxykIBREGpYtt7tkWv0QZOoRvrg5YdXqQVjTeqjcgqNj261hu2NqCYDqeWkkvMmNm3aBLtt1jY=",
+ "cert_user_id": "vethit@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "b983dc747541ababd0429792c0992c1a2b841d8003f7ea1b59031a125741e4b5",
+   "size": 129
+  }
+ },
+ "modified": 1455717443.85,
+ "signs": {
+  "1JdKZXpUz9vvevT99mmfTdbs3hjszJzqDX": "HBkunl6756MZ6PFf9t/qoxfGG6MXzqm4mSjSriOnSyBQQuStRR/dv16gEUwRNccxmfs4gguLcAnDmgewKURag5Y="
+ }
+}

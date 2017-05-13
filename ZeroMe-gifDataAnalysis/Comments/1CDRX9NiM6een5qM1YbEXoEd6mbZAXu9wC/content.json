@@ -1,0 +1,17 @@
+{
+ "address": "1Gif7PqWTzVWDQ42Mo7np3zXmGAo3DXc7h",
+ "cert_auth_type": "web",
+ "cert_sign": "HHfVucg/IfJvYmUMLgpVZkQa1uWEr6T3UwzKj2LqXogQNUlixziZVpA1Rn7NtgmhauCRZt5Cs1L/RpHxGh8FdMg=",
+ "cert_user_id": "tabitah@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "0c888fd17f17564de9af79bbb5eff5e90b1e7a43414ba077ac51f0fc92512d55",
+   "size": 107
+  }
+ },
+ "inner_path": "data/users/1CDRX9NiM6een5qM1YbEXoEd6mbZAXu9wC/content.json",
+ "modified": 1482746746.322,
+ "signs": {
+  "1CDRX9NiM6een5qM1YbEXoEd6mbZAXu9wC": "Gw0q6B/+fnuwjFEXViRRvKqpCF6g2+Abs1W/4LPwPOHWSmOdr9i0VUqW4Acun641hU4EsV19OEFcmH7A84tSbi8="
+ }
+}

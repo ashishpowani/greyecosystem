@@ -1,0 +1,17 @@
+{
+ "address": "1Gif7PqWTzVWDQ42Mo7np3zXmGAo3DXc7h",
+ "cert_auth_type": "web",
+ "cert_sign": "G/f1Pxe46lFwB76RSfNlUHibZjU1cPAM5WWCYi3CYEPFObJzUwIwOcpcT9lGJTeBHXshQBOun6+xpdcCzkV4L1g=",
+ "cert_user_id": "voland@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "82dffe1729bf972d81e2e098e06f230a4e3877147f0452db34aacafa28c7b544",
+   "size": 107
+  }
+ },
+ "inner_path": "data/users/1ED5kEHUideKw92Ncess5yJmP4T2J5Aeqn/content.json",
+ "modified": 1480716146.264877,
+ "signs": {
+  "1ED5kEHUideKw92Ncess5yJmP4T2J5Aeqn": "G6N6lE6IE9j9qrY8WaGpyL/r6sHRFvhBWmCqh+ax1LtIT6ScxGy7a3whc8EaH47JVELhT1bMbyK8qLTt4C9Qhy8="
+ }
+}

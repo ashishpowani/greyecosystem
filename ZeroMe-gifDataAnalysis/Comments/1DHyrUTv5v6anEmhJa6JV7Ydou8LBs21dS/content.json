@@ -1,0 +1,17 @@
+{
+ "address": "1Gif7PqWTzVWDQ42Mo7np3zXmGAo3DXc7h",
+ "cert_auth_type": "web",
+ "cert_sign": "HEmXEg0yCWosobqPh2pxTo5bPwRG//h6LwxAzYY8cQFdlCQyGQGg7sjozaH3RQjbFEDLwG+OFD4lJ6w0D7cPAng=",
+ "cert_user_id": "bhaveshpatel640@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "4d58d09e925f0315e745e416fe69d95d12c594a15d1f6d5af51b2a0d7acb5393",
+   "size": 327
+  }
+ },
+ "inner_path": "data/users/1DHyrUTv5v6anEmhJa6JV7Ydou8LBs21dS/content.json",
+ "modified": 1476987734.427623,
+ "signs": {
+  "1DHyrUTv5v6anEmhJa6JV7Ydou8LBs21dS": "G/ngk3zHdl/WhHLun2ekjgwOECPKG/vH7hQOX93YPVoWkaThVxNaN89pa6EM2JCF3oOCxx3iipmFkOcXMAQFauQ="
+ }
+}

@@ -1,0 +1,35 @@
+{
+	"next_comment_id": 4,
+	"comment": [
+		{
+			"comment_id": 1,
+			"body": "That's so horrible but I laughed anyways",
+			"post_id": 1055,
+			"date_added": 1456039156
+		},
+		{
+			"comment_id": 2,
+			"body": "Dis beautiful",
+			"post_id": 1065,
+			"date_added": 1456196533
+		},
+		{
+			"comment_id": 3,
+			"body": "Dis beautiful too. If only our bathrooms had windows.",
+			"post_id": 1068,
+			"date_added": 1456196570
+		}
+	],
+	"comment_vote": {},
+	"post_vote": {
+		"394": 1,
+		"411": 1,
+		"711": 1,
+		"770": 1,
+		"997": 1,
+		"1056": 1,
+		"1067": 1,
+		"1065": 1,
+		"1068": 1
+	}
+}

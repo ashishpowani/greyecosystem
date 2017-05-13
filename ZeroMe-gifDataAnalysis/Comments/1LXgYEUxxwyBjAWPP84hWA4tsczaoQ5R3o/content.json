@@ -1,0 +1,17 @@
+{
+ "address": "1Gif7PqWTzVWDQ42Mo7np3zXmGAo3DXc7h",
+ "cert_auth_type": "web",
+ "cert_sign": "HAAsOUc+lRkd+5LLgTtPudOljpmRpVQtUC64H0dA+ZNzFVJnL7EbA1M4CifR+P+vz/9gW8Ba7JYdlC5HGtts3Dw=",
+ "cert_user_id": "slackerjack@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "a9fb55ac6f473a53d2e4bd2d997913b453162ad48b9c3d576739431b6ca63a13",
+   "size": 129
+  }
+ },
+ "inner_path": "data/users/1LXgYEUxxwyBjAWPP84hWA4tsczaoQ5R3o/content.json",
+ "modified": 1457593674.655,
+ "signs": {
+  "1LXgYEUxxwyBjAWPP84hWA4tsczaoQ5R3o": "G6Ofi77vy/3FtqW75tjNDkB6ZdWRgB0QFoRLuVCIU4cBewJ/R7gEVebClL9g52el9YayGuB0FEsF4wj0eS91nGo="
+ }
+}

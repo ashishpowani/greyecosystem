@@ -1,0 +1,21 @@
+{
+	"next_comment_id": 3,
+	"comment": [
+		{
+			"comment_id": 1,
+			"body": "This is so cringy to watch",
+			"post_id": 402,
+			"date_added": 1469116260
+		},
+		{
+			"comment_id": 2,
+			"body": "> [zeher1zeheris](#comment_1_12iFrgA5oxg57z6ebZcbmadF29DSMHBtHe): literally rofl\n\nmaybe rdsl (rolling downstairs laughing)",
+			"post_id": 2648,
+			"date_added": 1469116324
+		}
+	],
+	"comment_vote": {},
+	"post_vote": {
+		"1359": 1
+	}
+}

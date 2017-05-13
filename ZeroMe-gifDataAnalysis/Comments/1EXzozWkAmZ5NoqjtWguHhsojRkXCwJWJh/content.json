@@ -1,0 +1,17 @@
+{
+ "address": "1Gif7PqWTzVWDQ42Mo7np3zXmGAo3DXc7h",
+ "cert_auth_type": "web",
+ "cert_sign": "G0O2kyXPbZlF8I8sqHh5XWLkbbli3Nw03Du3G4KbiflA6t01T4TxalIhKmm0MZ8TmxEBJuVv/JPw1ck+TUlWtgc=",
+ "cert_user_id": "amithon@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "b1bf8deec77eba5ce858037875576c16d3bb45eef993ed32ab0702a2956cc0b2",
+   "size": 94
+  }
+ },
+ "inner_path": "data/users/1EXzozWkAmZ5NoqjtWguHhsojRkXCwJWJh/content.json",
+ "modified": 1473199977.111,
+ "signs": {
+  "1EXzozWkAmZ5NoqjtWguHhsojRkXCwJWJh": "HBrC1RE1HhQhrLOB0ZAP9ABsSSs8jqrd+znIbV06xg07vx747ylQSCuJQ66EtrN6wViGnMSS1HxgPlqnrel95Yg="
+ }
+}

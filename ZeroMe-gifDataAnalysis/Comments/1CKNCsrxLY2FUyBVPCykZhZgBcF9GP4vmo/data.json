@@ -1,0 +1,19 @@
+{
+	"next_comment_id": 2,
+	"comment": [
+		{
+			"comment_id": 1,
+			"body": "what a great idea... I'm going to be trying this on out for sure!",
+			"post_id": 1131,
+			"date_added": 1457744468
+		}
+	],
+	"comment_vote": {},
+	"topic_vote": {},
+	"post_vote": {
+		"1061": 1,
+		"1106": 1,
+		"1115": 1,
+		"1131": 1
+	}
+}

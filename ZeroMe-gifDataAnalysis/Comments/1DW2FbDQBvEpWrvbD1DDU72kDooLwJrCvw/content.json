@@ -1,0 +1,17 @@
+{
+ "address": "1Gif7PqWTzVWDQ42Mo7np3zXmGAo3DXc7h",
+ "cert_auth_type": "web",
+ "cert_sign": "HKbDwbKf7PzILWnznstwPpRL5n8Hf3QX3N3sakNrqrkEjlyBaEi1aK0XdF4Ph6yolFifjtcCJkBWdSEGs0O9sng=",
+ "cert_user_id": "deadblackclover@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "48e3844fbbfc62abc8771ccd523f80f570de7353ac3ffb635147f8d02283c57c",
+   "size": 94
+  }
+ },
+ "inner_path": "data/users/1DW2FbDQBvEpWrvbD1DDU72kDooLwJrCvw/content.json",
+ "modified": 1484833431,
+ "signs": {
+  "1DW2FbDQBvEpWrvbD1DDU72kDooLwJrCvw": "HOWVwjRjlpnv6Ao2ujQyeiNW9sXsnQcVABqXC8kSyRZR8N6LPZstgL0575LNtaF6sgdkA4XB3Oerqp/hcSlHjuQ="
+ }
+}

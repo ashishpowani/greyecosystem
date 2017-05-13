@@ -1,0 +1,17 @@
+{
+ "address": "1Gif7PqWTzVWDQ42Mo7np3zXmGAo3DXc7h",
+ "cert_auth_type": "web",
+ "cert_sign": "GyUnrHsEgqFm4+iPLot8sYAGT5QZBoJ4BC5cKv8azYodppbvYiB5oTNWr3W9OUzZyLnenel/H8bBnlyapsdCtn4=",
+ "cert_user_id": "mrpurehorizon@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "3c2c61f9c576bccdc95c49d809aef2605bc51475074d4d4781a70bf995625473",
+   "size": 107
+  }
+ },
+ "inner_path": "data/users/1GgLUmyM5p9S4KmFVf1hPhMgD1Wkn4jvaJ/content.json",
+ "modified": 1456986473.523,
+ "signs": {
+  "1GgLUmyM5p9S4KmFVf1hPhMgD1Wkn4jvaJ": "HMLZeu3iFKlJfLXX8Rvs0Xk3FMYhkKAqUGUhgg7ZNbV47gvVLRA8ZtJZ1RX6cK1r1aSdK3qqZEEWO99sUednasA="
+ }
+}

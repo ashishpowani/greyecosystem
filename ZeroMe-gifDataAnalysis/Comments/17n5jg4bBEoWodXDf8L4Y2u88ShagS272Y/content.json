@@ -1,0 +1,17 @@
+{
+ "address": "1Gif7PqWTzVWDQ42Mo7np3zXmGAo3DXc7h",
+ "cert_auth_type": "web",
+ "cert_sign": "G825mdm+73ApgBBUk8i0Jh9qb8jDMVgfVL51zWIHt4aTJE6z7gZPtGbODrY2TYVSfYE7Z47GBZ3FnO+eC6ENfbI=",
+ "cert_user_id": "bukaking@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "e20824c82b896252faad6bcf5c71bd44e18d221dba04b100b9e72dc941daac4a",
+   "size": 94
+  }
+ },
+ "inner_path": "data/users/17n5jg4bBEoWodXDf8L4Y2u88ShagS272Y/content.json",
+ "modified": 1460677239.079,
+ "signs": {
+  "17n5jg4bBEoWodXDf8L4Y2u88ShagS272Y": "HAlOnDpvpfK1bCT3SfbzelROHV6Pdwfz8z20SGnh9RgjxgByMtitEuXQ1clpxMWGYuAoDQdPX/w7gRbnONinaSw="
+ }
+}

@@ -1,0 +1,17 @@
+{
+ "address": "1Gif7PqWTzVWDQ42Mo7np3zXmGAo3DXc7h",
+ "cert_auth_type": "web",
+ "cert_sign": "G2PxRtTWiXRCgZBnNJw08JsPD7RY3ooOQ4HLe+BdbcvHbLp3npSB/MSGOjsYDSe9zrqbCIUfR8+PTwA08lHanYw=",
+ "cert_user_id": "kilva@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "9b1100d5e247d229b834163c492beccd16dd927e7d2ed659c1e121139ffc2417",
+   "size": 185
+  }
+ },
+ "inner_path": "data/users/1CKyj95EMuQiKCYaRcfY6JgXgdmLWBUjyM/content.json",
+ "modified": 1479883646.275,
+ "signs": {
+  "1CKyj95EMuQiKCYaRcfY6JgXgdmLWBUjyM": "HDU3zLGtIyFxq2gG33xcXQBD3OENfQQBK46FvaDlBB6IkGXmGk2sLv2YS+EUulNrxFgBKMHkzbD3FN6HpudVbeA="
+ }
+}

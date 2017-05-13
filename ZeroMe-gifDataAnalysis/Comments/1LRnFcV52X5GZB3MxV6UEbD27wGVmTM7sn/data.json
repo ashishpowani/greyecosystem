@@ -1,0 +1,31 @@
+{
+	"next_comment_id": 3,
+	"comment": [
+		{
+			"comment_id": 1,
+			"body": "Now, i can unserstand my bussines xD\n",
+			"post_id": 166,
+			"date_added": 1459717980
+		},
+		{
+			"comment_id": 2,
+			"body": "> [jackspera](#comment_1_186XvtmpnyyEt4oLExupnVV1LYzz87mqiX): The Flintstones confirmed XD\n\n+1",
+			"post_id": 929,
+			"date_added": 1459718026
+		}
+	],
+	"comment_vote": {},
+	"post_vote": {
+		"1300": 1,
+		"1288": 1,
+		"1035": 1,
+		"1032": 1,
+		"1007": 1,
+		"989": 1,
+		"770": 1,
+		"737": 1,
+		"716": 1,
+		"571": 1,
+		"929": 1
+	}
+}

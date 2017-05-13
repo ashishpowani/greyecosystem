@@ -1,0 +1,17 @@
+{
+ "address": "1Gif7PqWTzVWDQ42Mo7np3zXmGAo3DXc7h",
+ "cert_auth_type": "web",
+ "cert_sign": "HAj9AUxnMP2aR5dqxtI+kcs35k2DwkADaxcm+M+qlKp79TvvqT8bIRddfZwy7PfR8EY6OZOGpxMmxqq4bsix/T4=",
+ "cert_user_id": "lightbeam@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "fb71a980239fc59663a9bd2dd3f7c30744b344a07cdcc66206cae243cdfb7e6c",
+   "size": 314
+  }
+ },
+ "inner_path": "data/users/18TM97Yqu9L4C345Ch32tXYAYdur565rZU/content.json",
+ "modified": 1463871738.432,
+ "signs": {
+  "18TM97Yqu9L4C345Ch32tXYAYdur565rZU": "HCovRp2p1f526H4gythfGwVUdRWtbY/NLpkbjsiW3W1uqvqO0Hq+RSePQEpgRmNzhP5sKhExilzWmE6+L4wlbnM="
+ }
+}

@@ -1,0 +1,17 @@
+{
+	"next_comment_id": 2,
+	"comment": [
+		{
+			"comment_id": 1,
+			"body": "fake",
+			"post_id": 1043,
+			"date_added": 1455816250
+		}
+	],
+	"comment_vote": {},
+	"post_vote": {
+		"1031": 1,
+		"1044": 1,
+		"1046": 1
+	}
+}

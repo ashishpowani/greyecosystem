@@ -1,0 +1,17 @@
+{
+ "address": "1Gif7PqWTzVWDQ42Mo7np3zXmGAo3DXc7h",
+ "cert_auth_type": "web",
+ "cert_sign": "HFm7rGTrj1oGe2aqTp6cn4DQLbD3kHdgO2e8ggofjk7+xxSwHu7gbvp8sbmUEcC+IHsEJmVJDmvQnVishWfuk8A=",
+ "cert_user_id": "defterade@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "46500c791f8abbb9d99d9b970fbf74b535c0e091989986784469d4c3d30e55a2",
+   "size": 94
+  }
+ },
+ "inner_path": "data/users/15uTzxSzyj7LtVfh3hNv7ALgYDmKMf2qnq/content.json",
+ "modified": 1491414035,
+ "signs": {
+  "15uTzxSzyj7LtVfh3hNv7ALgYDmKMf2qnq": "G0jfpd70TOVB5rmGCdpMoHjILd272zuX0cVPEl2BKsOaPymSD8xufmH7J48/nn/uXARyJUem191w7nBfvHVEjho="
+ }
+}

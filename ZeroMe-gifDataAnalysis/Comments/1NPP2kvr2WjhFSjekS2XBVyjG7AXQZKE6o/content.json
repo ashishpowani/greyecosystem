@@ -1,0 +1,17 @@
+{
+ "address": "1Gif7PqWTzVWDQ42Mo7np3zXmGAo3DXc7h",
+ "cert_auth_type": "web",
+ "cert_sign": "G66RVY0XtxCWnT3GwDCbLfzGg2VMqPvz/nHqrCaXQgCm72Qgd1um00wpnwk5rtkmQ4jS1MgUuGW0MeBPVC/Y8rE=",
+ "cert_user_id": "argo@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "1206c187403ed0ca148c0b44ecf1fc97fcbd1143a98670c85b15372c911c9ae1",
+   "size": 107
+  }
+ },
+ "inner_path": "data/users/1NPP2kvr2WjhFSjekS2XBVyjG7AXQZKE6o/content.json",
+ "modified": 1457169168.39,
+ "signs": {
+  "1NPP2kvr2WjhFSjekS2XBVyjG7AXQZKE6o": "G9BjfAiXIKhFmM7Z1C7SI7kfBcVOEOqCYFBU/hkSKW0BZFlQn6kVNqht9YmKn32AVQUA6tJ89z0pEimEd0RcTUc="
+ }
+}

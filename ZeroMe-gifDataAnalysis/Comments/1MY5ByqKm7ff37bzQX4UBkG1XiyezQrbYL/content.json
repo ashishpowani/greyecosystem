@@ -1,0 +1,17 @@
+{
+ "address": "1Gif7PqWTzVWDQ42Mo7np3zXmGAo3DXc7h",
+ "cert_auth_type": "web",
+ "cert_sign": "HJd+1q+1J+fY8J+7Q86nihtJIoCodrTy6Gu8XjFSKgbiYtjsR2qya6np6TabzjXHhjk65xarBy6C9KpnNRPkmi0=",
+ "cert_user_id": "johnedrick1@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "e463ee73dd3af31c47b41161824ec6a6a300ed2f1b5258d6a9d9584640186c30",
+   "size": 180
+  }
+ },
+ "inner_path": "data/users/1MY5ByqKm7ff37bzQX4UBkG1XiyezQrbYL/content.json",
+ "modified": 1467278770.797,
+ "signs": {
+  "1MY5ByqKm7ff37bzQX4UBkG1XiyezQrbYL": "G0c0EIl9WIL4Gvk7nC/drJGkHzA0MV0EhVRkf6Nj1KT/oWSW2efFp0pQBIm+hp9R9zM+OCv+N4bMGYYm+8jb8O0="
+ }
+}

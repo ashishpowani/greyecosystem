@@ -1,0 +1,40 @@
+{
+	"next_comment_id": 5,
+	"comment": [
+		{
+			"comment_id": 1,
+			"body": "What a bad sport. ",
+			"post_id": 3182,
+			"date_added": 1471044150
+		},
+		{
+			"comment_id": 2,
+			"body": "/r/oddlysatisfying",
+			"post_id": 3178,
+			"date_added": 1471044186
+		},
+		{
+			"comment_id": 3,
+			"body": "If it's a big enough commit, sounds like a RGE.",
+			"post_id": 2967,
+			"date_added": 1471044349
+		},
+		{
+			"comment_id": 4,
+			"body": "That's.... not how it goes in, girl.",
+			"post_id": 3189,
+			"date_added": 1471121579
+		}
+	],
+	"comment_vote": {},
+	"post_vote": {
+		"1044": 1,
+		"1103": 1,
+		"2967": 1,
+		"3164": 1,
+		"3171": 1,
+		"3178": 1,
+		"3189": 1,
+		"3192": 1
+	}
+}

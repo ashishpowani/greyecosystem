@@ -1,0 +1,17 @@
+{
+ "address": "1Gif7PqWTzVWDQ42Mo7np3zXmGAo3DXc7h",
+ "cert_auth_type": "web",
+ "cert_sign": "G9q9iQpNOQq1fhW1EOL9VQU7tiKoECFdGZK+WN0LBkbM7lcrUw3tqCBzE/hXw6UMX1itXPf8TJboQU8IUBDGY8s=",
+ "cert_user_id": "armanke13@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "772551eff9a9a661bf34db70a6e29cccba8d43e5cc81e6c19f0c251877bbf353",
+   "size": 263
+  }
+ },
+ "inner_path": "data/users/16kWGYWc8gZRuNditkBPv6kk3VVHYJjSuv/content.json",
+ "modified": 1489931952,
+ "signs": {
+  "16kWGYWc8gZRuNditkBPv6kk3VVHYJjSuv": "HKjxO4sX7DkMMmloR5fb5J39JE/aEDVz2V8HfKLkA71/QtV0O280CT1KJ/DtmcfMGdcKBJxysCqLGU5oW6RXNZo="
+ }
+}

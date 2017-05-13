@@ -1,0 +1,17 @@
+{
+ "address": "1Gif7PqWTzVWDQ42Mo7np3zXmGAo3DXc7h",
+ "cert_auth_type": "web",
+ "cert_sign": "G/8Da4DRM7JtjVJTo4oitB9S71oB0Ns+RTPYsMVzeYwGJYsxNW5vjScaVVGRFFd7DY8aGdSiWashVP6/dDHMvbI=",
+ "cert_user_id": "moyitonapa@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "3b50a013fe8abc9d8ca308e34d9de722ad926212655d5ea86cb48d0c257d2aaa",
+   "size": 105
+  }
+ },
+ "inner_path": "data/users/1GAtiQLRETfgGBC5ETyy1LCGY4MESQT9sq/content.json",
+ "modified": 1457040015.9,
+ "signs": {
+  "1GAtiQLRETfgGBC5ETyy1LCGY4MESQT9sq": "HKzLfshoU96DofwLOxb+T6ZuAKOSkHPHI2H3zz+FfLrHH4XGEEGciZazq8yZDGdaYp4t3/mDg1jvOUPjoFLRMgU="
+ }
+}

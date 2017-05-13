@@ -1,0 +1,17 @@
+{
+ "address": "1Gif7PqWTzVWDQ42Mo7np3zXmGAo3DXc7h",
+ "cert_auth_type": "web",
+ "cert_sign": "HNInz6u3APrxKvZtWOE+Db8dHLtTYuRWQtLH7Z48zsGYeAvbyVyanEE81BkoX+wmWz5GX6gOSQC5W4/4MYqphU8=",
+ "cert_user_id": "lucianosb@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "e20824c82b896252faad6bcf5c71bd44e18d221dba04b100b9e72dc941daac4a",
+   "size": 94
+  }
+ },
+ "inner_path": "data/users/1HPR8x7HEJETp869JziLCudanyjDBS3sny/content.json",
+ "modified": 1460887078.453,
+ "signs": {
+  "1HPR8x7HEJETp869JziLCudanyjDBS3sny": "G+17DOomarkjQd5H7+IcSUQBy6GPLBLZkKFH2G8Wwrl7zBrcJmrRQFiLSKAhTWohTI0tiQwPOiYQlHtfyG429is="
+ }
+}

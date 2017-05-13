@@ -1,0 +1,16 @@
+{
+	"next_comment_id": 2,
+	"comment": [
+		{
+			"comment_id": 1,
+			"body": "who is she?",
+			"post_id": 1223,
+			"date_added": 1460423905
+		}
+	],
+	"comment_vote": {},
+	"topic_vote": {},
+	"post_vote": {
+		"2221": 1
+	}
+}

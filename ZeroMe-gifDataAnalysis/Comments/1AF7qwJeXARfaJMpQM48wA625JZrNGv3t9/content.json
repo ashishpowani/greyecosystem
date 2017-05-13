@@ -1,0 +1,17 @@
+{
+ "address": "1Gif7PqWTzVWDQ42Mo7np3zXmGAo3DXc7h",
+ "cert_auth_type": "web",
+ "cert_sign": "GyaYpT+PbLKUZ68qb2VBj4+y71DHZA525/W2fWHAXawM61E/omhLVmYAKGhQRg+Kt25/JAz4HDQmkTLYmlb6JM0=",
+ "cert_user_id": "memebase@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "3332591f18ff2167454f2a00da52d93a72d17a5620f6626e882ab2f2786fc647",
+   "size": 107
+  }
+ },
+ "inner_path": "data/users/1AF7qwJeXARfaJMpQM48wA625JZrNGv3t9/content.json",
+ "modified": 1492633119,
+ "signs": {
+  "1AF7qwJeXARfaJMpQM48wA625JZrNGv3t9": "HM4SCh4e0rOHgotZBwOxUeJnf5CkyCl8lfws3d/GLDRoOSteXXu65tLMtpVLRPOitwYEZ5KiyphEK9QG6QlbfIQ="
+ }
+}

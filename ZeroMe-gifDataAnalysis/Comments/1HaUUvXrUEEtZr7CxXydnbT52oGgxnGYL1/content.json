@@ -1,0 +1,17 @@
+{
+ "address": "1Gif7PqWTzVWDQ42Mo7np3zXmGAo3DXc7h",
+ "cert_auth_type": "web",
+ "cert_sign": "HJnNP2hrNsgao/h2ROP688fajwjPTReGG15yO4T2ulnU6UAeIzaT7Yno5/N7fUhcdiig+M7FAtNLuL0BMb1dsQg=",
+ "cert_user_id": "enigma223@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "32f3acfdf8afde1858d727541e0a62dec23108809d669f17ea6b6ace0e808016",
+   "size": 107
+  }
+ },
+ "inner_path": "data/users/1HaUUvXrUEEtZr7CxXydnbT52oGgxnGYL1/content.json",
+ "modified": 1460396654.528176,
+ "signs": {
+  "1HaUUvXrUEEtZr7CxXydnbT52oGgxnGYL1": "HPrZexm0E92unM8Ix0hcqfFmcpZ/u+eGqnxWzpkaSOdtCF7ocL+jXimiy4lbvqOAQ/FISivfIRO6sMxSenzZDUE="
+ }
+}

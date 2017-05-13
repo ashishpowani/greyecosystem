@@ -1,0 +1,17 @@
+{
+ "address": "1Gif7PqWTzVWDQ42Mo7np3zXmGAo3DXc7h",
+ "cert_auth_type": "web",
+ "cert_sign": "G+O0KT1IarzFk2Vsu3oo55E3I2Dc7TPI7QlAINQNTrwpNnyYpdsyV40tb8aQq3YciOP8xwkOrM8GAiMYh0ysB78=",
+ "cert_user_id": "stano1712@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "cccbeb967b7ffeb7071fd5fe0c2a57d976e9268f9c47e95604e322d157c8c758",
+   "size": 105
+  }
+ },
+ "inner_path": "data/users/112ttQaEBrcQkN4yaZoRGhJzR8QqYao8R2/content.json",
+ "modified": 1469729046.398,
+ "signs": {
+  "112ttQaEBrcQkN4yaZoRGhJzR8QqYao8R2": "G5pb7lMgNb38xr9BDc9QI564gOhQTgr7KXHikTOnnk+fqj2seZ49XLnvcbKIZrfW1HxIZFft7E1MbyHwb6HeLho="
+ }
+}

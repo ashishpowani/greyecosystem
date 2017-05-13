@@ -1,0 +1,17 @@
+{
+ "address": "1Gif7PqWTzVWDQ42Mo7np3zXmGAo3DXc7h",
+ "cert_auth_type": "web",
+ "cert_sign": "G9bXkVQphkNmEaVBQLYF0/ucfLSlnyymZqgFV93i+N9g9xg1rZRabm13ePc3xoOdH270KZtCRcvS9hZLcCNKmD8=",
+ "cert_user_id": "bilgorajskim@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "ca86046222f7f1bc386cc3ba4610e6b2977dcac8b3cafd1e2f5d49d295b29887",
+   "size": 94
+  }
+ },
+ "inner_path": "data/users/1DzBfbtiYMmsqFEgBjgWYoqNejDmg8d9W/content.json",
+ "modified": 1473992275.558,
+ "signs": {
+  "1DzBfbtiYMmsqFEgBjgWYoqNejDmg8d9W": "HLRWRU8yQBAxPq2nd+EU0HaBPQFihrslx2obeApj4QmutnBuXvKA7WBa04L8EwR8CbsmpNFmuAZQYFKGXQdMqx8="
+ }
+}

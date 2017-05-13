@@ -1,0 +1,26 @@
+{
+	"next_comment_id": 3,
+	"comment": [
+		{
+			"comment_id": 1,
+			"body": "QWOP",
+			"post_id": 1369,
+			"date_added": 1459338162
+		},
+		{
+			"comment_id": 2,
+			"body": "And the asshole dad of the year goes to...",
+			"post_id": 3589,
+			"date_added": 1474010408
+		}
+	],
+	"comment_vote": {},
+	"post_vote": {
+		"993": 1,
+		"1013": 1,
+		"1018": 1,
+		"1363": 1,
+		"3599": 1,
+		"5916": 1
+	}
+}

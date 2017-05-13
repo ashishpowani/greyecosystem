@@ -1,0 +1,17 @@
+{
+ "address": "1Gif7PqWTzVWDQ42Mo7np3zXmGAo3DXc7h",
+ "cert_auth_type": "web",
+ "cert_sign": "G5J/DuP4MUzblZoFsYLtQuQeOHaA4B+KOcqkz6f1KCBVHc/vicWUBbtIAaRJlPItaryaNL9o4xGfIqismb4pCuo=",
+ "cert_user_id": "archix@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "f9b5dbf3dae47a8fa5f51e620227eaa383d2629bf8986085aa3f22354d2c876b",
+   "size": 120
+  }
+ },
+ "inner_path": "data/users/13DYrn76qUeDUiAvCDTFQ7NahzAgN8ia37/content.json",
+ "modified": 1484055971,
+ "signs": {
+  "13DYrn76qUeDUiAvCDTFQ7NahzAgN8ia37": "G4TTPmnhdtDSU0NB7SrNzErW7Pr+nTYIPv7mnGdD4YURJQqrS7rCKfNbS+02S8E9+MLdd1ehOXOMH7rIbpGUgGQ="
+ }
+}

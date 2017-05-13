@@ -1,0 +1,17 @@
+{
+ "address": "1Gif7PqWTzVWDQ42Mo7np3zXmGAo3DXc7h",
+ "cert_auth_type": "web",
+ "cert_sign": "HDqpJZvE1mJAy80aV1eu7z5dZDSP3PydB8GLpgoq5SoOjTJ5bLwN/+FUdZjZnPWNwxE5BdcZ24Q2w/BEXD+YLT8=",
+ "cert_user_id": "420blazeit@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "50724441d66db325aa15b7a4dcaaa2f799468647aa63fa7d10d9f2700f4c69da",
+   "size": 94
+  }
+ },
+ "inner_path": "data/users/1HUsdM7RCchRH6yYhNKzGgr9vfNHQ8vBc7/content.json",
+ "modified": 1457975998.188,
+ "signs": {
+  "1HUsdM7RCchRH6yYhNKzGgr9vfNHQ8vBc7": "G3Y4DPjVyVGFcC/TVB6ZlF0+RekSyjVDu2Yuk5Z5+3MnPF43nj4HDfKSxPIiqA4qzt6Sh383eu1zsjFnhUka2JM="
+ }
+}

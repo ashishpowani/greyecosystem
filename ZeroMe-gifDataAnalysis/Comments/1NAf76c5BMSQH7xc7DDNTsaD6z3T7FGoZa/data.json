@@ -1,0 +1,17 @@
+{
+	"next_comment_id": 2,
+	"comment": [
+		{
+			"comment_id": 1,
+			"body": "This is the best animation ever!!!!!!",
+			"post_id": 1583,
+			"date_added": 1463076688
+		}
+	],
+	"comment_vote": {},
+	"post_vote": {
+		"1583": 1,
+		"1600": 1,
+		"1755": 1
+	}
+}

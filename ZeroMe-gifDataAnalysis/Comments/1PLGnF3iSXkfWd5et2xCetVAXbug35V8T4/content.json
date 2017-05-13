@@ -1,0 +1,17 @@
+{
+ "address": "1Gif7PqWTzVWDQ42Mo7np3zXmGAo3DXc7h",
+ "cert_auth_type": "web",
+ "cert_sign": "G41H7Jaf9MEiR0M6g9agAVAKfsvtDNQF82AIEunS9JdO1rAw3SL1ugt28XUNnjk5ZQGAM5hrxyizp7d+cTQaiJU=",
+ "cert_user_id": "retality@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "0d6f77fba3675739b0cda9d0c372e0f724ebfc6fd75129b34c5c3f4fc0d20e78",
+   "size": 547
+  }
+ },
+ "inner_path": "data/users/1PLGnF3iSXkfWd5et2xCetVAXbug35V8T4/content.json",
+ "modified": 1469397038.27,
+ "signs": {
+  "1PLGnF3iSXkfWd5et2xCetVAXbug35V8T4": "G4wWeWHbtJvABHhU3VZEFp5ZmDkFlDo8BE6c8lPyCDxPzi4ofCtT60kHQV0uePRitqGXOV4ok3+NAG+wrFL+EOc="
+ }
+}

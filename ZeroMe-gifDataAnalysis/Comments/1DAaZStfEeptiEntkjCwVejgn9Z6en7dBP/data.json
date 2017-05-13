@@ -1,0 +1,22 @@
+{
+	"next_comment_id": 3,
+	"comment": [
+		{
+			"comment_id": 1,
+			"body": "guaaaa !!!!!!",
+			"post_id": 1720,
+			"date_added": 1461270787
+		},
+		{
+			"comment_id": 2,
+			"body": "vallaa  que bueno \n se le puede cambiar el careto por el de Mariano ???????",
+			"post_id": 1765,
+			"date_added": 1461295167
+		}
+	],
+	"comment_vote": {},
+	"topic_vote": {},
+	"post_vote": {
+		"1765": 1
+	}
+}

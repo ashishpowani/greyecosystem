@@ -1,0 +1,17 @@
+{
+ "address": "1Gif7PqWTzVWDQ42Mo7np3zXmGAo3DXc7h",
+ "cert_auth_type": "web",
+ "cert_sign": "HIiQ6JFW908fY6VCpe7AJKi3NvcYb19qc4FsVHGdeDhyUnpscPfFGGGSIdVG0lhcdzowD6Cc5qpjlCPN+dpwoOE=",
+ "cert_user_id": "cassanova@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "8b6ae6cdad3248e487bcd994205efb5f8ff3b45b6917bd6e9aad9bc99ea29ee8",
+   "size": 133
+  }
+ },
+ "inner_path": "data/users/1Kx8ypW7CdZ9CHCBiNM8eemniv5wjGb9Lc/content.json",
+ "modified": 1471143204.001,
+ "signs": {
+  "1Kx8ypW7CdZ9CHCBiNM8eemniv5wjGb9Lc": "HE11TJcqrFcOVWmOmyPZzhpD9sTbGyZkq8aiLybpO4WnXij8Atrd0O/YG2pc/stRKTdtmASJmHyLZGYPpbQStV4="
+ }
+}

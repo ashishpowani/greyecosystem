@@ -1,0 +1,17 @@
+{
+ "address": "1Gif7PqWTzVWDQ42Mo7np3zXmGAo3DXc7h",
+ "cert_auth_type": "web",
+ "cert_sign": "G+LKgjTwPl0OhlYr8QDwlCczFDyhilnibSBdQsxlY/4T3ayR6JZ03Z4zRytMFnzDWV4duEts9uo2UM06Ze9lMW8=",
+ "cert_user_id": "cryptonite@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "96786144df8a29c43c06c8d2b490f367d6e82097e126990da716c4d2a6a63b8e",
+   "size": 209
+  }
+ },
+ "inner_path": "data/users/1D6BVtKgGhg61JSAG9DoFMeMK8jGFiusPV/content.json",
+ "modified": 1477773034.853,
+ "signs": {
+  "1D6BVtKgGhg61JSAG9DoFMeMK8jGFiusPV": "HOpoHC0Q+CaZV1tGtZPPD99/f5Ajn5cFWOcLhlcYEFdcLYlYQQji9KQmhpIIrCygnhSVN8S0s3wuFnRppymXPQw="
+ }
+}

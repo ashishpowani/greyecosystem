@@ -1,0 +1,17 @@
+{
+ "address": "1Gif7PqWTzVWDQ42Mo7np3zXmGAo3DXc7h",
+ "cert_auth_type": "web",
+ "cert_sign": "G/CDMLbReuyJ12lGgSqPX/uYm+w9702SAuCJ+9kHxHKgqm7hR+wRvxIqVC1qGzrkQs8GC9X8NCXzJKKtFiYm+MY=",
+ "cert_user_id": "assaltpl@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "e161373bf870f83367cd0eca2028bdec9d24ccb8a8c520b1b9a81c65bf1c0238",
+   "size": 94
+  }
+ },
+ "inner_path": "data/users/1NDY9s69gAHTrN3dd37osqUuryFGxnBxJP/content.json",
+ "modified": 1464722106.258,
+ "signs": {
+  "1NDY9s69gAHTrN3dd37osqUuryFGxnBxJP": "G2+ou0WDOPYdRx5hmS33mhrPodSSqcdT7r7qjqaPuXWegLOQk2NgZi/vL2yXhBaWipses3JEavF+Ax+BaujsDUM="
+ }
+}

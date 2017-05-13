@@ -1,0 +1,26 @@
+{
+	"next_comment_id": 3,
+	"comment": [
+		{
+			"comment_id": 1,
+			"body": "HAHAHAHHAHAHA",
+			"post_id": 1118,
+			"date_added": 1486424197
+		},
+		{
+			"comment_id": 2,
+			"body": "Nothing to say, PERFECT!\nHAHAHAHHAHA\n",
+			"post_id": 1116,
+			"date_added": 1486424288
+		}
+	],
+	"comment_vote": {},
+	"post_vote": {
+		"402": 1,
+		"1116": 1,
+		"1118": 1,
+		"1135": 1,
+		"3752": 1,
+		"3811": 1
+	}
+}

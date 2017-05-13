@@ -1,0 +1,17 @@
+{
+ "address": "1Gif7PqWTzVWDQ42Mo7np3zXmGAo3DXc7h",
+ "cert_auth_type": "web",
+ "cert_sign": "Gz/h/y3DjcQolj7hIYzTZEmVVl69/Fxh1t/35V0FscNB4fqcOlozdIMaoOBbFKQ/dX39w4bF9oXW6t+a3u7EfV4=",
+ "cert_user_id": "vitalicus@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "2a6cb3cc3016aa13554b6248b7c3e8674c983d6e3af6c0195e5de95f757c2ed3",
+   "size": 107
+  }
+ },
+ "inner_path": "data/users/1KZ4wnsq5QEhxS9hgNKXFGHLetnhF3oCWM/content.json",
+ "modified": 1493224237,
+ "signs": {
+  "1KZ4wnsq5QEhxS9hgNKXFGHLetnhF3oCWM": "HCUOZyHibPbu1wpGS7QAwaWONncoNxStTJIlIEEBJpczNUrduJ9yea/uvdD6SVWuqiGaZPagXkvMMzoBVEHYWus="
+ }
+}

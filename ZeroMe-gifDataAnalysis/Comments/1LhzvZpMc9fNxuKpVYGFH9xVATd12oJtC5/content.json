@@ -1,0 +1,17 @@
+{
+ "address": "1Gif7PqWTzVWDQ42Mo7np3zXmGAo3DXc7h",
+ "cert_auth_type": "web",
+ "cert_sign": "Gxbfap09YrGIAbLA9BkXAficw6Qhuc04s83UkBepHqGK3fBBhzcYXD29PH42rbKtNrW9XpXWgGzWX7CMYb4gPNE=",
+ "cert_user_id": "aquila200@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "167be27f2ed8af10b3ca43d8c35eee0fc753bcb1d725ac3c2922d26fdb45a63b",
+   "size": 120
+  }
+ },
+ "inner_path": "data/users/1LhzvZpMc9fNxuKpVYGFH9xVATd12oJtC5/content.json",
+ "modified": 1471368055.536,
+ "signs": {
+  "1LhzvZpMc9fNxuKpVYGFH9xVATd12oJtC5": "GyRR/MSCDl3OyxDSP2nVEl9891tTHM/GiIy/DI9cAfrEakcOGTq3e2i77d3EMbu5V1brvUnD9KaTBq/NPAtLwu0="
+ }
+}

@@ -1,0 +1,17 @@
+{
+ "address": "1Gif7PqWTzVWDQ42Mo7np3zXmGAo3DXc7h",
+ "cert_auth_type": "bitmsg",
+ "cert_sign": "G9BdsRgABSLoHoEDsHS1Cbl9698KuDLfxo/oueXgITfpGcs4tvrSuBIgAKGMYfN3/u9456Pwo2PC8DcKhvwE9cQ=",
+ "cert_user_id": "proba@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "4058d30ad46df73399b094f322387e210dbc769a4c0835cc32be0035d57d5866",
+   "size": 2993
+  }
+ },
+ "inner_path": "data/users/1KkMG9dp4HYwhmjGZJYgUcKS3aV1AmfxYq/content.json",
+ "modified": 1468884707.931279,
+ "signs": {
+  "1KkMG9dp4HYwhmjGZJYgUcKS3aV1AmfxYq": "G+BNuQ0z0EldMeSWbNfVzLh49V4gourBN76vsbzCfezV31hoo2aIFn9axvalxgDsM4JvC9sGujNKEvNX4YpbBnA="
+ }
+}

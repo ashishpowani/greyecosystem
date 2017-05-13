@@ -1,0 +1,17 @@
+{
+ "address": "1Gif7PqWTzVWDQ42Mo7np3zXmGAo3DXc7h",
+ "cert_auth_type": "web",
+ "cert_sign": "Gyu9SuAbzOqUESWbYtloFRcVb9Z08Y8UjBaOf5CedHxe8XWC0mJwEA4VYPEkMLOTjTuJSID2o/Wnelg+NwKvdN4=",
+ "cert_user_id": "macadoum@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "230844489cf1f082a671009ba528b3bcd797340084fdde99c63a92e3ee18a4f2",
+   "size": 94
+  }
+ },
+ "inner_path": "data/users/14VFwRjCBLcGzGV3nFVG1aSBEiSAKpczGo/content.json",
+ "modified": 1456968835.984,
+ "signs": {
+  "14VFwRjCBLcGzGV3nFVG1aSBEiSAKpczGo": "G6cP8w2ulGpIpouuRoI+LqeEhnQkqG5WM81c+Z/kg2VUa1wF+QsZg6xijVNd/Evi+yvGJEh0vnUbrwfyQnPQOsE="
+ }
+}

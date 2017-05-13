@@ -1,0 +1,17 @@
+{
+ "address": "1Gif7PqWTzVWDQ42Mo7np3zXmGAo3DXc7h",
+ "cert_auth_type": "web",
+ "cert_sign": "G5M790g0YaTByLa4Xp/HlqjJPdNLxuUmQL5wHnMMzighBGgaOEXeSZfj3TljwuE7xJ8UIsxmErIDJs8YzDTPdX8=",
+ "cert_user_id": "militaryriotlab@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "e0df47bc67448d22e816f6f18570b305b3180a1ec20d68f2ad9cd71e3e5075ec",
+   "size": 250
+  }
+ },
+ "inner_path": "data/users/1EnFfeVqTYtJfhzucfQB8Z7sCfUBipRRow/content.json",
+ "modified": 1476022370.238945,
+ "signs": {
+  "1EnFfeVqTYtJfhzucfQB8Z7sCfUBipRRow": "G0NXP1FSmVh2rhFKkOI4W2V8cY8DsCh9aTcbFYdVn8nyGhu2wSYEGUJQIf/P2gcojmAYB4sqDs/k6SwMTgMc64k="
+ }
+}

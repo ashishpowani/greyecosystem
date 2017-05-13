@@ -1,0 +1,17 @@
+{
+ "address": "1Gif7PqWTzVWDQ42Mo7np3zXmGAo3DXc7h",
+ "cert_auth_type": "web",
+ "cert_sign": "HHJgOXsCnh3MPZRlzc5Mwcf3nQfcsmu/0Qk32WamG026CUrQdv/4ppSD7Hq15e7MBu7XBe4akAlGluEm2+d24mo=",
+ "cert_user_id": "zerolife@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "6343c34cef62a73a68df5808c98c1e6ee4d719814d2cfbc10396ad51e33f5f3b",
+   "size": 120
+  }
+ },
+ "inner_path": "data/users/1DyHtc8AMKrqjEja7Bi8rQ1hfcc3fTwsSw/content.json",
+ "modified": 1467413074.05294,
+ "signs": {
+  "1DyHtc8AMKrqjEja7Bi8rQ1hfcc3fTwsSw": "G+3Lh9fx0AkmQ6o5/85uuDWnuRP0nayR29hSIcdHa0oVKGcaaD+dbjQm4LpL/jfYAAHLZDUv4hk13WYaHqJUlnc="
+ }
+}

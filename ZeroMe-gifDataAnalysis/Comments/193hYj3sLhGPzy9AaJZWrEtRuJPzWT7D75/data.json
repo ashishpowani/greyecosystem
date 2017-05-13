@@ -1,0 +1,21 @@
+{
+	"next_comment_id": 3,
+	"comment": [
+		{
+			"comment_id": 1,
+			"body": "Who is this ?",
+			"post_id": 3431,
+			"date_added": 1472772986
+		},
+		{
+			"comment_id": 2,
+			"body": "sauce ?",
+			"post_id": 2026,
+			"date_added": 1472773074
+		}
+	],
+	"comment_vote": {},
+	"post_vote": {
+		"3389": 1
+	}
+}

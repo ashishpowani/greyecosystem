@@ -1,0 +1,17 @@
+{
+ "address": "1Gif7PqWTzVWDQ42Mo7np3zXmGAo3DXc7h",
+ "cert_auth_type": "web",
+ "cert_sign": "HGsDsf9dfBE58qb2w46Tc4h5/QHq3iZAP3JePDh9K5gKdm9yxi502XxEnK7jKeYsTncJ/sRG1kCX7R4ONNBkUmY=",
+ "cert_user_id": "nidaimen@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "4c44d3d7d198e5eb84cb140c4e56ae6912cb29743b1f3e2b944fe45d6e10bed7",
+   "size": 120
+  }
+ },
+ "inner_path": "data/users/132dHpZMvbv3vx2c1GqrqsgDdUSx8MpoE4/content.json",
+ "modified": 1469111499.873,
+ "signs": {
+  "132dHpZMvbv3vx2c1GqrqsgDdUSx8MpoE4": "G1GEixVRdSwdGER574T2f/tTfmxjQx5WokzRqNQu0p2+AI8O6DNXeNCji6aDoMElsTgWrdkrVfv3Tjnor0QU8H8="
+ }
+}

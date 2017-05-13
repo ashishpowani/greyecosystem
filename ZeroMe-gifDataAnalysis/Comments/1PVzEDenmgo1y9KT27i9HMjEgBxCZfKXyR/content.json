@@ -1,0 +1,17 @@
+{
+ "address": "1Gif7PqWTzVWDQ42Mo7np3zXmGAo3DXc7h",
+ "cert_auth_type": "web",
+ "cert_sign": "Gz4+FSVFBkRhhfUjYLu9pfDMZWmdwS/laRmDtXqFNqnx+EnKwbUbyOuR7fodEDqUrzLFy+xo+KDFQOfWP9NlIn4=",
+ "cert_user_id": "infinitu@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "4d98d4004b393adc16f294a2556546129b47259df85350403e3809900049479d",
+   "size": 107
+  }
+ },
+ "inner_path": "data/users/1PVzEDenmgo1y9KT27i9HMjEgBxCZfKXyR/content.json",
+ "modified": 1457649375.886,
+ "signs": {
+  "1PVzEDenmgo1y9KT27i9HMjEgBxCZfKXyR": "HEf8axfCASnWf/dnsSl3qrcB7rkaqJlrwJL2I9I9WigStyUcNlgmufyRDpjycauBSjTF5nMJohuHkyd+nXI6SDQ="
+ }
+}

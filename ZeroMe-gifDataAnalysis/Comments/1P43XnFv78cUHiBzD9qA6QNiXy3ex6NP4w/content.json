@@ -1,0 +1,17 @@
+{
+ "address": "1Gif7PqWTzVWDQ42Mo7np3zXmGAo3DXc7h",
+ "cert_auth_type": "web",
+ "cert_sign": "GwgZlWsfTsyODU9uX+EmSizj0JC0jwS07wFYbZJTwBavtpaA2lHmS1ey4kLr9yO2YpgQKTeUCykZDu5dzNaW5DM=",
+ "cert_user_id": "eduardoveiga@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "c5ae3449fc03407050a84ae6ae8e38eaeeba4ae92e3d965a5182db08c4fc08df",
+   "size": 922
+  }
+ },
+ "inner_path": "data/users/1P43XnFv78cUHiBzD9qA6QNiXy3ex6NP4w/content.json",
+ "modified": 1473026315.0521,
+ "signs": {
+  "1P43XnFv78cUHiBzD9qA6QNiXy3ex6NP4w": "HMw8XEk5Imov7f9tKwbs6vgaMArsgu0lYhYL9ElId+Pnl+OVG2UkDD+r8aaZZdSD0Yz1LCzRe8GCHjajtZxU5LI="
+ }
+}

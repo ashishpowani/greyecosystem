@@ -1,0 +1,17 @@
+{
+ "address": "1Gif7PqWTzVWDQ42Mo7np3zXmGAo3DXc7h",
+ "cert_auth_type": "web",
+ "cert_sign": "G9czGgUdEphmRodReUCXbqtUwf/+ai3XM364YZNP+HWQO8+t1umJhGXnaCZzQ+SMff9gqOMiUHlwFY7XBSqn1pU=",
+ "cert_user_id": "cyberlord64@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "1b843c26b63daa4683ee21c6c57146c6dfd45ea18a0edb5e13dc424c70f29c98",
+   "size": 908
+  }
+ },
+ "inner_path": "data/users/12rd8T1GKkqvjToy1n7DoQR52MAKdQSmDi/content.json",
+ "modified": 1472338379.291,
+ "signs": {
+  "12rd8T1GKkqvjToy1n7DoQR52MAKdQSmDi": "HLLjnb/t6r9qLN0blPiRaZkV+rSSQWZ3eMb/bxy8drxq5vI7xxOFrjuE0QLO2Dqx3DDrKFdvBPS5YVeJgvr7B80="
+ }
+}

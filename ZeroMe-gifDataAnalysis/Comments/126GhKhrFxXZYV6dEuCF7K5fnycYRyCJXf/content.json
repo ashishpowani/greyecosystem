@@ -1,0 +1,17 @@
+{
+ "address": "1Gif7PqWTzVWDQ42Mo7np3zXmGAo3DXc7h",
+ "cert_auth_type": "web",
+ "cert_sign": "G5rG9xYEV0gw7jW31DdY1q0I4xu76GEiiCs78sEzrM6wXYZGp8bshK6Z7J/NgppsWkEh0FkQigbut4hk8+C4qRk=",
+ "cert_user_id": "pluton@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "4c451a9b2fee8111278367c36a9d13b173e4d8ef78fe170625f567268915aa1d",
+   "size": 107
+  }
+ },
+ "inner_path": "data/users/126GhKhrFxXZYV6dEuCF7K5fnycYRyCJXf/content.json",
+ "modified": 1481928874.788925,
+ "signs": {
+  "126GhKhrFxXZYV6dEuCF7K5fnycYRyCJXf": "G6PtIBDhWizsAumtUJa4YAV5l43hm7n4UpAZUOAPU8GyqSkIIy05Kx9rowoMku9BI3kU6A8T3d9dCUbiSNpFVyQ="
+ }
+}

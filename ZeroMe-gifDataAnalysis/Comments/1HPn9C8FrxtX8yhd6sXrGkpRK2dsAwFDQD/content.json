@@ -1,0 +1,17 @@
+{
+ "address": "1Gif7PqWTzVWDQ42Mo7np3zXmGAo3DXc7h",
+ "cert_auth_type": "web",
+ "cert_sign": "HPG5BusHKrlAFvnCpqW91bTccQGsd5oPVQjU/RErKfpdrecACovxij4VGvUhmxd4vOxDf2q3uc9lX4SMojosVfs=",
+ "cert_user_id": "dsaw@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "0693f4dfdc111a74200f1919c9ece2c68834e17d7d64d5ef3347198f739dc08a",
+   "size": 159
+  }
+ },
+ "inner_path": "data/users/1HPn9C8FrxtX8yhd6sXrGkpRK2dsAwFDQD/content.json",
+ "modified": 1477471106.152,
+ "signs": {
+  "1HPn9C8FrxtX8yhd6sXrGkpRK2dsAwFDQD": "HIkJEBVcQjK8vi/WILCQpIT6G9lv72HiJbcoW9xB4hK6sSDzroT7krAgxyrPSdiqVxvdkqlQk/LoKT+YBdRQnrc="
+ }
+}

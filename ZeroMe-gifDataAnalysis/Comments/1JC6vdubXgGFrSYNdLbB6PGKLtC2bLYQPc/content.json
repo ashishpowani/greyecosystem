@@ -1,0 +1,17 @@
+{
+ "address": "1Gif7PqWTzVWDQ42Mo7np3zXmGAo3DXc7h",
+ "cert_auth_type": "web",
+ "cert_sign": "G5xCNG4hz8H/82qkoCBXDhr1MtVT02dZkNG1/eQ1jjcReCsZetdm88cJMMK+r2RxZGLlq2M4O0FqzxWb7Q9xGeY=",
+ "cert_user_id": "balipeti@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "cd29cefff1bba80a178b22412598ee261a6efc4a14d162eed3930421e135514e",
+   "size": 133
+  }
+ },
+ "inner_path": "data/users/1JC6vdubXgGFrSYNdLbB6PGKLtC2bLYQPc/content.json",
+ "modified": 1491001723,
+ "signs": {
+  "1JC6vdubXgGFrSYNdLbB6PGKLtC2bLYQPc": "G9z4531PO78P7/1zJMF2z5D7InI1Ru78otwEEHVqei5ckPOtWqmayFkyc2qPPDszhJLsStyvGJ2XAc/YiYItElU="
+ }
+}

@@ -1,0 +1,17 @@
+{
+ "address": "1Gif7PqWTzVWDQ42Mo7np3zXmGAo3DXc7h",
+ "cert_auth_type": "web",
+ "cert_sign": "G0sVdAanzFjAKbsPwugs7NF3koLnSMx7ZkfgCJXZLkHldL8JRhArFX6Y/IgHuJCUGTCzDrEjapJJghUq+8pNfHE=",
+ "cert_user_id": "redukas@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "4d77e6337267bba1fcdb77477bada1b1a71c6a26f7ca88aaf27d341700cfd182",
+   "size": 107
+  }
+ },
+ "inner_path": "data/users/1Ckng56GpgM8pj9amFkXoKnx9Z1U7suiCW/content.json",
+ "modified": 1459182945.714,
+ "signs": {
+  "1Ckng56GpgM8pj9amFkXoKnx9Z1U7suiCW": "HPh+XOHxU2Z8C+VFqBIZEZXHG6mShshBUYjpZ25KLdY54waAiZe7tomyCrI2fAlwX/4v4t7PpD2nlrAm59I2gnM="
+ }
+}

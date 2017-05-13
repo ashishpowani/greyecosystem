@@ -1,0 +1,15 @@
+{
+ "cert_auth_type": "web", 
+ "cert_sign": "G6cLZEoBCoTPhPQqIsRG0vkrDdHcOI3a4voCiF2PBYCE0Ozb3D+c79R0AJd3poJASZtPLmo9tBPQ4w7584lYAec=", 
+ "cert_user_id": "robertoochen@zeroid.bit", 
+ "files": {
+  "data.json": {
+   "sha512": "898d31999ae9cc70e66ff71d1a1c636f99ad97682c6d403ecbb90c14b53ed5b5", 
+   "size": 117
+  }
+ }, 
+ "modified": 1455355035.672723, 
+ "signs": {
+  "158i5NydZtaZKWuWV7hiKuJEpLm3ys1Fta": "G6pTsMAYryiChN0qnwChPwCy9IOsprJnPXgGZkalAYu3bE3wRoaMb4pTmwn+vd3Gr1lxpRK+cy8Byq3OpOQJnwU="
+ }
+}

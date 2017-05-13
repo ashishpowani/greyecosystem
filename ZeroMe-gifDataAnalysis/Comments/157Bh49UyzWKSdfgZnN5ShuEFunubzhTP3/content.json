@@ -1,0 +1,17 @@
+{
+ "address": "1Gif7PqWTzVWDQ42Mo7np3zXmGAo3DXc7h",
+ "cert_auth_type": "web",
+ "cert_sign": "HP2AbVTiq4PBQQNoApuxX6Y5brxQ4H73ySzwlJsB4IZ6tr9zleoVDWRddW9bBGDa9tg9GEhffliL6cjdHXQPqPk=",
+ "cert_user_id": "deaththekid@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "67b946b534535c3cfbcac089c28745675af61084ce2675f4b3e1f0a04898b023",
+   "size": 94
+  }
+ },
+ "inner_path": "data/users/157Bh49UyzWKSdfgZnN5ShuEFunubzhTP3/content.json",
+ "modified": 1473403764.217,
+ "signs": {
+  "157Bh49UyzWKSdfgZnN5ShuEFunubzhTP3": "G/ZD6cWLzIB3qE4+vzontNVPrb+e5eTQ++thE5HSxL/eEDSSVKianTcHKW0gbeY4PwI6IxeTQBmADKZyek8rsP4="
+ }
+}

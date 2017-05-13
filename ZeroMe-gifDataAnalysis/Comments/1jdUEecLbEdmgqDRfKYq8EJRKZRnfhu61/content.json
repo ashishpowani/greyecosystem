@@ -1,0 +1,17 @@
+{
+ "address": "1Gif7PqWTzVWDQ42Mo7np3zXmGAo3DXc7h",
+ "cert_auth_type": "web",
+ "cert_sign": "HMNbUrE+yh7aX9W9jPZpwb3L+H3GLsDcNUBxWM4J72fpFcdD2UzRICKIzDz5P3Vxc1L3phbiRRsKaSjuQEMvLHI=",
+ "cert_user_id": "studiosi@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "cafdf20290eb4b4f3711cd907118dc3bb5a32bcf927d77a0f6f4fffda4af53a7",
+   "size": 107
+  }
+ },
+ "inner_path": "data/users/1jdUEecLbEdmgqDRfKYq8EJRKZRnfhu61/content.json",
+ "modified": 1466509635.017,
+ "signs": {
+  "1jdUEecLbEdmgqDRfKYq8EJRKZRnfhu61": "G/Hmk5QKNprROKp2wnsMabE+5abRisq5FB2Z37mK0g/F8aJFmlxs+2nz4YHdvi2+v2MqQXIvi5uYs/ngXCmSZGI="
+ }
+}

@@ -1,0 +1,17 @@
+{
+ "address": "1Gif7PqWTzVWDQ42Mo7np3zXmGAo3DXc7h",
+ "cert_auth_type": "web",
+ "cert_sign": "G8Vv4kbS7oRKRqQQyxlpZGwKjnI0jD36w5ApQDyw2S9Ef2zotucL+4GXi/16I1Cw4Oq5V6Q6YCH5FBr1nf8szmE=",
+ "cert_user_id": "brianhubbell@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "deb734a91382ab533cba433368a87f2c59b82156e3a8ec6559cf8c1fcb9af7d9",
+   "size": 94
+  }
+ },
+ "inner_path": "data/users/1t4gUUTaKzC9proGiYq3rErACAaHTbaqW/content.json",
+ "modified": 1491440667,
+ "signs": {
+  "1t4gUUTaKzC9proGiYq3rErACAaHTbaqW": "HHhKpC0xV3Ow2BR1xiJ0JZn4RnNpWrx883PPuEm6EA/+0bqww8Q8qWMll3hVJfE7qoHefMIPa+INsnr83G+dKvA="
+ }
+}

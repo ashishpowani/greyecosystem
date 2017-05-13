@@ -1,0 +1,15 @@
+{
+ "cert_auth_type": "web", 
+ "cert_sign": "HCBlSENUzvFQv6i0QAoPqAB6FMtRFWIu2YasjW1XhaoQKxw24UCXcrRvFp2Cf3/MreyFWUY1wjcHPv2R5HSN3bg=", 
+ "cert_user_id": "fuckmyasspleease@zeroid.bit", 
+ "files": {
+  "data.json": {
+   "sha512": "51fdf863ff27d9b793780d4101c003d720fb46e16e3c3996a942b145acceaac6", 
+   "size": 93
+  }
+ }, 
+ "modified": 1451147140.838976, 
+ "signs": {
+  "1MQ9wPgxL3VFZtNzmXxgymu6LNqgD4sz7W": "HGPb76iSqSdRVQ8R2Xg/v4kgjeFeb+ECk1Grzs1RUhWcV80sYXfLCMaBD4tM4xaJV+uFyEiroRG+31R86Mdrejk="
+ }
+}

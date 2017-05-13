@@ -1,0 +1,17 @@
+{
+ "address": "1Gif7PqWTzVWDQ42Mo7np3zXmGAo3DXc7h",
+ "cert_auth_type": "web",
+ "cert_sign": "HOrr9s1sNJ3gpya/OAJjUHNKauDnEEdr+Fy+Z7oDBgejSGHPiZ3lLk79Owtk9vpcpXdpf7JMLgaXyGxOtwKu+K4=",
+ "cert_user_id": "garnettwu@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "48e3844fbbfc62abc8771ccd523f80f570de7353ac3ffb635147f8d02283c57c",
+   "size": 94
+  }
+ },
+ "inner_path": "data/users/1NaCuyqd4rb6WM8Vr49eoEd9NEea6JW5Pv/content.json",
+ "modified": 1476114968.893,
+ "signs": {
+  "1NaCuyqd4rb6WM8Vr49eoEd9NEea6JW5Pv": "GyeVCssVsSLG+oS9jzJz2tjw5uI6EQmLN6kZua9uqRxxVtO2tBYBqGewpebt7bzBEco3MA9apN9MzR9q7MDloB8="
+ }
+}

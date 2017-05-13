@@ -1,0 +1,17 @@
+{
+ "address": "1Gif7PqWTzVWDQ42Mo7np3zXmGAo3DXc7h",
+ "cert_auth_type": "web",
+ "cert_sign": "G+5UfDCNRASNbarY3ayf6vlQ7NtJ4dHF2z9/RHaXveMDjlbHH7fqRFhoFhHz/wQRXVGNCO1E7jT/jV3MiePQWdg=",
+ "cert_user_id": "lixus98@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "a8fbfe69a65259b85bf07726805ddfcbbff2f95b79f9a218e6edd9b2fd9dc79a",
+   "size": 107
+  }
+ },
+ "inner_path": "data/users/1MV8MwCaWTkMRmExuLvtPjLVEXDNfBCZXi/content.json",
+ "modified": 1474913639.229,
+ "signs": {
+  "1MV8MwCaWTkMRmExuLvtPjLVEXDNfBCZXi": "GxDjsele6wQICiFfAb1yzX5AuCYTBTE++/pf6+JsJL/cpeM0pGwqk9pey36UjZnnkeTNs1u/SgRz3lPMQqi6Ua4="
+ }
+}

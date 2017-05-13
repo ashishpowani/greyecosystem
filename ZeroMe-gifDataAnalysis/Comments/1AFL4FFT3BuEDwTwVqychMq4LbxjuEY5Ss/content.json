@@ -1,0 +1,17 @@
+{
+ "address": "1Gif7PqWTzVWDQ42Mo7np3zXmGAo3DXc7h",
+ "cert_auth_type": "web",
+ "cert_sign": "HOHLEw/hZ1SqTlyMJTQcTKi/CEqJieNRamcmwaraZNhmAaMD94Ku4/6YtjX6slU64JY+pl9pYhvY6nfMi35w5so=",
+ "cert_user_id": "superlugia@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "542f28494dc0aa4782959735ad9ba22be0348d5dec97e741806d476995bb2d64",
+   "size": 193
+  }
+ },
+ "inner_path": "data/users/1AFL4FFT3BuEDwTwVqychMq4LbxjuEY5Ss/content.json",
+ "modified": 1490696793.807996,
+ "signs": {
+  "1AFL4FFT3BuEDwTwVqychMq4LbxjuEY5Ss": "GxbWICmAEv+nYG9TfnEuinR0+6EnFvuc/NTWuwTAi2kVn0ZZZexsNWJB3yC84X2uDRFgMo3bxMEQ37sbDpNNKic="
+ }
+}

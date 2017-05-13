@@ -1,0 +1,17 @@
+{
+ "address": "1Gif7PqWTzVWDQ42Mo7np3zXmGAo3DXc7h",
+ "cert_auth_type": "web",
+ "cert_sign": "HLu8E8mcxg/HRuxAc2sJ8j6861TKMUG1iILyOwmdvzoKzNVFID9FEZLzr7Oha1a+U7VO0RROjJW2xRG32k4bFww=",
+ "cert_user_id": "yellowwall@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "df762e75d38be89f18d3027769534820250566ce9b457a5e9ae2e8470e44ad34",
+   "size": 1539
+  }
+ },
+ "inner_path": "data/users/1LshPocJXENFV8GbbxQPbE3fCwpnFtjTxD/content.json",
+ "modified": 1489454711,
+ "signs": {
+  "1LshPocJXENFV8GbbxQPbE3fCwpnFtjTxD": "GzK/1BxmAYb9lsDkvhlau5cZ5U8FgYsg2ASwiFdBBxwRJlo+3LlAEuJqKLlH6nzCUJWgCtIULJkphngvrpAhFto="
+ }
+}

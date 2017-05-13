@@ -1,0 +1,15 @@
+{
+ "cert_auth_type": "web", 
+ "cert_sign": "HJUPE0u6XNchlv1Pa6KGqO7MkOIpFGqni0MyemVZx+7mAYTwB43LdsLEAbAwAjxBZ+4gqjUl/k2fE6WkFG8OniE=", 
+ "cert_user_id": "nosferatus@zeroid.bit", 
+ "files": {
+  "data.json": {
+   "sha512": "e394a535afdf4104df4fbcda5feb21d1479c43414aa96c932de4fd3119b30a7d", 
+   "size": 93
+  }
+ }, 
+ "modified": 1451783613.068038, 
+ "signs": {
+  "1GUgC6A1qY4EV9PgTrYNeFrEth9bw3xRLp": "HNL4qGZp7ysr3z7XdW0I/ngXg+oOHFQOMKBraUSV+C5KllBuJ/3anxitzlv6mEEzn4EN0IvMVcWgQhugmmHy4Zs="
+ }
+}

@@ -1,0 +1,135 @@
+{
+	"next_comment_id": 11,
+	"comment": [
+		{
+			"comment_id": 1,
+			"body": "It's snowy down south.",
+			"post_id": 1124,
+			"date_added": 1469086312
+		},
+		{
+			"comment_id": 2,
+			"body": "I would totally paint my walls with this. Where to get it?",
+			"post_id": 1179,
+			"date_added": 1469086668
+		},
+		{
+			"comment_id": 3,
+			"body": "Why was there a delayed reaction? Why didn't it turn to steam immediately?",
+			"post_id": 1199,
+			"date_added": 1469086759
+		},
+		{
+			"comment_id": 4,
+			"body": "It's like ZeroNet!",
+			"post_id": 1043,
+			"date_added": 1469086846
+		},
+		{
+			"comment_id": 5,
+			"body": "Ooh I hate when that happens!",
+			"post_id": 1150,
+			"date_added": 1469086958
+		},
+		{
+			"comment_id": 6,
+			"body": "Screw you guys! I'm going home!",
+			"post_id": 1189,
+			"date_added": 1469087053
+		},
+		{
+			"comment_id": 7,
+			"body": "People wonder why I drive on the shoulder on roads without dividers.",
+			"post_id": 1100,
+			"date_added": 1469087730
+		},
+		{
+			"comment_id": 8,
+			"body": "OMG I'll never eat another cow for a week!",
+			"post_id": 1123,
+			"date_added": 1469087995
+		},
+		{
+			"comment_id": 9,
+			"body": "That's sexist.",
+			"post_id": 1359,
+			"date_added": 1469769420
+		},
+		{
+			"comment_id": 10,
+			"body": "OMG I hate that! \"I'll just fix this one thing... OMG now I'm responsible for all these other things! I'll just put the bug back and leave it alone!\"",
+			"post_id": 354,
+			"date_added": 1469769682
+		}
+	],
+	"comment_vote": {},
+	"post_vote": {
+		"354": 1,
+		"402": 1,
+		"481": 1,
+		"654": 1,
+		"890": 1,
+		"949": 1,
+		"1015": 1,
+		"1035": 1,
+		"1044": 1,
+		"1103": 1,
+		"1123": 1,
+		"1136": 1,
+		"1142": 1,
+		"1177": 1,
+		"1179": 1,
+		"1182": 1,
+		"1187": 1,
+		"1189": 1,
+		"1196": 1,
+		"1199": 1,
+		"1232": 1,
+		"1290": 1,
+		"1300": 1,
+		"1683": 1,
+		"2539": 1,
+		"2599": 1,
+		"2620": 1,
+		"2894": 1,
+		"2895": 1,
+		"2905": 1,
+		"2907": 1,
+		"2955": 1,
+		"2957": 1,
+		"2976": 1,
+		"2981": 1,
+		"2994": 1,
+		"5953": 1,
+		"5959": 1,
+		"5969": 1,
+		"5975": 1,
+		"5978": 1,
+		"5987": 1,
+		"5989": 1,
+		"5991": 1,
+		"5992": 1,
+		"5997": 1,
+		"6000": 1,
+		"6008": 1,
+		"6032": 1,
+		"6060": 1,
+		"6065": 1,
+		"6067": 1,
+		"6075": 1,
+		"6083": 1,
+		"6084": 1,
+		"6087": 1,
+		"6090": 1,
+		"6102": 1,
+		"6109": 1,
+		"6110": 1,
+		"6111": 1,
+		"6115": 1,
+		"6117": 1,
+		"6124": 1,
+		"6126": 1,
+		"6133": 1,
+		"6142": 1
+	}
+}

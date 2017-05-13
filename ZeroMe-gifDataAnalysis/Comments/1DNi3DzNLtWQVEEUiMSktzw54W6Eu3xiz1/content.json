@@ -1,0 +1,17 @@
+{
+ "address": "1Gif7PqWTzVWDQ42Mo7np3zXmGAo3DXc7h",
+ "cert_auth_type": "web",
+ "cert_sign": "G2fqA9Hb7GjtE7KCLw3P24XSscZBEtV0JLLjPZccqpqliiU9Cm+f7QYtGCgKzdCfq6aeV5Kc7yU6fXTHj+vdhkk=",
+ "cert_user_id": "darthcitrus2@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "fcaba4fd678de35fa635c419c3351cbe2a5468cd84feabeb8d19f98c5bf4e161",
+   "size": 260
+  }
+ },
+ "inner_path": "data/users/1DNi3DzNLtWQVEEUiMSktzw54W6Eu3xiz1/content.json",
+ "modified": 1488176358,
+ "signs": {
+  "1DNi3DzNLtWQVEEUiMSktzw54W6Eu3xiz1": "GzCN8XZQs8yS1czDhKe4cY0Yo/P0OVIzx0Sw9aYDuHUPXW9KX0KHi3yaxmqjb3Toa0jv55uY6P/ZFeaR8Fp7Jg4="
+ }
+}

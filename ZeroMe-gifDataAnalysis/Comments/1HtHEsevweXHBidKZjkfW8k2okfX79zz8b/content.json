@@ -1,0 +1,17 @@
+{
+ "address": "1Gif7PqWTzVWDQ42Mo7np3zXmGAo3DXc7h",
+ "cert_auth_type": "bitmsg",
+ "cert_sign": "HI4a6Yqmaep8zrCxlYTXY6Z+NxpBYKSjCS6glRFe97UnYqOSdWSff+v5qONTniByvDF4ydKoypHxE7j0sj6JROo=",
+ "cert_user_id": "zero@zeroverse.bit",
+ "files": {
+  "data.json": {
+   "sha512": "4834e7db2077ba777707087ebea1c040ced3e65fb50a125565264a0d912638bb",
+   "size": 834
+  }
+ },
+ "inner_path": "data/users/1HtHEsevweXHBidKZjkfW8k2okfX79zz8b/content.json",
+ "modified": 1492353792,
+ "signs": {
+  "1HtHEsevweXHBidKZjkfW8k2okfX79zz8b": "Gxi5s9iAfRnlf44ap5H/jzrpt5f3TWUQkzogzrgqG2RBDGPz20s4Js1KkPjKIVfaEqoNT5J9KYQcmTWUt01P6DM="
+ }
+}

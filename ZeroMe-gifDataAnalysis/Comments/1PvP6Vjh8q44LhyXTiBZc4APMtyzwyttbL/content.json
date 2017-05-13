@@ -1,0 +1,17 @@
+{
+ "address": "1Gif7PqWTzVWDQ42Mo7np3zXmGAo3DXc7h",
+ "cert_auth_type": "web",
+ "cert_sign": "G/QNyOcWR2nE0XFrgGr/acs550cwxir94uFLNZEqKVLF3r7HxdPgdl9bZ2UqGmQOf1VH1cARws4MO7HRCRkBM/k=",
+ "cert_user_id": "climatestate@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "46922d6d7e4e5881bf887a52c02d6b05d490eec343e5212df92681901c80bd22",
+   "size": 318
+  }
+ },
+ "inner_path": "data/users/1PvP6Vjh8q44LhyXTiBZc4APMtyzwyttbL/content.json",
+ "modified": 1486390963,
+ "signs": {
+  "1PvP6Vjh8q44LhyXTiBZc4APMtyzwyttbL": "HBOPoWHT7lscZZQRDh+yNoOgSY/SngAGJ/3FumO9/iF3Q7VwfJUzgM19XdezAA1Regu56H0WAyPO0IUpa4vR/nw="
+ }
+}

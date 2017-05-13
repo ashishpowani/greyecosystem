@@ -1,0 +1,17 @@
+{
+ "address": "1Gif7PqWTzVWDQ42Mo7np3zXmGAo3DXc7h",
+ "cert_auth_type": "web",
+ "cert_sign": "Gw2tt9lRSGAjrHu+nVUOiZXGEn06ZzHcijPtQCDEYp2B3kY8igqpXUFNeoe0uRZsi0y4KQlFF18dBrN8K3iC9e8=",
+ "cert_user_id": "soulflyb@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "e7388ad0ef35dc3e2b7adeec7cab51f44d85f8570148b5c51cd520ee41e2132c",
+   "size": 107
+  }
+ },
+ "inner_path": "data/users/13Gux7vzVpX8M2iWaSBUFER7NVEvY8YaCA/content.json",
+ "modified": 1479646812.637782,
+ "signs": {
+  "13Gux7vzVpX8M2iWaSBUFER7NVEvY8YaCA": "G8jGoPeFRJM4fTMFjt6PGaYelct8XSS9quUJFzvd7IL9lEMOGFi7hh2CkhhSvHiOfQTswdImNuly22ap1VTi9IM="
+ }
+}

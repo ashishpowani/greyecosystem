@@ -1,0 +1,30 @@
+{
+	"next_comment_id": 2,
+	"comment": [
+		{
+			"comment_id": 1,
+			"body": "$ sudo apt-get install cmatrix\nis the way...",
+			"post_id": 3827,
+			"date_added": 1481484167
+		}
+	],
+	"comment_vote": {},
+	"topic_vote": {},
+	"post_vote": {
+		"654": 1,
+		"726": 1,
+		"1118": 1,
+		"1770": 1,
+		"2184": 1,
+		"2506": 1,
+		"2599": 1,
+		"2905": 1,
+		"3634": 1,
+		"3811": 1,
+		"3827": 1,
+		"4733": 1,
+		"4744": 1,
+		"4748": 1,
+		"4765": 1
+	}
+}

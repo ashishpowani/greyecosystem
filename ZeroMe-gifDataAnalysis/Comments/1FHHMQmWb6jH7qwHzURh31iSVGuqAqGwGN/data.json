@@ -1,0 +1,22 @@
+{
+	"next_comment_id": 2,
+	"comment": [
+		{
+			"comment_id": 1,
+			"body": "What is this thing actually called?",
+			"post_id": 929,
+			"date_added": 1456974122
+		}
+	],
+	"comment_vote": {},
+	"post_vote": {
+		"389": 1,
+		"414": 1,
+		"490": 1,
+		"1116": 1,
+		"1121": 1,
+		"1122": 1,
+		"1124": 1,
+		"1125": 1
+	}
+}

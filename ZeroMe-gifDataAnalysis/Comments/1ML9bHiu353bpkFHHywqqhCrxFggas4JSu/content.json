@@ -1,0 +1,17 @@
+{
+ "address": "1Gif7PqWTzVWDQ42Mo7np3zXmGAo3DXc7h",
+ "cert_auth_type": "web",
+ "cert_sign": "HIPp+QMeSA8+4a7RFx2AnimROeBjayx5viHBwVMXACW1wRJ0wGn9Yl1gGhuJm3h6Ym+OHsaA/gLYmxiOw5RYPx8=",
+ "cert_user_id": "artrac@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "ef111fe0a83e883519565b4c0eeceecdec2261f8fc736ba621424e5ad172ff4a",
+   "size": 107
+  }
+ },
+ "inner_path": "data/users/1ML9bHiu353bpkFHHywqqhCrxFggas4JSu/content.json",
+ "modified": 1491041249,
+ "signs": {
+  "1ML9bHiu353bpkFHHywqqhCrxFggas4JSu": "HOEF1djr4wgsEWps6Bzcfyn3OvxnWPNlfDdy1ixddKH7hyfb4LeEO9ALLDHZVdqvsfwDVU0ScdBe6Yw/NzWLHc0="
+ }
+}

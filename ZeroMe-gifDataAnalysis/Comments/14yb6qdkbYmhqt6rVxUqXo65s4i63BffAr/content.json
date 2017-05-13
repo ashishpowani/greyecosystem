@@ -1,0 +1,15 @@
+{
+ "cert_auth_type": "web", 
+ "cert_sign": "GwpwzFxJrzHVPoLm6aqmLn9CQYYUeHgrnmC87KlsfcYQ8Ql4dxlZOTjzZ7v4neZG4qLVwojGcefRtRv+mi7bi1w=", 
+ "cert_user_id": "joecruzeiro@zeroid.bit", 
+ "files": {
+  "data.json": {
+   "sha512": "8d304aec7bcbe38c8e5c7c7a2c054a661c074b5670962b2a0f6401ee660976a5", 
+   "size": 103
+  }
+ }, 
+ "modified": 1447196038.362037, 
+ "signs": {
+  "14yb6qdkbYmhqt6rVxUqXo65s4i63BffAr": "G6lBt3tREWGEQG+Wpir3r6Dn1L3Nb1anGVF70SvoIBv+taN9vlN3aVQmJiTtOTswXeNRZEvHUxdU699tWwOA5sw="
+ }
+}

@@ -1,0 +1,17 @@
+{
+ "address": "1Gif7PqWTzVWDQ42Mo7np3zXmGAo3DXc7h",
+ "cert_auth_type": "web",
+ "cert_sign": "HHDEloRRlcGkICUka/DcOI0hfAcDnuxT8ae+WzyXxRMp+HVoZkkhmIicjsBVqWasihLi4mBtIdgzlNlDQeg8thg=",
+ "cert_user_id": "pochonboband1@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "ff128824957311a543e91b77caa716d5e5b2749fd299196f8e3a4dde27b021f9",
+   "size": 107
+  }
+ },
+ "inner_path": "data/users/17uWcNnACK1w1wivuygAtmcwAExKg7J8jf/content.json",
+ "modified": 1485392627,
+ "signs": {
+  "17uWcNnACK1w1wivuygAtmcwAExKg7J8jf": "HIcrI+386Os3hWjYLPFlGOiKWAvBBaAyYexRBxEVqtl/Qp/K4b9lHbJyIkjIKreht40PMwsuxBq6dcVPLmLLYSY="
+ }
+}

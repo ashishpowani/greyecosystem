@@ -1,0 +1,27 @@
+{
+	"next_comment_id": 3,
+	"comment": [
+		{
+			"comment_id": 1,
+			"body": "So violent! Please tag this as NSFL!",
+			"post_id": 5997,
+			"date_added": 1489164562
+		},
+		{
+			"comment_id": 2,
+			"body": "Everybody has a test environment; some are just lucky enough to have it separate from the production environment.",
+			"post_id": 2967,
+			"date_added": 1489164771
+		}
+	],
+	"comment_vote": {},
+	"post_vote": {
+		"1142": 1,
+		"1152": 1,
+		"1217": 1,
+		"2967": 1,
+		"3311": 1,
+		"3320": 1,
+		"5997": 1
+	}
+}

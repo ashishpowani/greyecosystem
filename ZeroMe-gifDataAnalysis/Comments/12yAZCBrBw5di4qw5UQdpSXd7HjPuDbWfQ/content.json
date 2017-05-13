@@ -1,0 +1,17 @@
+{
+ "address": "1Gif7PqWTzVWDQ42Mo7np3zXmGAo3DXc7h",
+ "cert_auth_type": "web",
+ "cert_sign": "GxnwvSwESuH93VkbCoDZ/j8zbNR9vY8OyO8CutyYKwVyg5vqM7sFuwCqCqN4sUQd2mydmkeOJOCHoumFpysYuRM=",
+ "cert_user_id": "alfanumerico14@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "bb1bb639a183218eb11b601a12ce11364d0977b3b991b42889c5b211da05f3cb",
+   "size": 94
+  }
+ },
+ "inner_path": "data/users/12yAZCBrBw5di4qw5UQdpSXd7HjPuDbWfQ/content.json",
+ "modified": 1494181606,
+ "signs": {
+  "12yAZCBrBw5di4qw5UQdpSXd7HjPuDbWfQ": "G3YAzokrLrNO30DZ+Auaiz5k3b1CrSbbNNzws/6tjwL8C9ES73mofHA9vvAIB827KcFw7nvKW7+x+FLT/t51seM="
+ }
+}

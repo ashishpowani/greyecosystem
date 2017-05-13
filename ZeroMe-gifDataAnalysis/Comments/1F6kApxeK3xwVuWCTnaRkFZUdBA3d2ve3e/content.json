@@ -1,0 +1,17 @@
+{
+ "address": "1Gif7PqWTzVWDQ42Mo7np3zXmGAo3DXc7h",
+ "cert_auth_type": "web",
+ "cert_sign": "GyxNH6PKwbJaWpiaxwHJWuJDbtuVqNzaDLAnUzrAjXyNLE5BOfuHXYFdeuX38eaqfU7xNailpmksPzAy+Wcl3P4=",
+ "cert_user_id": "wunderbar@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "b46ed81d5796a18d16bb09db7e43765cb9e02c765ad0792f7b090d0bfe1dfd3a",
+   "size": 398
+  }
+ },
+ "inner_path": "data/users/1F6kApxeK3xwVuWCTnaRkFZUdBA3d2ve3e/content.json",
+ "modified": 1460260006.347123,
+ "signs": {
+  "1F6kApxeK3xwVuWCTnaRkFZUdBA3d2ve3e": "Gy3kERf0cYY8qCoAeoHt0MkeVIyQImBK0PuUn708eK2iDRlgwccHNqv2z8/t5JDOFOn9d+yVqRVHi5zzIoH4IdY="
+ }
+}

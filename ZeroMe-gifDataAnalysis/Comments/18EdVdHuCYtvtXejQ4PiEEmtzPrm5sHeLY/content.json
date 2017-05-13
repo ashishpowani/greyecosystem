@@ -1,0 +1,17 @@
+{
+ "address": "1Gif7PqWTzVWDQ42Mo7np3zXmGAo3DXc7h",
+ "cert_auth_type": "web",
+ "cert_sign": "G2E21U8CBwoW4pT2tSWBuyfBe4bn4DOd7sNk4gNAYROFu+CpxXGNM0P56aJKk3LGgbXw0AJoZgQ+TmGxb6II4ic=",
+ "cert_user_id": "arriettynoka@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "d6f6d70518a395927d98bee4131a81ab1b458c7828555c71d01eefe2725189c2",
+   "size": 120
+  }
+ },
+ "inner_path": "data/users/18EdVdHuCYtvtXejQ4PiEEmtzPrm5sHeLY/content.json",
+ "modified": 1457514403.691,
+ "signs": {
+  "18EdVdHuCYtvtXejQ4PiEEmtzPrm5sHeLY": "HAs/jNaqrUAAIPK6EDcHziIuTbxY1wxXDJjiv1ZMDL12l4UlZGku7Fg+xecW1BtO+E0xapTMZ4t/+x1Ipwf+ckE="
+ }
+}

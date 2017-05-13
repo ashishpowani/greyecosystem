@@ -1,0 +1,17 @@
+{
+ "address": "1Gif7PqWTzVWDQ42Mo7np3zXmGAo3DXc7h",
+ "cert_auth_type": "web",
+ "cert_sign": "G9ylV+AqYI+cMLKNSRdvcTRDFsHgVmRzmTUqtOmSYvgLaOm5MlkHcJ8udOP1oNAYSmAnWnvflCwtxWwH00hy3GI=",
+ "cert_user_id": "adamthechespin@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "518fa331c7ec8f60c48d4f41adb29275eb863155b4394b913f1c7694a0ed7787",
+   "size": 94
+  }
+ },
+ "inner_path": "data/users/1QKWDtk2V4QMVyJGh9tZYcsd1qJsAX8c4k/content.json",
+ "modified": 1469837271.329174,
+ "signs": {
+  "1QKWDtk2V4QMVyJGh9tZYcsd1qJsAX8c4k": "G33R9vt4ccWX1J7siuhKR0lCl2N2Ix62fHX7j+AgtrCpisGdsEwsG2R/qstAM9PtngX7dOIjjiyUJiv8B/Wi9M4="
+ }
+}

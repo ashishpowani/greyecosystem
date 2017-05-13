@@ -1,0 +1,17 @@
+{
+	"next_comment_id": 2,
+	"comment": [
+		{
+			"comment_id": 1,
+			"body": "天衣无缝",
+			"post_id": 1116,
+			"date_added": 1460297102
+		}
+	],
+	"comment_vote": {},
+	"topic_vote": {},
+	"post_vote": {
+		"988": 1,
+		"1095": 1
+	}
+}

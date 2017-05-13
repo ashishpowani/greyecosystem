@@ -1,0 +1,17 @@
+{
+ "address": "1Gif7PqWTzVWDQ42Mo7np3zXmGAo3DXc7h",
+ "cert_auth_type": "web",
+ "cert_sign": "HKp+TiogIO64o8ThIG1efpvPjn5JRvZJ/Jiazo7ux5tcB1qBbg0NiXj1Fsg8xPTG5+JI/N07Sb5T9Dr/admGLFc=",
+ "cert_user_id": "nowifi@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "90829c354b7f65bdbea44a28e1bc3a3df4ea7701129888407f992eea71bde08a",
+   "size": 282
+  }
+ },
+ "inner_path": "data/users/1BqfKBNyqaCkU8nZ4fNvSJtc4T9MbxqdPB/content.json",
+ "modified": 1488455453,
+ "signs": {
+  "1BqfKBNyqaCkU8nZ4fNvSJtc4T9MbxqdPB": "HIG+Oc/Xy9vwRDudoQWlIsjDnNzaSLotgFNS+S9RiE5Vw4o5CZ8zQcxWs14276oEMh2Q+bZUn1mrMxrNKPg8LY8="
+ }
+}

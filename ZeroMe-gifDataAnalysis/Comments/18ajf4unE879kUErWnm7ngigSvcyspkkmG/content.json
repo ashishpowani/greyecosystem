@@ -1,0 +1,17 @@
+{
+ "address": "1Gif7PqWTzVWDQ42Mo7np3zXmGAo3DXc7h",
+ "cert_auth_type": "web",
+ "cert_sign": "HD/a5min4VsuAHVj7KgiK2gMVZP4vN7JOx+NwMWd96qwNKSTDhg+sQlVwqcTgCBDFA+6cjU+ftpmR9fE3R3hGwA=",
+ "cert_user_id": "deangelo7@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "a1177cf7a68350578584e91706fdc8147818c36c4501a59444bac1d80f762da0",
+   "size": 487
+  }
+ },
+ "inner_path": "data/users/18ajf4unE879kUErWnm7ngigSvcyspkkmG/content.json",
+ "modified": 1456979856.455,
+ "signs": {
+  "18ajf4unE879kUErWnm7ngigSvcyspkkmG": "G0uH5+ug4RDjEBG8oFPCKMB9fbh3LnWcFL0xEmj7NFECRT7yUF7aCEi/kLKh2wO5I3Mry0UtxZpY9HjyilrhpqE="
+ }
+}

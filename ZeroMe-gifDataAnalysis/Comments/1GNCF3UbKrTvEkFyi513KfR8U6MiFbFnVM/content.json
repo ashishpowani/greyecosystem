@@ -1,0 +1,15 @@
+{
+ "cert_auth_type": "web", 
+ "cert_sign": "G0TgDspPjkCO2rBb3581+8IBI9MY7jnqfxX9hb23G7UBWCUlDXtG57tLusfIRO/hKiVoYe9kUpIMps8P5W6rMwQ=", 
+ "cert_user_id": "gemaprox@zeroid.bit", 
+ "files": {
+  "data.json": {
+   "sha512": "75b9498f36dec8977b2079c3c8b3c5ed56bb7dfed1dd479b4fdc1a2f3311eab8", 
+   "size": 117
+  }
+ }, 
+ "modified": 1450640738.912304, 
+ "signs": {
+  "1GNCF3UbKrTvEkFyi513KfR8U6MiFbFnVM": "G9u9T4xSuw9JRQc8gTjHxZhjALpgp6sRrxSX9gIzi+e6QeGd+EAX+5nKRsMKdHAO3/qgqXz2zZzDuc2AYUIci1Y="
+ }
+}

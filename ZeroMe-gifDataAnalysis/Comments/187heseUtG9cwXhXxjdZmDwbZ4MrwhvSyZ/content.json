@@ -1,0 +1,17 @@
+{
+ "address": "1Gif7PqWTzVWDQ42Mo7np3zXmGAo3DXc7h",
+ "cert_auth_type": "web",
+ "cert_sign": "G//bhOQP15H2tp7/trvA4Vk9c6kmgb9vNoFDqcPyqA0auo1SqkzWDBaISlTbWFhRP9lWs2DaTIdRQRiNyyPrA3A=",
+ "cert_user_id": "joynike@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "3b71fc30e22c87a13a10409fc2c17c66edabfeb6cde6c705a05f9467c140338d",
+   "size": 328
+  }
+ },
+ "inner_path": "data/users/187heseUtG9cwXhXxjdZmDwbZ4MrwhvSyZ/content.json",
+ "modified": 1459651092.746,
+ "signs": {
+  "187heseUtG9cwXhXxjdZmDwbZ4MrwhvSyZ": "G2TMSszfBoUr/vP7CY1Cqr/GQHAWPGkRzMfJgyy8ukPVovgstvWTQfXFcV1BKDqH6sNftFEgho65M8KnMRmDqig="
+ }
+}

@@ -1,0 +1,45 @@
+{
+	"next_comment_id": 3,
+	"comment": [
+		{
+			"comment_id": 1,
+			"body": "who is she? <3",
+			"post_id": 1089,
+			"date_added": 1456892562
+		},
+		{
+			"comment_id": 2,
+			"body": "> [hermes](#comment_1_16meaJpuQ626MGr89N9pM98XoYMPL4e959): Tiffany Star\n\nThank you :D, time to read some articles <3",
+			"post_id": 1089,
+			"date_added": 1457045131
+		}
+	],
+	"comment_vote": {},
+	"post_vote": {
+		"496": 1,
+		"579": 1,
+		"581": 1,
+		"883": 1,
+		"1077": 1,
+		"1089": 1,
+		"1112": 1,
+		"1113": 1,
+		"1115": 1,
+		"1161": 1,
+		"1172": 1,
+		"1173": 1,
+		"1174": 1,
+		"1176": 1,
+		"1177": 1,
+		"1179": 1,
+		"1184": 1,
+		"1188": 1,
+		"1194": 1,
+		"1196": 1,
+		"1197": 1,
+		"1199": 1,
+		"1202": 1,
+		"1209": 1,
+		"1232": 1
+	}
+}

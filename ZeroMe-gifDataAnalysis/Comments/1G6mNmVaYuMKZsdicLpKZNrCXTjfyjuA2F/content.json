@@ -1,0 +1,17 @@
+{
+ "address": "1Gif7PqWTzVWDQ42Mo7np3zXmGAo3DXc7h",
+ "cert_auth_type": "web",
+ "cert_sign": "G1dEMPIIoYRwdu0aTezyraAPBeJ2B8qDMXkwX1zC4OusMIwJuvfpIXkQXlpy/gXX7YQLKI5di+kGQSVUk6Us27g=",
+ "cert_user_id": "taxcredits123@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "4c6e83cf7b353124e89f75c5c132a77bcc4d162e97e9b9d3294b262025ecadad",
+   "size": 146
+  }
+ },
+ "inner_path": "data/users/1G6mNmVaYuMKZsdicLpKZNrCXTjfyjuA2F/content.json",
+ "modified": 1472622494.191,
+ "signs": {
+  "1G6mNmVaYuMKZsdicLpKZNrCXTjfyjuA2F": "G9Jt6gLM1J8EnbLdUYZ2zPW8LxBf/LutHWP5MXJ3wkVTPtr6aisH0ca3AWJAERgrIZyeitlz+FFNvJBS4RoNsx8="
+ }
+}

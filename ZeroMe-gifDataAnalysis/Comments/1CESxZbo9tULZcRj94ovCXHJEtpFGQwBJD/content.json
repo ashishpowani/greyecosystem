@@ -1,0 +1,17 @@
+{
+ "address": "1Gif7PqWTzVWDQ42Mo7np3zXmGAo3DXc7h",
+ "cert_auth_type": "web",
+ "cert_sign": "G6e3BXbWsMhJhJ/zf8aI2dpSaPJQF/nfQAbrgbgYAUCEE+jDIqbFPS4OeM1i6vncv1VYFpPvftQVLnzhXwixLig=",
+ "cert_user_id": "zackass@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "ebc8f5daef118c250a387cc20e7cdcd401815c7d9a09eb6bde7b526bfdb98282",
+   "size": 133
+  }
+ },
+ "inner_path": "data/users/1CESxZbo9tULZcRj94ovCXHJEtpFGQwBJD/content.json",
+ "modified": 1457572976.112,
+ "signs": {
+  "1CESxZbo9tULZcRj94ovCXHJEtpFGQwBJD": "G8lksXLdV3xL9EiU0T87/FGrNmIeB1S4idBwvMosYKt4uUftI3hC8rS+RaZlrlYBg4BXyzDs3hSioWUVqUZxmDA="
+ }
+}

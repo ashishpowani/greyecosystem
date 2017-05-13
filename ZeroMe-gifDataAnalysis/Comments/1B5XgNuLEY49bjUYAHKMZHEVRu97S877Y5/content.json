@@ -1,0 +1,17 @@
+{
+ "address": "1Gif7PqWTzVWDQ42Mo7np3zXmGAo3DXc7h",
+ "cert_auth_type": "web",
+ "cert_sign": "HGQxZucO+4zlmScd1PGoVu7JIQrzvE6IdkGZSb3YgoBjO/uP8NZPpbLHRX/TOPQud+nan7WI8i4gfdJasMhHClU=",
+ "cert_user_id": "patina27@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "580df4e8d10cec9e738aaed3052e7214f7cdd0717eb6979ae8df15f3247ee825",
+   "size": 93
+  }
+ },
+ "inner_path": "data/users/1B5XgNuLEY49bjUYAHKMZHEVRu97S877Y5/content.json",
+ "modified": 1475741354.109,
+ "signs": {
+  "1B5XgNuLEY49bjUYAHKMZHEVRu97S877Y5": "HEqQdxi7K951HnXgAa+8Va2VyAwDfTQvkF1hdFKo6Irlp64An1Uk6UUKoG3pkUCWMn4w2bGDvyg+VvQNWkcEMYg="
+ }
+}

@@ -1,0 +1,17 @@
+{
+ "address": "1Gif7PqWTzVWDQ42Mo7np3zXmGAo3DXc7h",
+ "cert_auth_type": "web",
+ "cert_sign": "GwBy6w+OVMtMcM7KuKbkawCm8mamTGzFf5idupJOQXAOy7zU9OkGETQ/yZ8RrLL0uKeeNIVPLcg4oMTfnCilNPg=",
+ "cert_user_id": "play4fun@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "1f39dd49ea79fe427e60c0752ff82886a9372fd2207a62ee9aee74a048ce0f3e",
+   "size": 211
+  }
+ },
+ "inner_path": "data/users/1MMNLFGAx69LSsp5gxw1AkDKPDHYa5pCh1/content.json",
+ "modified": 1475937506.64,
+ "signs": {
+  "1MMNLFGAx69LSsp5gxw1AkDKPDHYa5pCh1": "HJj3/al0BuO4Wh4v1odBCYcji3PEopdjpfAKFXIglSX3eCC02QIxoGvBNSrkMm+6m14ShyWQHvrslOUTbY10+X0="
+ }
+}

@@ -1,0 +1,17 @@
+{
+ "address": "1Gif7PqWTzVWDQ42Mo7np3zXmGAo3DXc7h",
+ "cert_auth_type": "web",
+ "cert_sign": "G8YKQxrqhATybW8a9cwx0NhD7oblEBsXut52BtpkaVQjKvNTek37QsuRzUzl36R1803YdGC6q0ijWZpijCp/P7s=",
+ "cert_user_id": "chainmantrucker@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "81661d0586d047a19cc915247e1d7bd379e5ef108bd0dd4204cd9534113cd3ef",
+   "size": 94
+  }
+ },
+ "inner_path": "data/users/1Lhdk8sBr6R5G5fNMyE5htZYmdayXuKeNC/content.json",
+ "modified": 1469749028.775,
+ "signs": {
+  "1Lhdk8sBr6R5G5fNMyE5htZYmdayXuKeNC": "G2fn+pHtpe4oM1gV3UqGZOgKteCH+yYlu3TTkYpMrGasHOnCCAYl2CWQY1UN+lgFSlD4rikNFQg1YYkyb9bZzEc="
+ }
+}

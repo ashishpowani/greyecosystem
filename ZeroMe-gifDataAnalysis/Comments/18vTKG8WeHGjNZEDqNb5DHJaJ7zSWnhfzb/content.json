@@ -1,0 +1,17 @@
+{
+ "address": "1Gif7PqWTzVWDQ42Mo7np3zXmGAo3DXc7h",
+ "cert_auth_type": "web",
+ "cert_sign": "HIMMkHnLNh52f1tow9t/JdFz0BWmu2kzWXxxt76zIWOHc6g1LTCkRC+/iV5fcN22GBgsj/EKjlX6khXYF1M5jAo=",
+ "cert_user_id": "patriccormac@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "65a79acdcec6d26308f2212d2feb48267097791b3e677ce5a645f1ca5fa0b33a",
+   "size": 133
+  }
+ },
+ "inner_path": "data/users/18vTKG8WeHGjNZEDqNb5DHJaJ7zSWnhfzb/content.json",
+ "modified": 1468752037.117,
+ "signs": {
+  "18vTKG8WeHGjNZEDqNb5DHJaJ7zSWnhfzb": "G63lBgxMX1EJ9nnjBil5TUMf9cFcJ40HYks5zKalgal6Z4arF02NegA19QuXnqo496cISuUSzV8lFXxBCPE2uPc="
+ }
+}

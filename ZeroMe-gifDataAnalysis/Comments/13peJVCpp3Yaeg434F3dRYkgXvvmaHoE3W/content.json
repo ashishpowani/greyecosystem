@@ -1,0 +1,17 @@
+{
+ "address": "1Gif7PqWTzVWDQ42Mo7np3zXmGAo3DXc7h",
+ "cert_auth_type": "web",
+ "cert_sign": "HCljPTZJ12f/jgm2pWnv9AzHJajsK9r5rQ9/KqXk1mORgs5ACKRWwrdaSTRFoXAGRwlxzbqVivrEj51LUijztsY=",
+ "cert_user_id": "bakterbandi@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "6a75d3d267ffd6643e223daef6b13defc0185880dc250df0dd313f373b61f3e0",
+   "size": 133
+  }
+ },
+ "inner_path": "data/users/13peJVCpp3Yaeg434F3dRYkgXvvmaHoE3W/content.json",
+ "modified": 1492823644,
+ "signs": {
+  "13peJVCpp3Yaeg434F3dRYkgXvvmaHoE3W": "HOliP4/u5RmZ8UxdbuFrG1tBp0OO/oqOORQdD6o4IxwafaRTDYKKcjMVPxl7IbMZuOR5vFm6K7Hl8+3/drPSvjo="
+ }
+}

@@ -1,0 +1,17 @@
+{
+ "address": "1Gif7PqWTzVWDQ42Mo7np3zXmGAo3DXc7h",
+ "cert_auth_type": "web",
+ "cert_sign": "G54ghXxKE2VI8vWCb5BOcyoNUxmr2CX+/HScC7EPIGlNTnmZd/UByu3fDcf9uzFt2rnj/yMVOjI2Qmc/OxWxJ4s=",
+ "cert_user_id": "metanoia@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "46500c791f8abbb9d99d9b970fbf74b535c0e091989986784469d4c3d30e55a2",
+   "size": 94
+  }
+ },
+ "inner_path": "data/users/1DQyaY4JT5oiGYkwE3mTC1UQcS3gfLDMoq/content.json",
+ "modified": 1476046544.437,
+ "signs": {
+  "1DQyaY4JT5oiGYkwE3mTC1UQcS3gfLDMoq": "G7+KE5433CEh+F3xT23OkUSabiKfxxpjfQ8Gpjlb9nzdZNgdVngXxTGXKDaY0JIUM8+lEFRkYxqpKb7FU1Y41mc="
+ }
+}

@@ -1,0 +1,17 @@
+{
+ "address": "1Gif7PqWTzVWDQ42Mo7np3zXmGAo3DXc7h",
+ "cert_auth_type": "web",
+ "cert_sign": "G4jY2dK88R6A5E5z5VzZMmEX2PHYPorU+lYsh2t38+B7B9NnukDum3UBQPJpWkCN1YYg+hWly7r18v031Iy3F3U=",
+ "cert_user_id": "dorum0@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "986f224a5f4063c03ad07feea8cd443f66b480156bc37f6ac6d94b1fbd30166b",
+   "size": 94
+  }
+ },
+ "inner_path": "data/users/18vGR4fWN2ftsq5ahzniAajBogWGzUvuSt/content.json",
+ "modified": 1461711542.48,
+ "signs": {
+  "18vGR4fWN2ftsq5ahzniAajBogWGzUvuSt": "G5NS7X7ijVVgSV48/SEjlHT85SpBq5YVP2KXKTKmeH8rDpoTqcD/t7FNcvRB4MsEDXkY9+3vQmsvOR92E1IEki0="
+ }
+}

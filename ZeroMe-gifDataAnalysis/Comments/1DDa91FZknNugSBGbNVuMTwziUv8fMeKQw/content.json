@@ -1,0 +1,17 @@
+{
+ "address": "1Gif7PqWTzVWDQ42Mo7np3zXmGAo3DXc7h",
+ "cert_auth_type": "web",
+ "cert_sign": "HA17SkJbooOI9fZ55WlmNFEZL6cZU8v2fjLjr+za4nSyWKa+Xa2f5dnbXQgNyedxpNAlx5R0hjTqXhjmXy24GYs=",
+ "cert_user_id": "vedox@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "fb249247066880e3266030e92adeb34be62aa57aa8686c2ecb2f800732086cb7",
+   "size": 120
+  }
+ },
+ "inner_path": "data/users/1DDa91FZknNugSBGbNVuMTwziUv8fMeKQw/content.json",
+ "modified": 1476478149.545029,
+ "signs": {
+  "1DDa91FZknNugSBGbNVuMTwziUv8fMeKQw": "HC8I7SCFD+rzg7FnejteUwcKb9Pf32bIkybFXyFskLSX4//ENf25wCZd/vuOTZpjpKBe7/3nwCGlEUHzs1nlzKo="
+ }
+}

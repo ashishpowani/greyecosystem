@@ -1,0 +1,17 @@
+{
+ "address": "1Gif7PqWTzVWDQ42Mo7np3zXmGAo3DXc7h",
+ "cert_auth_type": "web",
+ "cert_sign": "HCxzzYjf8EPG8zv9kWSRE52t6L7nwa+JYBW+7Lyh73cPRmXkKkY/H+bbB8gxM82gzF159cNPuvBS9oQnb9wqf1w=",
+ "cert_user_id": "hololense@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "d95f796815b050732c65b24057d1f6ad5c8c5de65e9e4dc47de5936427014419",
+   "size": 618
+  }
+ },
+ "inner_path": "data/users/1PRtPMsAohGekTGBAqKEZG1V8ZPX4iY2gW/content.json",
+ "modified": 1458905373.139062,
+ "signs": {
+  "1PRtPMsAohGekTGBAqKEZG1V8ZPX4iY2gW": "GzWR4wEyonWqetOZn4NEvqVklss+mPPLDVfJSVJ32mIe3c9QXl5+JGR0w3bJ0kvFkpJt5tFt9hA5GHbiGpaPFdQ="
+ }
+}

@@ -1,0 +1,17 @@
+{
+ "address": "1Gif7PqWTzVWDQ42Mo7np3zXmGAo3DXc7h",
+ "cert_auth_type": "web",
+ "cert_sign": "HKWmAxiAxJBI2V+6vXXj+nO8NIdv8U00dc9oWR1UCA4MJq7oCE7/L3Pf/12KsKzdMw19L+snhUIt7DqDB21e+bg=",
+ "cert_user_id": "batebucker@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "85abba3ae606c889c59d0890170a3e30771868576df4aedf998fdd2be74922e9",
+   "size": 364
+  }
+ },
+ "inner_path": "data/users/1LiBnzb4uUgeqexrGmhnpb45bdZ2KNBpEx/content.json",
+ "modified": 1460100429.082,
+ "signs": {
+  "1LiBnzb4uUgeqexrGmhnpb45bdZ2KNBpEx": "G2mn7gEE55VIIG3EbIlnzAxPUf+6p2NmtJseKm2aSi6f/bDS8pr25T4YzlOZVwrTC6/2zK0JP8BtjJ70pFGIKzQ="
+ }
+}

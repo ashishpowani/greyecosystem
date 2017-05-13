@@ -1,0 +1,17 @@
+{
+ "address": "1Gif7PqWTzVWDQ42Mo7np3zXmGAo3DXc7h",
+ "cert_auth_type": "web",
+ "cert_sign": "HBAubrOrjfBQMDv2FzpBBhVlLMeTVgaIhpnT0R/GBNg6qr/H8CH67cpNWKFbPQCUOle8K742Mvwkp+FdRl2lq7c=",
+ "cert_user_id": "fujita@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "fbd2dae2c9f4404d527ef15a2bc4433a44adc4fcf281bfe2afb7a775d25677d3",
+   "size": 105
+  }
+ },
+ "inner_path": "data/users/18Gpj4HEyNxELe41oebyi5365VTNWXjpA4/content.json",
+ "modified": 1489329902,
+ "signs": {
+  "18Gpj4HEyNxELe41oebyi5365VTNWXjpA4": "G4Wqi8qUJnzvHHVvQPS6rHUBUnNLFnpT/9Fx7JocLxkR5KJhxUG17p59CRKzhRrnfmL0ytjVU/52seZvLFlH+bQ="
+ }
+}

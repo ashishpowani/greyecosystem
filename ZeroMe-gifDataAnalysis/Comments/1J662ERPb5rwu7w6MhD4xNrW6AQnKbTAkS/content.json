@@ -1,0 +1,17 @@
+{
+ "address": "1Gif7PqWTzVWDQ42Mo7np3zXmGAo3DXc7h",
+ "cert_auth_type": "web",
+ "cert_sign": "G5FfmszIZh2x17K6u6yDVkOpQh7MwvVXt0xaMA7uqMcPWgTHw4TnvC+c5Gk6K7/G4z+d9hujHKcDb66vw8KY+5c=",
+ "cert_user_id": "jeanboris@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "464dd3aead981582943755aeef0d9d3699f56fc92a21ab62a354eca6ba3d36d5",
+   "size": 107
+  }
+ },
+ "inner_path": "data/users/1J662ERPb5rwu7w6MhD4xNrW6AQnKbTAkS/content.json",
+ "modified": 1490451777,
+ "signs": {
+  "1J662ERPb5rwu7w6MhD4xNrW6AQnKbTAkS": "G9IDx97iaRgnsgsEMjQbKAKFGqRF0kyCaK4tYU6vOBCP0Tpd24LkJmapARy8AbWrNHCkhoZxWso358k9n9wcFA4="
+ }
+}

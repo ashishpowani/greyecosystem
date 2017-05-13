@@ -1,0 +1,17 @@
+{
+ "address": "1Gif7PqWTzVWDQ42Mo7np3zXmGAo3DXc7h",
+ "cert_auth_type": "web",
+ "cert_sign": "GzKYUpDIaAmS960iOxtVzYjVyvu25Cck5JndLdEZM3w0ZX/ZS4l/Xa8hz0f1Fiww19uxiw038HCx1xXoZoCmtMo=",
+ "cert_user_id": "mandible63@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "432e47401b0729cfd95a47fcc542d849bd9a12e01d55f9b228feff4a14f99154",
+   "size": 133
+  }
+ },
+ "inner_path": "data/users/15XLQpTcEDu9EdhSN4zVyGSsbw4Lw8TPXm/content.json",
+ "modified": 1466355640.509662,
+ "signs": {
+  "15XLQpTcEDu9EdhSN4zVyGSsbw4Lw8TPXm": "HBaT8fi9u4EDJIwomrYr9dth1YUkClAdpJEyozmZuy0wkBtdGRoEA+UQmLIukCQ9wqaxvIhABIBiFkwOAApLm4w="
+ }
+}

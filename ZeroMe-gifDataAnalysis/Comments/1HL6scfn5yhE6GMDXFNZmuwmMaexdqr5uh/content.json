@@ -1,0 +1,17 @@
+{
+ "address": "1Gif7PqWTzVWDQ42Mo7np3zXmGAo3DXc7h",
+ "cert_auth_type": "web",
+ "cert_sign": "HHj+EHTGejj+NAhjFWF9y2BK3sTFPOxwZoDgMrhVIVmQHakUw4q5dpXZFMLn1DRmSaF58LIGCSq1UGoT1lEiP1w=",
+ "cert_user_id": "redsingularity@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "fff1ced5543ad3fe1f0a1c582fbc63465f733d6f8d9fd301bf60986e900231d8",
+   "size": 120
+  }
+ },
+ "inner_path": "data/users/1HL6scfn5yhE6GMDXFNZmuwmMaexdqr5uh/content.json",
+ "modified": 1459393999.885005,
+ "signs": {
+  "1HL6scfn5yhE6GMDXFNZmuwmMaexdqr5uh": "HJrDt0m10AWxC2hTGDEb3AOREiVJQieoilZNCyCcit1pIwcsjA4V3Fx76DsTysYKjdMOmdMgmH4WDI4vLaaRdv8="
+ }
+}

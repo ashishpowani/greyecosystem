@@ -1,0 +1,15 @@
+{
+ "cert_auth_type": "web",
+ "cert_sign": "GxqJPp1n4t0lY8khyO/bw9SLy45sxYozJZEzlbdqj+FQ/+5g2a6ZwtBx/XQb7QEOzYKOvoEwGuJaVO5kIU7D8Zg=",
+ "cert_user_id": "angrymrzed@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "a435dbbb4a789f5d1babdbedbf61b09ebe5dfb8e1951c770af0e1af0e16e0e95",
+   "size": 141
+  }
+ },
+ "modified": 1455711375.928,
+ "signs": {
+  "1HpJEc5jXBXBtx9qRVnTrTGHCNeMu3cGih": "HHpPB9NHRXwyumGfXvDnP3hQiS+0RTsjV+wQjHQP1nF1TYTTEwrH3zLn2z1HW5FSSutGUV5nY/wD5QJNCBhpe5E="
+ }
+}

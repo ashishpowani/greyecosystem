@@ -1,0 +1,28 @@
+{
+	"next_comment_id": 4,
+	"comment": [
+		{
+			"comment_id": 1,
+			"body": "Cool art",
+			"post_id": 3827,
+			"date_added": 1477478360
+		},
+		{
+			"comment_id": 2,
+			"body": "This is so magic like.",
+			"post_id": 3827,
+			"date_added": 1477479237
+		},
+		{
+			"comment_id": 3,
+			"body": "XDD",
+			"post_id": 711,
+			"date_added": 1477479293
+		}
+	],
+	"comment_vote": {},
+	"topic_vote": {},
+	"post_vote": {
+		"3827": 1
+	}
+}

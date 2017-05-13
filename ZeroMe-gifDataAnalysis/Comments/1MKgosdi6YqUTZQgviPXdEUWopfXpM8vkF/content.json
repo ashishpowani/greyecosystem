@@ -1,0 +1,17 @@
+{
+ "address": "1Gif7PqWTzVWDQ42Mo7np3zXmGAo3DXc7h",
+ "cert_auth_type": "web",
+ "cert_sign": "G988uxdg3YZ5a7ytDOn9msij5L9Aj5gwan9w74lJ5hoT98EXAYeD+ehnweV6TE9mPodWUM/hessqi5sF5n1M0os=",
+ "cert_user_id": "boby1904@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "3fa26d1cf274c64b12acf1f0d57a0f85354a91ba8db3687d42bb59bb968586f8",
+   "size": 120
+  }
+ },
+ "inner_path": "data/users/1MKgosdi6YqUTZQgviPXdEUWopfXpM8vkF/content.json",
+ "modified": 1477850577.691368,
+ "signs": {
+  "1MKgosdi6YqUTZQgviPXdEUWopfXpM8vkF": "HOS2Qh8xFienNfkS6qgJXuK44nsSG6xNcoGjtIUh6bmJE7BdhQ/5OHMAB8VcpXAgcvtJ9qNzJZZ6V8ON6j5/fDM="
+ }
+}

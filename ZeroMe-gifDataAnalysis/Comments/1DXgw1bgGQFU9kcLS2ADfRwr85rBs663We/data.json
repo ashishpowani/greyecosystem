@@ -1,0 +1,17 @@
+{
+	"next_comment_id": 2,
+	"comment": [
+		{
+			"comment_id": 1,
+			"body": "best friends....",
+			"post_id": 1116,
+			"date_added": 1457359211
+		}
+	],
+	"comment_vote": {},
+	"post_vote": {
+		"1116": 1,
+		"1118": 1,
+		"1135": 1
+	}
+}

@@ -1,0 +1,17 @@
+{
+ "address": "1Gif7PqWTzVWDQ42Mo7np3zXmGAo3DXc7h",
+ "cert_auth_type": "web",
+ "cert_sign": "GxOA0K70rYuKcrR86BwCsBaTB1Cib2jHAWrPaF4jwa5MwrksZQu+1sEVh56nl0MaH9RfvfYCo0NEuOk47rpvRm8=",
+ "cert_user_id": "alfacinha@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "81661d0586d047a19cc915247e1d7bd379e5ef108bd0dd4204cd9534113cd3ef",
+   "size": 94
+  }
+ },
+ "inner_path": "data/users/1KmP2rHY28yrWVTVNiReVXGExQYGfuiLbR/content.json",
+ "modified": 1461858631.504,
+ "signs": {
+  "1KmP2rHY28yrWVTVNiReVXGExQYGfuiLbR": "GyfUoyltfVmj3jahXwsYIkiAmBsZWk4i5hRPKlC8adUPepBH9SvIK1yapG9zofrE+mUO4QDhwVbsS2X9yd+2C8c="
+ }
+}

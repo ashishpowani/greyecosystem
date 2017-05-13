@@ -1,0 +1,17 @@
+{
+ "address": "1Gif7PqWTzVWDQ42Mo7np3zXmGAo3DXc7h",
+ "cert_auth_type": "web",
+ "cert_sign": "HIhczk5gC4Imj2cVn+SzXGBmGveLseS71W/aaVvN9NJwhPFPMilfjMg/Ydvb7iIf5/c0nJZfpZoLiYP0r9s+wXY=",
+ "cert_user_id": "borys@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "64a356968d621f9b397b58250335984403e233d8c496a03bcae2e13185062850",
+   "size": 94
+  }
+ },
+ "inner_path": "data/users/19ev8HmfPQ2VC8aWDA4Ck7E2vLYDYFgw9P/content.json",
+ "modified": 1479771891.313,
+ "signs": {
+  "19ev8HmfPQ2VC8aWDA4Ck7E2vLYDYFgw9P": "GxrxoHc3G5vcInZbCrjnm3c21qC/MiFdirZY0q0QNLYnn1EAE0VOZ1QNeBID+YROaRqOC0UkOfwrc4TUzgCyuDc="
+ }
+}

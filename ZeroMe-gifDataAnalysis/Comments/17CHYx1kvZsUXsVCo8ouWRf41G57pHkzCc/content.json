@@ -1,0 +1,15 @@
+{
+ "cert_auth_type": "web", 
+ "cert_sign": "HCSp67PjHLFLBmN4QCKRwanZ6lZ/qmmEd0SJPdzLXucpz5OydRkEIxY7lqewVdS4t82+1GJda6TX58irDfT/DCE=", 
+ "cert_user_id": "helloka@zeroid.bit", 
+ "files": {
+  "data.json": {
+   "sha512": "bcdf0608fb6dd5aac5065ad2fc37a86c42aeb33465168339276ee92e91dd53f8", 
+   "size": 93
+  }
+ }, 
+ "modified": 1447583065.015, 
+ "signs": {
+  "17CHYx1kvZsUXsVCo8ouWRf41G57pHkzCc": "G3fPgUtcvIsaweKYpBUqZL7nhonMCQyFA7nRwWlDNUB7MkM8JUVO4vOG/bxDMVfsyNVfCo91CyaWk59yVlVoWSQ="
+ }
+}

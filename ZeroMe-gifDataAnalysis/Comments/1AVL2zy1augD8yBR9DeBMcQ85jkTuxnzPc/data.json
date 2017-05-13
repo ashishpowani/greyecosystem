@@ -1,0 +1,16 @@
+{
+	"next_comment_id": 2,
+	"comment": [
+		{
+			"comment_id": 1,
+			"body": "lmao",
+			"post_id": 1116,
+			"date_added": 1458247436
+		}
+	],
+	"comment_vote": {},
+	"topic_vote": {},
+	"post_vote": {
+		"107": 1
+	}
+}

@@ -1,0 +1,17 @@
+{
+	"next_comment_id": 2,
+	"comment": [
+		{
+			"comment_id": 1,
+			"body": "cats :D",
+			"post_id": 1118,
+			"date_added": 1457082579
+		}
+	],
+	"comment_vote": {},
+	"topic_vote": {},
+	"post_vote": {
+		"1069": 1,
+		"1124": 1
+	}
+}

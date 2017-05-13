@@ -1,0 +1,17 @@
+{
+ "address": "1Gif7PqWTzVWDQ42Mo7np3zXmGAo3DXc7h",
+ "cert_auth_type": "web",
+ "cert_sign": "HFTRtNI/+iZVCRZrrDyLz3868Nj5OgL1SE4Bw6w2vuH94TK3sdkTsO0oLLfcMAuR5UdRvtFbJs6GJjKmPE8WSqM=",
+ "cert_user_id": "greenmountains@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "41c12ff7d089f823a4194b1e660faa161269c12f343e830d17206df03b3bbc4a",
+   "size": 107
+  }
+ },
+ "inner_path": "data/users/1EqyQR4AkmmeZ52d7eh81xG4yd8FSGCZxJ/content.json",
+ "modified": 1473282270.319,
+ "signs": {
+  "1EqyQR4AkmmeZ52d7eh81xG4yd8FSGCZxJ": "HGBpyhTJ1fe+kYT4YQGI7zZ4Jj8QceCyCJFmODDEsrP638XhH9I++hjjwMpGEfV+MITe8yIEBT597OkymMq8Fr8="
+ }
+}

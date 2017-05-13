@@ -1,0 +1,36 @@
+{
+	"next_comment_id": 4,
+	"comment": [
+		{
+			"comment_id": 1,
+			"body": "I'd fuck that one on the right so harrd",
+			"post_id": 1172,
+			"date_added": 1469313513
+		},
+		{
+			"comment_id": 2,
+			"body": "Source?",
+			"post_id": 2886,
+			"date_added": 1469314024
+		},
+		{
+			"comment_id": 3,
+			"body": "Source?",
+			"post_id": 2741,
+			"date_added": 1469314051
+		}
+	],
+	"comment_vote": {},
+	"topic_vote": {},
+	"post_vote": {
+		"1028": 1,
+		"2241": 1,
+		"2309": 1,
+		"2397": 1,
+		"2404": 1,
+		"2741": 1,
+		"2848": 1,
+		"2849": 1,
+		"2927": 1
+	}
+}

@@ -1,0 +1,17 @@
+{
+ "address": "1Gif7PqWTzVWDQ42Mo7np3zXmGAo3DXc7h",
+ "cert_auth_type": "web",
+ "cert_sign": "HNIOGbyPSlgmSlE/jguLaTOWQaMApoCdB74G6125ceTnMD4Yq0i/EUJ7cntm21yJ/ecezFLOmaNT9ZrzC+ulDpg=",
+ "cert_user_id": "astronerd@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "a8eb17799be37275ee986ab9c6e97d705686e92e2d946a884830cb26afb2663d",
+   "size": 94
+  }
+ },
+ "inner_path": "data/users/1HsEdSDUk8svo7mzg2jFVVpdFvjwRttunD/content.json",
+ "modified": 1465063042.455,
+ "signs": {
+  "1HsEdSDUk8svo7mzg2jFVVpdFvjwRttunD": "HA+FbWM8sPxp4et02GATeDXQdxVRnZAHAW99+wQJXQR09opb2I0BSLWLvJs7RrYxGstiNsByt1AxbuGiLauvHC4="
+ }
+}

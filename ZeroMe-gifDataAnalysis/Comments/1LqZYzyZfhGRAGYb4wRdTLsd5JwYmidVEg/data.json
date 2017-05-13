@@ -1,0 +1,30 @@
+{
+	"next_comment_id": 4,
+	"comment": [
+		{
+			"comment_id": 1,
+			"body": "That's Matthias Wandel I think. He makes a lot of woodwork stuff on YouTube.\nHe's also a programmer I heard.",
+			"post_id": 2857,
+			"date_added": 1487006485
+		},
+		{
+			"comment_id": 2,
+			"body": "Code conventions are the law.",
+			"post_id": 1118,
+			"date_added": 1487011634
+		},
+		{
+			"comment_id": 3,
+			"body": "Jagawatts according to the script.",
+			"post_id": 379,
+			"date_added": 1487028416
+		}
+	],
+	"comment_vote": {},
+	"post_vote": {
+		"1491": 1,
+		"2599": 1,
+		"2883": 1,
+		"5605": 1
+	}
+}

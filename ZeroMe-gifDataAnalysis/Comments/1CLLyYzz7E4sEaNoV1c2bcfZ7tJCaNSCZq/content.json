@@ -1,0 +1,17 @@
+{
+ "address": "1Gif7PqWTzVWDQ42Mo7np3zXmGAo3DXc7h",
+ "cert_auth_type": "web",
+ "cert_sign": "G4GagO2r70PRHfD7ZFLXmB6vE7TEghiwXnCLCl/6RGlanXl3k8/lPnd9dMFyqP3Is+B7yIwhA6w4cpjhCB7QkEE=",
+ "cert_user_id": "kgps@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "dbf96a615bf29c96c5f48a1f5314da6a137185a4fa1c3e0d11c6cb2b18c38852",
+   "size": 107
+  }
+ },
+ "inner_path": "data/users/1CLLyYzz7E4sEaNoV1c2bcfZ7tJCaNSCZq/content.json",
+ "modified": 1469112009.255725,
+ "signs": {
+  "1CLLyYzz7E4sEaNoV1c2bcfZ7tJCaNSCZq": "G18FYi1SdMzmF6dYm/eNGnlEqNlzoL3YQLhhLntXHSWYg7PtcMaDHWiD5YXjQRaCMmxd0fxxw09ZPpoYxnzVF94="
+ }
+}

@@ -1,0 +1,17 @@
+{
+ "address": "1Gif7PqWTzVWDQ42Mo7np3zXmGAo3DXc7h",
+ "cert_auth_type": "web",
+ "cert_sign": "G9rR7D7Gi56WtGhq5aqLZMJOkNMuxweSCg0Te8lYhtPI5vaL2Mr7ktx25+cwZKBVVgU73g2mI1YElMPJIgfM+es=",
+ "cert_user_id": "calevbaruach@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "7d70e30a11af4d664fd5b974cac87535baa77212bc29e0698f06017a89ad94bd",
+   "size": 211
+  }
+ },
+ "inner_path": "data/users/1JkkAuoxNo3JzSggLptEGiW9FNE38M2z2i/content.json",
+ "modified": 1483285575.474,
+ "signs": {
+  "1JkkAuoxNo3JzSggLptEGiW9FNE38M2z2i": "G7kNiO9s1P7OhjQyzm91UJBhe7Hk7Ho0C+/I85GWDmNO4mkuZqeNiL5M2G6depQNQLL0kuyDnqK86iQLKALc/x4="
+ }
+}

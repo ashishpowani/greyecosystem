@@ -1,0 +1,25 @@
+{
+	"next_comment_id": 3,
+	"comment": [
+		{
+			"comment_id": 1,
+			"body": "Wooow, hot gif!! ♥",
+			"post_id": 1172,
+			"date_added": 1469170357
+		},
+		{
+			"comment_id": 2,
+			"body": "Safada!",
+			"post_id": 769,
+			"date_added": 1469170371
+		}
+	],
+	"comment_vote": {},
+	"post_vote": {
+		"769": 1,
+		"1172": 1,
+		"2920": 1,
+		"2921": 1,
+		"2922": 1
+	}
+}

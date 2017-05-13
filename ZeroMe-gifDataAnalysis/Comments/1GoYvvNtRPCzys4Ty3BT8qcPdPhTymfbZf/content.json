@@ -1,0 +1,17 @@
+{
+ "address": "1Gif7PqWTzVWDQ42Mo7np3zXmGAo3DXc7h",
+ "cert_auth_type": "web",
+ "cert_sign": "HPGbjL8viZFF3DLCc406joVEFUc3jiFW0oY/7j9SQigHDWSxeQ7nT/ivXFNXu/AuK7IkYCpQCNN41WWzdhwFp+o=",
+ "cert_user_id": "redbeardcam@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "9afabf5688d3fc2ac312be7007f95b7f9f74f6f2fe0bbc58337719de2f646876",
+   "size": 94
+  }
+ },
+ "inner_path": "data/users/1GoYvvNtRPCzys4Ty3BT8qcPdPhTymfbZf/content.json",
+ "modified": 1480353328.299886,
+ "signs": {
+  "1GoYvvNtRPCzys4Ty3BT8qcPdPhTymfbZf": "HLtVEm6OJIaKsaS1NYjFWURS6zLGnj20YlopCP0vn/mVvpsnC8vHWziAywwAiAtIl1J2eB2Xfx/nFMJScETUxVA="
+ }
+}

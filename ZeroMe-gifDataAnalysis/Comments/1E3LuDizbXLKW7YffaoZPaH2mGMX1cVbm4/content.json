@@ -1,0 +1,17 @@
+{
+ "address": "1Gif7PqWTzVWDQ42Mo7np3zXmGAo3DXc7h",
+ "cert_auth_type": "web",
+ "cert_sign": "HB0XruHqwcxBXrILcCYngbPGSDndm5jhiUohzhUGaPg2FHJEKJOHYnntIFnF4IOqJ7gMduSKNp3ZCCr2SWOSXE0=",
+ "cert_user_id": "psicotropico@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "15ae1acdd457340bb8e4a44f70ede514d930a6f33dae70fdb3bf7dcf752ad351",
+   "size": 107
+  }
+ },
+ "inner_path": "data/users/1E3LuDizbXLKW7YffaoZPaH2mGMX1cVbm4/content.json",
+ "modified": 1457475110.169,
+ "signs": {
+  "1E3LuDizbXLKW7YffaoZPaH2mGMX1cVbm4": "G7Rje0R8gqjjRtQGuy1H6DZzQMOSvKi4JBfKyaE7ihS6fYMifhHwJ1envtDlSm3Ipa8uygznfUwCXis6IUEWkds="
+ }
+}

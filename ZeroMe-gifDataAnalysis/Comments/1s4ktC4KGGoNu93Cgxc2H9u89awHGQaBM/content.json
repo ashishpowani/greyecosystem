@@ -1,0 +1,17 @@
+{
+ "address": "1Gif7PqWTzVWDQ42Mo7np3zXmGAo3DXc7h",
+ "cert_auth_type": "web",
+ "cert_sign": "G5UnHCN3rgM7WOTsiVLZl9k4vTpt/UwKahJ/Nifo9JVlC5GqCRIlzPFM2CkV30RWHKvT1mQH1KfooP1b1lcfoMY=",
+ "cert_user_id": "meditatecyberly@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "c97b48dc3096cd66db09ca58e9dbed11af9c1c2b607b61c426a582e7b0ea0b03",
+   "size": 107
+  }
+ },
+ "inner_path": "data/users/1s4ktC4KGGoNu93Cgxc2H9u89awHGQaBM/content.json",
+ "modified": 1473217887.542,
+ "signs": {
+  "1s4ktC4KGGoNu93Cgxc2H9u89awHGQaBM": "HKjNyBhkMSNy/eed6ZbPCC5iHWy+/EppGfzQtfc8uN41sslaLvmdr+1Ri+pqydhjCwVh58ezUYrMWkw6w7qLFvQ="
+ }
+}

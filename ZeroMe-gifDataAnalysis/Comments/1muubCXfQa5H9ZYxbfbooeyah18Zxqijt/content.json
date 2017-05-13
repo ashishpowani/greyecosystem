@@ -1,0 +1,17 @@
+{
+ "address": "1Gif7PqWTzVWDQ42Mo7np3zXmGAo3DXc7h",
+ "cert_auth_type": "web",
+ "cert_sign": "G/NP5HzrLCQIMKdUQjkvCZmKDVZl4/lXbjuaIniopyJz4nv7jQ4Glj7uHy1p+XSyeuusjpffZ4VEDStLcVm3ghI=",
+ "cert_user_id": "necromancer@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "61f1674e9914802789dd6362a4fa041db4276bd2421c3f6ff2cc38e8f73b76ad",
+   "size": 132
+  }
+ },
+ "inner_path": "data/users/1muubCXfQa5H9ZYxbfbooeyah18Zxqijt/content.json",
+ "modified": 1477834674.29,
+ "signs": {
+  "1muubCXfQa5H9ZYxbfbooeyah18Zxqijt": "Gxs3+nNBZ0s5eGZstco3YXAKHK6Pm9bz5WWLo14BIqi7or7aVpmLj7nO1OryOnV38p9WKqI0N1T3zaP4dvfXiJc="
+ }
+}

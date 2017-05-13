@@ -1,0 +1,17 @@
+{
+ "address": "1Gif7PqWTzVWDQ42Mo7np3zXmGAo3DXc7h",
+ "cert_auth_type": "web",
+ "cert_sign": "HB0l8a7pw+Vzkt7CykXOiOCabm4rO8emSaKcMbkEvUqsuwXniBiBCnXS3cBzTLfr790flSvCwmZcMl92j6PrNEk=",
+ "cert_user_id": "spekulatius@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "67f575c78ac6b74bf0ea2c61cff6aa3af82cb6af050c759cc77cab25a1d96127",
+   "size": 639
+  }
+ },
+ "inner_path": "data/users/1GPrcAqJHUmfQmbBpMW8Br4tGZCCXA5NeZ/content.json",
+ "modified": 1469694924.779577,
+ "signs": {
+  "1GPrcAqJHUmfQmbBpMW8Br4tGZCCXA5NeZ": "HPJ3aMWibpCTrzVQiHW2UI1nMPd+sFax3S0VkQYvlWd9MpsxLLHPzJmwO4pLgONl/hO+0g5dRpEHk8aXlyoSrYg="
+ }
+}

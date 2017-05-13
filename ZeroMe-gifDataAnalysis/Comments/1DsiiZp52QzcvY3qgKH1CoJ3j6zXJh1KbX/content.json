@@ -1,0 +1,17 @@
+{
+ "address": "1Gif7PqWTzVWDQ42Mo7np3zXmGAo3DXc7h",
+ "cert_auth_type": "web",
+ "cert_sign": "G/iYQx7x0OTD8HAgCEMM5tai3N+gbNTMcHiZVvtn+U5AxxogtaXYrDO+4Awc/FXHAEkTE2kOYEchK0KCs/zQJXY=",
+ "cert_user_id": "netforhack@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "7b1f97ca28217ec656c1887abc3862184cfbd15b162fb7e56a047f1aecaa35fe",
+   "size": 146
+  }
+ },
+ "inner_path": "data/users/1DsiiZp52QzcvY3qgKH1CoJ3j6zXJh1KbX/content.json",
+ "modified": 1491965889,
+ "signs": {
+  "1DsiiZp52QzcvY3qgKH1CoJ3j6zXJh1KbX": "G/K3gy4PmsCFx6lJGPQ0rDLU1yD+EQGP5/dRjzqljjF+NqmuK4F6VBfKQJ69s3c3Yr3Tu1kCRGs2q17NhNfVHRA="
+ }
+}

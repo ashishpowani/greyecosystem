@@ -1,0 +1,17 @@
+{
+ "address": "1Gif7PqWTzVWDQ42Mo7np3zXmGAo3DXc7h",
+ "cert_auth_type": "web",
+ "cert_sign": "HNkfHqGiQVBFvSYkxK+TW9RU7pvb3iKu7SStNJtI4w6r8bo0WCzWYhkODE8uiNtP5sEV+LmSP6XtBOdQ8SlbXJY=",
+ "cert_user_id": "atomicawesome@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "85a3a7b58f4837750c405eaf32de76646c0030d4c4fc52495c9a1fbd92d4d203",
+   "size": 94
+  }
+ },
+ "inner_path": "data/users/1N34nYje72Lyjn1paNUZbc2TC1eWn1Waww/content.json",
+ "modified": 1462009121.312,
+ "signs": {
+  "1N34nYje72Lyjn1paNUZbc2TC1eWn1Waww": "HFLTLMDCZSQaGY8av9ptmrVg0H7IbJyLbb+XtSq5hoeUJ8ueL7MhX9mQjPYr9UqMU7B6NVNGXfjETesw/Efl370="
+ }
+}

@@ -1,0 +1,17 @@
+{
+ "address": "1Gif7PqWTzVWDQ42Mo7np3zXmGAo3DXc7h",
+ "cert_auth_type": "web",
+ "cert_sign": "HFFV+9nr1lfMTes0XmPaG3Ce0kXxfTBR8H0LKyFvPYHbXZFeh7FQzpkGrLmSZtHdwwS37akJqtAokbFLS7SNJL0=",
+ "cert_user_id": "vindikato@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "ca3bb8492cea8984dce15d60e537e5a3c7818011e42d4986dcd028437fb5bc28",
+   "size": 263
+  }
+ },
+ "inner_path": "data/users/19xPDQe581brdSGuSZPFm2kzYtv66vFovs/content.json",
+ "modified": 1489964054,
+ "signs": {
+  "19xPDQe581brdSGuSZPFm2kzYtv66vFovs": "HESP8WOmnm05v5HZrKQwiwUMBqjr8IYDxoQO8Pqu6XZsCZ1XR+dUb5vxpCY+q7gS8O+5tH/OI02xZqd0h3IrCO4="
+ }
+}

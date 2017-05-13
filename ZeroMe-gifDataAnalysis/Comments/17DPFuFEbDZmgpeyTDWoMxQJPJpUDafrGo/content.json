@@ -1,0 +1,17 @@
+{
+ "address": "1Gif7PqWTzVWDQ42Mo7np3zXmGAo3DXc7h",
+ "cert_auth_type": "web",
+ "cert_sign": "GxS6AKom29fs+qoaS6LbwHjEaADxqRsLdFWT3uzguJRVriKrSBCPq6GPXvlZR1XzEnDFrAalTwBH6y66gOSU5TY=",
+ "cert_user_id": "fuetasozero@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "4cb2270a60e9163a620523a8ad892eb2f0acd6366b16cb47e8a1a4919f60dea0",
+   "size": 3138
+  }
+ },
+ "inner_path": "data/users/17DPFuFEbDZmgpeyTDWoMxQJPJpUDafrGo/content.json",
+ "modified": 1470313026.091,
+ "signs": {
+  "17DPFuFEbDZmgpeyTDWoMxQJPJpUDafrGo": "G3SEs4FjrUX+bb8zGKE4APbGIWMAMzrxSL/tYLnhYS8xPZgEYxKzcorkd0IVo1qUte7uyz7RGIMmLZl5EBjiYIk="
+ }
+}

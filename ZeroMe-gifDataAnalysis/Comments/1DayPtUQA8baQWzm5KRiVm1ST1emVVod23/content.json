@@ -1,0 +1,17 @@
+{
+ "address": "1Gif7PqWTzVWDQ42Mo7np3zXmGAo3DXc7h",
+ "cert_auth_type": "web",
+ "cert_sign": "Gw1jX8jevoptcQEk8re5Vf44+DLnlMXHROYIKVQQ16Sq8Ol6pfz00ikgCzmQC9M63s5+XUB8oX9s/9/Vj/QByAI=",
+ "cert_user_id": "promptus@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "9fd7deb000796f85cdaa7a8358ac549ac44252ba47e86f4ffdc51ae32c1eee8e",
+   "size": 168
+  }
+ },
+ "inner_path": "data/users/1DayPtUQA8baQWzm5KRiVm1ST1emVVod23/content.json",
+ "modified": 1456931174.033,
+ "signs": {
+  "1DayPtUQA8baQWzm5KRiVm1ST1emVVod23": "G8494SIDqdgYH80RwLbPcGf/DPab2ULKxHJKqv72aC6HwtKBNWyw8MHe8BQICXoI/7WcvG+VKjFanAzEyWlorg0="
+ }
+}

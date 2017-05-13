@@ -1,0 +1,17 @@
+{
+ "address": "1Gif7PqWTzVWDQ42Mo7np3zXmGAo3DXc7h",
+ "cert_auth_type": "web",
+ "cert_sign": "HD7JsdAaXLF5teLBxRCDl6PwKfkEgX09COsvcV9WMOVMo4KGdYPO4ivA2pbtrCfFdPYSPVUFg8E2DJQAXQdglHA=",
+ "cert_user_id": "sunpark22@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "ea3415818a17853944dab3d65a33b7b652638f67d659be2aaed504ba09f38dbb",
+   "size": 610
+  }
+ },
+ "inner_path": "data/users/1AaADsDUmgWyP6pYVXhaW1c4LUDSJUag8Z/content.json",
+ "modified": 1458236480.179,
+ "signs": {
+  "1AaADsDUmgWyP6pYVXhaW1c4LUDSJUag8Z": "G8bzYE68LbaUMPC7T3aAtBxHUFpqZPwNl6C7xt1TXQLdWAe1tLwE/ImfjYCJlm74eeUpAfUvjnqk4XQjff59cy4="
+ }
+}

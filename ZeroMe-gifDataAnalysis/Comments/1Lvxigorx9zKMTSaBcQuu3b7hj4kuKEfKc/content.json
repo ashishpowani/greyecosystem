@@ -1,0 +1,17 @@
+{
+ "address": "1Gif7PqWTzVWDQ42Mo7np3zXmGAo3DXc7h",
+ "cert_auth_type": "web",
+ "cert_sign": "G6sNxAQlNSp5rShHUcBkTXoYfyssIZqo5xH032Va7kn+vh7+j8iShAJelSik1iQOO6kUeVydYQf++AxbCstscgU=",
+ "cert_user_id": "harrykrishna@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "e6c7e71395f1efeaab4cd21a559d7f4708b8a26ca14294b669ab8c78f04e5613",
+   "size": 120
+  }
+ },
+ "inner_path": "data/users/1Lvxigorx9zKMTSaBcQuu3b7hj4kuKEfKc/content.json",
+ "modified": 1457032985.578999,
+ "signs": {
+  "1Lvxigorx9zKMTSaBcQuu3b7hj4kuKEfKc": "G4aI2VkH2S78xLASwhUzIZ6uEnli+LNi7dC+lH+yOa34O5df5cn2PsRmgFHnZ04mSdc+YNVeFIhNN8yvJclKUUI="
+ }
+}

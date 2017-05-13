@@ -1,0 +1,17 @@
+{
+ "address": "1Gif7PqWTzVWDQ42Mo7np3zXmGAo3DXc7h",
+ "cert_auth_type": "web",
+ "cert_sign": "HEV4sdQMKY1fApPa2jTYE+bAx0psYt1X5g5ZJFxUPoYH1lrjJimT+OGDct+IFB5TItKhQF/xeh6RsgUa+fVpZUQ=",
+ "cert_user_id": "minijackson@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "0deb288a5bbaa925d5bbe3cf6ef830ac3243d4a4c2dedf449cdde95fc5f313a8",
+   "size": 154
+  }
+ },
+ "inner_path": "data/users/1BEVQun8hBaZmYL7MH3tZ2VtjvpKLi57ai/content.json",
+ "modified": 1456945380.024314,
+ "signs": {
+  "1BEVQun8hBaZmYL7MH3tZ2VtjvpKLi57ai": "G4NNT518m3pkcBGsVfnY1wWaRPgcStxzqAFPfCSbDlRzgdfbrQhiyGdKSIe8Jk2RRfTA8N7jkfK1hyHawhB/epY="
+ }
+}

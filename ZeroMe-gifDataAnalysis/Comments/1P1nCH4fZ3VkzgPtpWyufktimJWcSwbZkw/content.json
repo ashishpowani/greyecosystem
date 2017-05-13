@@ -1,0 +1,17 @@
+{
+ "address": "1Gif7PqWTzVWDQ42Mo7np3zXmGAo3DXc7h",
+ "cert_auth_type": "web",
+ "cert_sign": "G5OBDD80lP2UqOoiWqWCI6j1BjPS/TN851kgquF0XjBZP2JjesFO/fFDI5peEyEKLS+06j1pGAqM0CP2CVToExw=",
+ "cert_user_id": "zelounge@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "d879ee7d58e34a873e76ef1d0ea3ebd9fdcee4cbdc0aeb026363832cdadf62c9",
+   "size": 94
+  }
+ },
+ "inner_path": "data/users/1P1nCH4fZ3VkzgPtpWyufktimJWcSwbZkw/content.json",
+ "modified": 1457062887.82,
+ "signs": {
+  "1P1nCH4fZ3VkzgPtpWyufktimJWcSwbZkw": "HCfuOvT1uc79p1xNJEgI0e+csyBKE+YxTP63VpMsH7RvZCOdNwbRw8BJu5T/NZKUkhVHyZGb+oMJDyDKqI1syLo="
+ }
+}

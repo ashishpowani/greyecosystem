@@ -1,0 +1,17 @@
+{
+ "address": "1Gif7PqWTzVWDQ42Mo7np3zXmGAo3DXc7h",
+ "cert_auth_type": "web",
+ "cert_sign": "G1uUCVbBsXcYitvzg81X6iIePb1ZyjEKM5tyrSrezi9/wIoQI0LIuQW6fs5exXCJRvrm39Wo0MnKWd22OK1VOxs=",
+ "cert_user_id": "thebitbrine@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "94241c60c791fa8a1eef8b5d5e14990fc92c1a4b7fe1850475edb69484b6607c",
+   "size": 248
+  }
+ },
+ "inner_path": "data/users/1CHcEy3SYsQvrW9uskKTZxUWj97BmZmvfa/content.json",
+ "modified": 1475616952.125,
+ "signs": {
+  "1CHcEy3SYsQvrW9uskKTZxUWj97BmZmvfa": "HDOhkOfY/PKzudL2XoFSi62oXu7K0+sVSjGpwQxB7YSAyOLbpLaPZc0VWN2SdSKDdE81YC3CS0Mq+dyyGz41qFw="
+ }
+}

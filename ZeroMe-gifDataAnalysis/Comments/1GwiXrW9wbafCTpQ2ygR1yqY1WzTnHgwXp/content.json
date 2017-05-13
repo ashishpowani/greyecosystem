@@ -1,0 +1,17 @@
+{
+ "address": "1Gif7PqWTzVWDQ42Mo7np3zXmGAo3DXc7h",
+ "cert_auth_type": "web",
+ "cert_sign": "HI8A+OOonZe1+VxukqUeL5TFDAYtSZNetLwG/zXM4n1Hxl5B3gIYMG9qmFi5PuMaU4rIzsQzVM/LVpyTNIRXbfY=",
+ "cert_user_id": "hintell@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "dc140a22eadd072713586e2560b9dda8b5e947d0e164abb3e738ff926372d51f",
+   "size": 94
+  }
+ },
+ "inner_path": "data/users/1GwiXrW9wbafCTpQ2ygR1yqY1WzTnHgwXp/content.json",
+ "modified": 1482020339.169,
+ "signs": {
+  "1GwiXrW9wbafCTpQ2ygR1yqY1WzTnHgwXp": "HLr+R9KciQCzC5osbt1Y4sTsSMlYkLXHa184leC1Lt0TtjLSs7B9qdKpLfq/FLDO0jy8UA4mDgY+o5d8aiQndGc="
+ }
+}

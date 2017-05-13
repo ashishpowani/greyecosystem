@@ -1,0 +1,17 @@
+{
+ "address": "1Gif7PqWTzVWDQ42Mo7np3zXmGAo3DXc7h",
+ "cert_auth_type": "web",
+ "cert_sign": "G8wuA2MhSiaQZzQnCRm7GI6KPgy2ykJnYqrBNx36spFd2gM+3PtoV57Cu/6BXyVAguXZYIQM+/MiUtHTiyyq4dI=",
+ "cert_user_id": "yurivict@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "961bf8d13cd41c903de142b53156360d93a46659c3e37ade55bec061f3161986",
+   "size": 94
+  }
+ },
+ "inner_path": "data/users/1AeHvUke5xxBUL5qEDpZJAjy5UjpnNMeK2/content.json",
+ "modified": 1464128588.531483,
+ "signs": {
+  "1AeHvUke5xxBUL5qEDpZJAjy5UjpnNMeK2": "HMCN6mQBbzLm8XqlxOMal7HizWptmWO7/Z0pWi5Ocv7GyPfXO0m9s0EfiJkt4iq4OU21w4iBskG1ZYYn0hpJYmw="
+ }
+}

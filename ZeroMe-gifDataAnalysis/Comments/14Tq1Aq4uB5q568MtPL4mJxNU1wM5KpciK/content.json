@@ -1,0 +1,17 @@
+{
+ "address": "1Gif7PqWTzVWDQ42Mo7np3zXmGAo3DXc7h",
+ "cert_auth_type": "web",
+ "cert_sign": "G9Tj383I8qLcfJgE/A/o4RJyaPAEU6X/FH/SM7jE4MX0SYxr0Rb9CGp0xzKoh5KAL5kkmXCLPop8S4xWfcc/uwY=",
+ "cert_user_id": "madstrategist@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "6c03de9a4ab7fc4271afb9451fb75bb7722681ac8bc7bfdda3d9c7536deda04e",
+   "size": 276
+  }
+ },
+ "inner_path": "data/users/14Tq1Aq4uB5q568MtPL4mJxNU1wM5KpciK/content.json",
+ "modified": 1458579025.945621,
+ "signs": {
+  "14Tq1Aq4uB5q568MtPL4mJxNU1wM5KpciK": "G+5b3XEieQWpLzMhXTvEQWYIK2lEqLOV3S8xWWOBz2b0IMZen5gEKUP2dh60eZMsXEid/aHFaGL9YLkyfOt44j4="
+ }
+}

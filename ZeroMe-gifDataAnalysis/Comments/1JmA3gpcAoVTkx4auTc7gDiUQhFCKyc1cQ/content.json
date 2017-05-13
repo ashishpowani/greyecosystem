@@ -1,0 +1,17 @@
+{
+ "address": "1Gif7PqWTzVWDQ42Mo7np3zXmGAo3DXc7h",
+ "cert_auth_type": "web",
+ "cert_sign": "HHrrgCF/4g46tyjW314uo8EbEdt0oQo6hJQudKfxUX71i3lpyAv1P38I7PC+HxXAnUL0QtZHJj3jPqtw9pTEwsg=",
+ "cert_user_id": "tentutajtoja@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "0ce026d126488cc9f6b1905b46d91bc614b581c0fd97bb0ee7bc392c0ab08785",
+   "size": 94
+  }
+ },
+ "inner_path": "data/users/1JmA3gpcAoVTkx4auTc7gDiUQhFCKyc1cQ/content.json",
+ "modified": 1469719126.429468,
+ "signs": {
+  "1JmA3gpcAoVTkx4auTc7gDiUQhFCKyc1cQ": "G1xNc/tc0vm59U4j3nL723CkdX0U99vKDXki+mZ/dVyPN152I+bSjS3gFECpT8tioc7swq/PJu8kgUyWHYyrQqA="
+ }
+}

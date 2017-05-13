@@ -1,0 +1,17 @@
+{
+ "address": "1Gif7PqWTzVWDQ42Mo7np3zXmGAo3DXc7h",
+ "cert_auth_type": "web",
+ "cert_sign": "HIzH0b9xAmcZzELq6u3ZKBls0dxdYjT3FtIRJkuPxGDWznQ8KHu5T1NjQhmmP7Ygd4lxe0apH+fgDa7eCU/UVmE=",
+ "cert_user_id": "staiki@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "e53be35253bc25cc1e8012e6b79d701d13407c10a47ac1400b7ef94941cf41bb",
+   "size": 131
+  }
+ },
+ "inner_path": "data/users/1WQm7D9m9tegXdTaedWGCarUraQtJLbYv/content.json",
+ "modified": 1457711692.538,
+ "signs": {
+  "1WQm7D9m9tegXdTaedWGCarUraQtJLbYv": "G7RuB/5uqudThCVKvNCU6MPcEqI0bZ6lDA6DKHYq0D6v0ljNnTm/jbUj2zbhlmjS9Kjg59/yjkRVbjBIToMEj70="
+ }
+}

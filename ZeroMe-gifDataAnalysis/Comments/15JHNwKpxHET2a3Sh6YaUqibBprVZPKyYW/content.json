@@ -1,0 +1,17 @@
+{
+ "address": "1Gif7PqWTzVWDQ42Mo7np3zXmGAo3DXc7h",
+ "cert_auth_type": "web",
+ "cert_sign": "G4sbBGahNh1wH/qQbo5q/STjVbjF539/uo6wFNffm+E4dVWNmKBgJYmZn4KvGZa0QbAIxfJcES5g7g19VuLSFHI=",
+ "cert_user_id": "freedomfreak@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "1ba91a10a30eff82f9540b4bb9547ab4b69afa36e9ba26c6c7f3b2866c6dee3b",
+   "size": 94
+  }
+ },
+ "inner_path": "data/users/15JHNwKpxHET2a3Sh6YaUqibBprVZPKyYW/content.json",
+ "modified": 1488199255,
+ "signs": {
+  "15JHNwKpxHET2a3Sh6YaUqibBprVZPKyYW": "HNkGyy8enEWGLDEWotEPX6fD04KKJx9dAGYj+hGztDmmc/OPTvaQhlSNEDIDNkbdaGDiDnl2LYbv4SY2Vjs5GOQ="
+ }
+}

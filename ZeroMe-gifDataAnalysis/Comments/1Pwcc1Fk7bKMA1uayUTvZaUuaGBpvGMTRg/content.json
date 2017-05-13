@@ -1,0 +1,17 @@
+{
+ "address": "1Gif7PqWTzVWDQ42Mo7np3zXmGAo3DXc7h",
+ "cert_auth_type": "web",
+ "cert_sign": "HM0Ar4rirRlT9ycf7kMdWGDjYrI9svAv9b5Ok9KWeyGPwhaYaNGDQbbqe3HVTp7uMYIa3IT1I3mbByaWVaUWjAY=",
+ "cert_user_id": "spoimac@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "b2fa3871abcf2ec9755fbb064e3b2bd2b22749c2952aa5d02e312194bf63a1fa",
+   "size": 80
+  }
+ },
+ "inner_path": "data/users/1Pwcc1Fk7bKMA1uayUTvZaUuaGBpvGMTRg/content.json",
+ "modified": 1476083347.98,
+ "signs": {
+  "1Pwcc1Fk7bKMA1uayUTvZaUuaGBpvGMTRg": "HMHi//URIVbpQbbbRphk6ad23P95UkFSa76yiOa4jzp/uukMPdq4sMoO+jkOv53tvykRCrPaEV1EA+gzX/tLgFg="
+ }
+}

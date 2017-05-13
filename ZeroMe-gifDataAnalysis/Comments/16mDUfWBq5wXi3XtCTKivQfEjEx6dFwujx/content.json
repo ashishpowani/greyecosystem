@@ -1,0 +1,17 @@
+{
+ "address": "1Gif7PqWTzVWDQ42Mo7np3zXmGAo3DXc7h",
+ "cert_auth_type": "web",
+ "cert_sign": "HFJIaJJWVPuKK8BvuSCRmOg6OReXpNEutcKr2o8ptxzg1WZ06sq5clsezpvQPmD6wb94pGdevgntLT7u2BVhKyo=",
+ "cert_user_id": "rodomonte@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "b8d1d810d47fa836e48ee86e918a580f23608907706d305c794bf3d7ca2ee615",
+   "size": 94
+  }
+ },
+ "inner_path": "data/users/16mDUfWBq5wXi3XtCTKivQfEjEx6dFwujx/content.json",
+ "modified": 1457203650.921928,
+ "signs": {
+  "16mDUfWBq5wXi3XtCTKivQfEjEx6dFwujx": "HF8aS0Imu/yP4Gq5JGX0DShrXROZ6cSbQ0NpnCj9K2jU3mjrJHFQBepAhkVfu3EUhXvKpvBLVphLa3m499xxmtw="
+ }
+}

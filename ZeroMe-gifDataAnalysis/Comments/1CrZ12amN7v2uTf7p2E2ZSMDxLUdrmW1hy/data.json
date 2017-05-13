@@ -1,0 +1,27 @@
+{
+	"next_comment_id": 3,
+	"comment": [
+		{
+			"comment_id": 1,
+			"body": "Poor kid... May you have strenght for the things to come.",
+			"post_id": 2844,
+			"date_added": 1469383322
+		},
+		{
+			"comment_id": 2,
+			"body": "Some sorcery is going on here boi\n",
+			"post_id": 2502,
+			"date_added": 1469385256
+		}
+	],
+	"comment_vote": {},
+	"post_vote": {
+		"2502": 1,
+		"2679": 1,
+		"2705": 1,
+		"2742": 1,
+		"2797": 1,
+		"2875": 1,
+		"2877": 1
+	}
+}

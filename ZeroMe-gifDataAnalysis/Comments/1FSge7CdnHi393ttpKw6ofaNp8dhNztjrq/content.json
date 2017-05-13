@@ -1,0 +1,17 @@
+{
+ "address": "1Gif7PqWTzVWDQ42Mo7np3zXmGAo3DXc7h",
+ "cert_auth_type": "web",
+ "cert_sign": "HCp2tQw5w05lLxgmF2Af6vPliXNgTV4LF2OVfSE3FGH6Yqz99C2pwykzJH+Td8BTFQW5rMELdDKrHND7z4aWWGk=",
+ "cert_user_id": "spacedream@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "4530844305bd0586244ae7ac60c8ae9c07150a610391115bf3b1292fb7075d58",
+   "size": 106
+  }
+ },
+ "inner_path": "data/users/1FSge7CdnHi393ttpKw6ofaNp8dhNztjrq/content.json",
+ "modified": 1464807701.873154,
+ "signs": {
+  "1FSge7CdnHi393ttpKw6ofaNp8dhNztjrq": "HAb1cl8UoC3Rwu2ormFepV8OPIF/U5RxdiTp5SHOxREhYSJziWPAusW6kcQb163d4GKmGlAO1gsKkBqfLJ0v34w="
+ }
+}

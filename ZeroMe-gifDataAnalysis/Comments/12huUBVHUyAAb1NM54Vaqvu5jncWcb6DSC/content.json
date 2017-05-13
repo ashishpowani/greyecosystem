@@ -1,0 +1,17 @@
+{
+ "address": "1Gif7PqWTzVWDQ42Mo7np3zXmGAo3DXc7h",
+ "cert_auth_type": "web",
+ "cert_sign": "GyFeDx1QGQpd2j43v9ppG5byXnabUyAPfR4WXG+MMiAvjnuBN6c5VMDYTX9kBe6gLza4HpeJ+qljM/gEVvgB0FM=",
+ "cert_user_id": "tofebar@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "ae9c7dbc4a4b41d2e0ed40b5c12c6099437f0ba741b4d983a2efb5786496f6ca",
+   "size": 107
+  }
+ },
+ "inner_path": "data/users/12huUBVHUyAAb1NM54Vaqvu5jncWcb6DSC/content.json",
+ "modified": 1486063057,
+ "signs": {
+  "12huUBVHUyAAb1NM54Vaqvu5jncWcb6DSC": "HCTkjB77LaECCi5145aZMJHlQVXK9bqqswvkJ6vPx99CDD5MwEz4oD9VBF76eqj/eRIlBGRfs1jKEdAjjLLhcGk="
+ }
+}

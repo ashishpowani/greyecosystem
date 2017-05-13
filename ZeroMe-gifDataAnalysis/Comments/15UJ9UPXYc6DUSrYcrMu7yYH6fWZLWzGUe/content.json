@@ -1,0 +1,17 @@
+{
+ "address": "1Gif7PqWTzVWDQ42Mo7np3zXmGAo3DXc7h",
+ "cert_auth_type": "web",
+ "cert_sign": "G0Y2gZF4mqJO5fesPWwaG17ElwGggS+KzqJduN+lNOtxIWqqd/q8mV+gnNKUomQJ80jbj2vB9e5oAN2ky2y9DJk=",
+ "cert_user_id": "roikeman@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "48e3844fbbfc62abc8771ccd523f80f570de7353ac3ffb635147f8d02283c57c",
+   "size": 94
+  }
+ },
+ "inner_path": "data/users/15UJ9UPXYc6DUSrYcrMu7yYH6fWZLWzGUe/content.json",
+ "modified": 1492519511,
+ "signs": {
+  "15UJ9UPXYc6DUSrYcrMu7yYH6fWZLWzGUe": "G7XoWJTBIo+Ed78mSqh8+IatrEqdE66Hm29fgpVkaSdMEhFfAO0srgnbHUfN0xojFUTB/2TTRNAzbDEX+ZVDvRU="
+ }
+}

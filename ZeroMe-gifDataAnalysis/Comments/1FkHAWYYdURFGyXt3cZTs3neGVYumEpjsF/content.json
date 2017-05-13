@@ -1,0 +1,17 @@
+{
+ "address": "1Gif7PqWTzVWDQ42Mo7np3zXmGAo3DXc7h",
+ "cert_auth_type": "bitmsg",
+ "cert_sign": "HOSF0u4iiWghDC/wIAfghG0iRjvns7D3CKhTGSTcRk3Z19ghfLi7aOmTEQuErBflTMO1IxrpTxQMuedeXH/z8Ns=",
+ "cert_user_id": "nahchan@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "4dc113ce1cc3833d0467abcbe5a031849a416c7a1c56facd2040e52a600e3974",
+   "size": 237
+  }
+ },
+ "inner_path": "data/users/1FkHAWYYdURFGyXt3cZTs3neGVYumEpjsF/content.json",
+ "modified": 1468388510.839176,
+ "signs": {
+  "1FkHAWYYdURFGyXt3cZTs3neGVYumEpjsF": "HN9Ie9K0Q+NOrD3xow/AY/OuLdDjO+s897A/Klrkw3Lj7JHHqUmDlsVSJeycxfjzP88yYufeL6KIIZDFjQg7Sfc="
+ }
+}

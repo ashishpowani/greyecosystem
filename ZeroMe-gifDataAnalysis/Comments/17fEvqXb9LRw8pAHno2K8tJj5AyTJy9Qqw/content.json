@@ -1,0 +1,17 @@
+{
+ "address": "1Gif7PqWTzVWDQ42Mo7np3zXmGAo3DXc7h",
+ "cert_auth_type": "web",
+ "cert_sign": "GwD2AvR5SipcQ8xtlFFH1tyirB+XhPIGubTJS94jZHY2mYq8GI5aX1ErBDNEJ9rNsnRzVtFc6O/5MBdIUFjIdlo=",
+ "cert_user_id": "sento@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "d8d8fd588adda6a47365bad9bdf2d4456064573e6bce1febdf63c121dd1df9be",
+   "size": 107
+  }
+ },
+ "inner_path": "data/users/17fEvqXb9LRw8pAHno2K8tJj5AyTJy9Qqw/content.json",
+ "modified": 1480591719.355,
+ "signs": {
+  "17fEvqXb9LRw8pAHno2K8tJj5AyTJy9Qqw": "G8RWEf1sTfbPQV9uvbs6FCy6M/ED8nkFO7DTozN5xDyTorC5DTD6cafi6DWl06MZo0jFIBHOo2MNUhpZsKvRDjM="
+ }
+}

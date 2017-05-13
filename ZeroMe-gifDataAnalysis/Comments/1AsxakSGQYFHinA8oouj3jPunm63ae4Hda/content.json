@@ -1,0 +1,17 @@
+{
+ "address": "1Gif7PqWTzVWDQ42Mo7np3zXmGAo3DXc7h",
+ "cert_auth_type": "web",
+ "cert_sign": "HKhKhwXUDMw6cpnZOnOEZFiQiCAh5U+4HzCvLI5CydQD59mOboY/6V5lVspwSTQCideUsZ/kySkmUikJVvz9HEc=",
+ "cert_user_id": "moonbase5@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "e65f40ed15ee3052a74a9fe15f4c1de142a344ab165f4e70305e9966c8600d4b",
+   "size": 760
+  }
+ },
+ "inner_path": "data/users/1AsxakSGQYFHinA8oouj3jPunm63ae4Hda/content.json",
+ "modified": 1471900971.704586,
+ "signs": {
+  "1AsxakSGQYFHinA8oouj3jPunm63ae4Hda": "HGJvVbEdFApEaa45NtDEPF8u8dDOo5+oMe7QNZ3HQ0YquB2PsMG9rvFgA1aKcTqYUzjS+clYw7Twe1P7ojnTnvs="
+ }
+}

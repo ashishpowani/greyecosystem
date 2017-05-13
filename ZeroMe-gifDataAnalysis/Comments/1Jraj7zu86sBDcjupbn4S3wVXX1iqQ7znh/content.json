@@ -1,0 +1,17 @@
+{
+ "address": "1Gif7PqWTzVWDQ42Mo7np3zXmGAo3DXc7h",
+ "cert_auth_type": "web",
+ "cert_sign": "HIvNgPSK/ExaPnluVZTAAaM7TmhEnrfpY8MAEFjZSpLj26sLMxmQKb9uPDH23AhkCrxDptn03MStojoO0mkT2tU=",
+ "cert_user_id": "bitwave@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "85df29bee9edcae33b3d29ed8052d617b1e609151b835888d3a71ce1068675f9",
+   "size": 133
+  }
+ },
+ "inner_path": "data/users/1Jraj7zu86sBDcjupbn4S3wVXX1iqQ7znh/content.json",
+ "modified": 1491386534,
+ "signs": {
+  "1Jraj7zu86sBDcjupbn4S3wVXX1iqQ7znh": "G9ZG68S8wt6w/hxVGfppPV39iUCVNmt4DU+iip2mhPJozGlAwTrGRJPTTLX1Y9LS2I6V127G5T80Dma8SnPC020="
+ }
+}

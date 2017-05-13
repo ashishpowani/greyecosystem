@@ -1,0 +1,17 @@
+{
+ "address": "1Gif7PqWTzVWDQ42Mo7np3zXmGAo3DXc7h",
+ "cert_auth_type": "web",
+ "cert_sign": "HEgs9PYcpYmDEvvjW7rJ/dYUkej7fqDRrdtlYHTosZYJvo6YQmw0VOaG/V7faJfuoB0ucVJyunOfGRRqGoV4t8s=",
+ "cert_user_id": "bluesubmarine@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "438a87e9d275896241c400b911ac5011d44af3fcf9315769d9728056e3e64da5",
+   "size": 107
+  }
+ },
+ "inner_path": "data/users/1Jgx72pPz766ooAdF6ULGzfMmukTMtyFKM/content.json",
+ "modified": 1457796932.02,
+ "signs": {
+  "1Jgx72pPz766ooAdF6ULGzfMmukTMtyFKM": "HNCUWqg/JjrNxGh108YZ/+oJVUbNrg2fUclXame/vdKRHzi5ScpOrcOe91dhbPOK0uWtZclOZzEiv5ysQx5e6Mk="
+ }
+}

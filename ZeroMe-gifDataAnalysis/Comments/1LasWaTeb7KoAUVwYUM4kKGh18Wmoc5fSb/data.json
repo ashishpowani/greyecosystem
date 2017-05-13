@@ -1,0 +1,16 @@
+{
+	"next_comment_id": 2,
+	"comment": [
+		{
+			"comment_id": 1,
+			"body": "A chair with no legs, awesome",
+			"post_id": 1135,
+			"date_added": 1457462894
+		}
+	],
+	"comment_vote": {},
+	"topic_vote": {},
+	"post_vote": {
+		"1118": 1
+	}
+}

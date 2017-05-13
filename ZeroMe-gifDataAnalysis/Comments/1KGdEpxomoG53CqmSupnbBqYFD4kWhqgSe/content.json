@@ -1,0 +1,17 @@
+{
+ "address": "1Gif7PqWTzVWDQ42Mo7np3zXmGAo3DXc7h",
+ "cert_auth_type": "web",
+ "cert_sign": "GzMr38SGmmfmBXoM5lkxPtyWA8VKtCPFHlLsrrbUrb0XvQypCICCm8iABhEFDADaS3xb5PH6asG6Ru8pErwQ6sc=",
+ "cert_user_id": "jodumont@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "59a4f569313058b69ec2380a6bd8d7e7d912b0c6b7eba0e0e80a832fbfaa3997",
+   "size": 107
+  }
+ },
+ "inner_path": "data/users/1KGdEpxomoG53CqmSupnbBqYFD4kWhqgSe/content.json",
+ "modified": 1468249022.321793,
+ "signs": {
+  "1KGdEpxomoG53CqmSupnbBqYFD4kWhqgSe": "G5J3mHTHzYesQTO4hioCW5U73uEeuWo1J+jtQCgJyrwygVcLSf3WD3/PVW8GTetCSS1smDqTMrVp5k17y0VPz68="
+ }
+}

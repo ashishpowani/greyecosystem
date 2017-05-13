@@ -1,0 +1,17 @@
+{
+ "address": "1Gif7PqWTzVWDQ42Mo7np3zXmGAo3DXc7h",
+ "cert_auth_type": "web",
+ "cert_sign": "G/irDF/NHdUDbojCVjvJenqo2715G+DcURgO0chxAgJvGuOS7OpmJFqWwPq2bxNRalSi1r/MlnjVVJXVZr/9mtY=",
+ "cert_user_id": "torosentado@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "e89b4ba6459154cf5d3db9ef434f97e0aab1476cbc00529f3cd383a557a50ca5",
+   "size": 93
+  }
+ },
+ "inner_path": "data/users/1L4UPSC7NYaMSm8MMHTkHY2wtjukTbvS1k/content.json",
+ "modified": 1459770246.31,
+ "signs": {
+  "1L4UPSC7NYaMSm8MMHTkHY2wtjukTbvS1k": "G4wNkd/S6vJksG2IzB4IhVnO4ncceOBYOfzflBGgqdIC9+JxrI49yoW9oc0Wn3U1YoSy5sGKIeKYCGq9AP4uicw="
+ }
+}

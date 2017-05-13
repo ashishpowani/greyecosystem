@@ -1,0 +1,17 @@
+{
+ "address": "1Gif7PqWTzVWDQ42Mo7np3zXmGAo3DXc7h",
+ "cert_auth_type": "web",
+ "cert_sign": "G2YHzZOSXQnjaKALOUgYgZt/eDWUMYNw0IPZxbYrIT1Ey5cUt2P4Kh+WpRLq9GuOfny6emEzmPi7sWAtvbpeLJw=",
+ "cert_user_id": "einlander@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "66d04d8eac1f7e3cb2bcd2e706aa51df34add80b244fdcda1b76f68dce51f4ec",
+   "size": 453
+  }
+ },
+ "inner_path": "data/users/1J8Xh1H8Wg4VDcromchdgUHG6z7abk9HNz/content.json",
+ "modified": 1485078890,
+ "signs": {
+  "1J8Xh1H8Wg4VDcromchdgUHG6z7abk9HNz": "HET5Qd2pXDhx9566nzZSwCsk/UWVcN2lAWXsx0TztxcaGvqwhVbBoomDqU75Fx2mXhiqIaGLUsTkP9IVDJkYGd8="
+ }
+}

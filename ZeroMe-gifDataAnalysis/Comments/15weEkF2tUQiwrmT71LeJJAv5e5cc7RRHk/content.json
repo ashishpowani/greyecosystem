@@ -1,0 +1,17 @@
+{
+ "address": "1Gif7PqWTzVWDQ42Mo7np3zXmGAo3DXc7h",
+ "cert_auth_type": "web",
+ "cert_sign": "G3jXkfokLDudjGZ8GZHlh8PD8ReGkO/NR+JL/12wlX8WulvcSGRkSRg7JHMoRWYobHjDacut+uFuAhpObrtubXI=",
+ "cert_user_id": "blacknight@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "fc66a79461718f86feae66bcbd41220d21b3e3171a4c749382a2963f83dc8da9",
+   "size": 431
+  }
+ },
+ "inner_path": "data/users/15weEkF2tUQiwrmT71LeJJAv5e5cc7RRHk/content.json",
+ "modified": 1482084755.599911,
+ "signs": {
+  "15weEkF2tUQiwrmT71LeJJAv5e5cc7RRHk": "HFrmOM/xYWRNbhBpGeTOlXyfIoM5sRCd7VPPHjAsOjZTl4lcEVbiDJBbljr0R4pRoEZyI3qDCcI8EMdxBSYp0jo="
+ }
+}

@@ -1,0 +1,15 @@
+{
+ "cert_auth_type": "web",
+ "cert_sign": "HD//1xTZ+2oFsaA+Abm4uH+P3CNq6OOdoWTUsOS/J08YH9DnCanfgI04klBVx7wMV2O+QDH57Wf68rMmQh8ary4=",
+ "cert_user_id": "kingeplear@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "a2c300e22141f0d98fc7ac549a761790cfd266ca32cd95412704375445360ec3",
+   "size": 94
+  }
+ },
+ "modified": 1455578785.459283,
+ "signs": {
+  "1FQELxi4jrfKU9oerTomYcC4MQzmDcaq7J": "G+FjNesdDVkxPdDrDyMg+G0T7l5/085qDPAM8Ee0Q/4wN7D8SmnQ/qU7EjZTHASJLTXuhO4g54R1NIItvBv7g7I="
+ }
+}

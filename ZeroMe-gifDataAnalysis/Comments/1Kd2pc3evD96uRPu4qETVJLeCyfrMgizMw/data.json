@@ -1,0 +1,22 @@
+{
+	"next_comment_id": 2,
+	"comment": [
+		{
+			"comment_id": 1,
+			"body": "bet he went and did it again though...",
+			"post_id": 3811,
+			"date_added": 1494632834
+		}
+	],
+	"comment_vote": {},
+	"post_vote": {
+		"3575": 1,
+		"3588": 1,
+		"3634": 1,
+		"3811": 1,
+		"6827": 1,
+		"6828": 1,
+		"6830": 1,
+		"6833": 1
+	}
+}

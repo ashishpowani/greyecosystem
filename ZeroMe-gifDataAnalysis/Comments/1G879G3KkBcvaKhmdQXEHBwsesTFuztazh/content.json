@@ -1,0 +1,17 @@
+{
+ "address": "1Gif7PqWTzVWDQ42Mo7np3zXmGAo3DXc7h",
+ "cert_auth_type": "web",
+ "cert_sign": "G1ShOFkSJNZsTNV8NjEDtdweUHx3qL+8jHfhvMVHs5SB9Pl6XkXRYxI5JzBHMXq18Tsm1c6IidFkiBcnzzJyPTA=",
+ "cert_user_id": "ovioc@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "14aec867363acd67191196dbed2a1c6cfba1170dea1574d4cce4e770e1b8011e",
+   "size": 185
+  }
+ },
+ "inner_path": "data/users/1G879G3KkBcvaKhmdQXEHBwsesTFuztazh/content.json",
+ "modified": 1479963406.787,
+ "signs": {
+  "1G879G3KkBcvaKhmdQXEHBwsesTFuztazh": "HDVDAvLB+TPJo18R+tRYT6NSReutsACmJveLVnVnXCftKvglEbh3s0AWx2Q7XOa3vzZkADa1amrpoebbYkcuyQk="
+ }
+}

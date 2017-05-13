@@ -1,0 +1,17 @@
+{
+ "address": "1Gif7PqWTzVWDQ42Mo7np3zXmGAo3DXc7h",
+ "cert_auth_type": "web",
+ "cert_sign": "GxlmIMdbPfU4firFdYo2jF1rkBo/ZAfT0jvFu6Th8Y0MdD6uynuCnHrFg0emeMXVyzQvUHv6Bj8zknue/5/O6YM=",
+ "cert_user_id": "mindaslab@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "718bbb4d6c3f99516dff39eb077ac44645d86407611f896c4d3af12a1ceb62e3",
+   "size": 133
+  }
+ },
+ "inner_path": "data/users/1D2z5mzZroraX6Hin5eH5zukCUuAnYiS72/content.json",
+ "modified": 1459790020.009657,
+ "signs": {
+  "1D2z5mzZroraX6Hin5eH5zukCUuAnYiS72": "G+f69kbmjMA71AwbU85L3Lymxk24Mhuvmy4Nnw9bkVUXMxfdysfZcMqMIzkS4xKQLduyKWLFKobBXEIVMXVOpf8="
+ }
+}

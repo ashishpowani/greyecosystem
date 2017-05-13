@@ -1,0 +1,17 @@
+{
+ "address": "1Gif7PqWTzVWDQ42Mo7np3zXmGAo3DXc7h",
+ "cert_auth_type": "web",
+ "cert_sign": "HNaxRa0Fszxc4ArMVGoAQTjQ0PwrxUJW8TPS44GQq6cGsMVrDADgpS0oR094vGzkfu1neYkMFmWqffa0C+j86AA=",
+ "cert_user_id": "curmudgeon@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "eb93c5eece2ba47af04e742e3e1963c8f1e525e1189bdd3d530dbd7e815ba0e9",
+   "size": 107
+  }
+ },
+ "inner_path": "data/users/15rmSJoSczKsbez7AP7J7yQV4LjirLfkfn/content.json",
+ "modified": 1472095682.315584,
+ "signs": {
+  "15rmSJoSczKsbez7AP7J7yQV4LjirLfkfn": "Gw4nAvQ405fHNQPHFpCh3xWClHlXmvqnPsbXeuSykqP9ZSBGVrhZDrCxcn6ZuagbqKGOgtatPszDD7sZOOcahVw="
+ }
+}

@@ -1,0 +1,17 @@
+{
+ "address": "1Gif7PqWTzVWDQ42Mo7np3zXmGAo3DXc7h",
+ "cert_auth_type": "web",
+ "cert_sign": "HE/5kJpTp4xStVisPxFOjvWym3Bn8ku74VwsaL2+kp0WAcFTXUK8CckGvhv6XdifXZE+y9xoyRy5RX+/AYnYWQk=",
+ "cert_user_id": "popcornrules@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "b5917fd3cb9dbc5a0c648a179967c4bbcc6119f0e559302eb5d6e5ad2fe5c904",
+   "size": 159
+  }
+ },
+ "inner_path": "data/users/1RMpg3J3WuozjQGCNkZhWyTmLhj8G3De4/content.json",
+ "modified": 1483492826.000151,
+ "signs": {
+  "1RMpg3J3WuozjQGCNkZhWyTmLhj8G3De4": "G1gH6cLiSNRHTj4ipdsYdgfIIttbSI8gnfVUm1tgEgplC4BuulRoiXKEw8rWfMQ7RLKNqYONLaiLH/bTfS0rue0="
+ }
+}

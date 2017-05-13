@@ -1,0 +1,34 @@
+{
+	"next_comment_id": 5,
+	"comment": [
+		{
+			"comment_id": 1,
+			"body": "short",
+			"post_id": 4504,
+			"date_added": 1480075838
+		},
+		{
+			"comment_id": 2,
+			"body": "beautiful",
+			"post_id": 4503,
+			"date_added": 1480075895
+		},
+		{
+			"comment_id": 3,
+			"body": "So painful",
+			"post_id": 4490,
+			"date_added": 1480076045
+		},
+		{
+			"comment_id": 4,
+			"body": "Be your long hair and waist, go out to be cut a knife",
+			"post_id": 4488,
+			"date_added": 1480076303
+		}
+	],
+	"comment_vote": {},
+	"topic_vote": {},
+	"post_vote": {
+		"4463": 1
+	}
+}

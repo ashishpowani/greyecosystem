@@ -1,0 +1,17 @@
+{
+ "address": "1Gif7PqWTzVWDQ42Mo7np3zXmGAo3DXc7h",
+ "cert_auth_type": "web",
+ "cert_sign": "HFs4g8fxxjn4qrnJxP/owZp0Jc3lpxRibkTMZcat9Y4UHAUdns9Lox6GYgHp5iFdnanfQrKNr2lTfCGNLy+4Mg0=",
+ "cert_user_id": "evlogii@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "e06a33ff88c0816eb384329545ef4d60b5d5dd59ab7356e92fa36229b87680fd",
+   "size": 107
+  }
+ },
+ "inner_path": "data/users/1J6aV6pSxgWcwJoBNFQXjFNsuWpUHrc119/content.json",
+ "modified": 1462271007.890157,
+ "signs": {
+  "1J6aV6pSxgWcwJoBNFQXjFNsuWpUHrc119": "HE86zM2YALbBoPg7e8tzmHWU6vNVinIjobEHgEpl2G/nwdilZ5Uqf3am6tP1CWFuNEdmMMpOiWpxXsob1BWF7Jk="
+ }
+}

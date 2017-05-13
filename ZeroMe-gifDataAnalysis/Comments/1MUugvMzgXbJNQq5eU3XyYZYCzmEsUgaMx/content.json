@@ -1,0 +1,17 @@
+{
+ "address": "1Gif7PqWTzVWDQ42Mo7np3zXmGAo3DXc7h",
+ "cert_auth_type": "web",
+ "cert_sign": "HFJmRfN1gfhfRdOPKSHnzSzmfQODDDyDAgEDrnbBF2kVZ+Z19VQtojSXxGZqj0U9WDjx2nwTLK3grUwRlGQDA5Y=",
+ "cert_user_id": "shooteram@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "8b8c9d4e9b86d6eefdedf0d2aa1f720d74936ba04a59d6d5ef822ba09855e2b9",
+   "size": 294
+  }
+ },
+ "inner_path": "data/users/1MUugvMzgXbJNQq5eU3XyYZYCzmEsUgaMx/content.json",
+ "modified": 1456873018.292,
+ "signs": {
+  "1MUugvMzgXbJNQq5eU3XyYZYCzmEsUgaMx": "HOJ/mXLu0MqZZYxyBAcsBhb9FJyI8Zdlmy0jNAYptS9xGkNbW5O65rdduM4pY53jj5gjNfNNHLM2TsI7ii/EO7s="
+ }
+}

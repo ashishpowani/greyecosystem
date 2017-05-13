@@ -1,0 +1,17 @@
+{
+ "address": "1Gif7PqWTzVWDQ42Mo7np3zXmGAo3DXc7h",
+ "cert_auth_type": "web",
+ "cert_sign": "Gw63zrNAYTVmeUG/VcpGJYBvxnCAUVzVv36oYwLYfmJ2jocXTzV2BwTs5KXdKGaOghVESVX5Ezi8uJLNIVI1e00=",
+ "cert_user_id": "mansoninferno@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "5434940c0fa0fd408cb05c923d9470bba4467e8520c6bb67671fc380ab1c49c5",
+   "size": 331
+  }
+ },
+ "inner_path": "data/users/1NNqtgJDAsBhQFRP5BRWneMoFGmUgMyRdH/content.json",
+ "modified": 1479178697.527,
+ "signs": {
+  "1NNqtgJDAsBhQFRP5BRWneMoFGmUgMyRdH": "HCuIFbsGThbLTECRSPOB92dDWEgUCOWylX88Iq6ssNg1mMdEk4PkkKdBehNQ1CcIwgAlW/JHKjxpfO30SZabZj8="
+ }
+}

@@ -1,0 +1,15 @@
+{
+ "cert_auth_type": "web",
+ "cert_sign": "HLLntQxZRT75p+dKD8q/Uyg8ZTWrOZccMRf6F9eWQshWXrAQxDeEUlp3cKXSMCIuDJRn2fFCx/EG9UNGkEjZ0KQ=",
+ "cert_user_id": "dnelband@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "787d43fcf0ed6f7bd08edb37bc7a77c5a5fb281aecbe4d4030c31752e937629e",
+   "size": 340
+  }
+ },
+ "modified": 1456236302.596812,
+ "signs": {
+  "1HYLmRCoawyTweV15x2z3tYLBsduVuDNGu": "G+HaTEZE7xZUVNsM57UyNxnzUNrRF+jGWBggFmuSKXTOAu/Tq4HMBxl5GtpUrhgICUm5LANe+g+mPLjUWHBh3+A="
+ }
+}

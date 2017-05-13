@@ -1,0 +1,17 @@
+{
+ "address": "1Gif7PqWTzVWDQ42Mo7np3zXmGAo3DXc7h",
+ "cert_auth_type": "web",
+ "cert_sign": "HASUQemcVTGWd1uKHK8TnJj6nOtr04gJ+yZ7mbYSyA/GP2Co5hW71oRf4LGzbtYJakjQbAPPjZe84Zqm+ysaUqk=",
+ "cert_user_id": "yuronglong1996@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "48e3844fbbfc62abc8771ccd523f80f570de7353ac3ffb635147f8d02283c57c",
+   "size": 94
+  }
+ },
+ "inner_path": "data/users/1APqxHAeX8ddN8uR3PaUAsDNGjTrHsAoDm/content.json",
+ "modified": 1488037656,
+ "signs": {
+  "1APqxHAeX8ddN8uR3PaUAsDNGjTrHsAoDm": "G+M/qF29Ny5e0p42vxuyl1KI/Iccfg0ja0ZhXMZUykDs//B+ulYP38DitHp2t1OBRzq5QGow7qLiGknkgqciG+c="
+ }
+}

@@ -1,0 +1,17 @@
+{
+ "address": "1Gif7PqWTzVWDQ42Mo7np3zXmGAo3DXc7h",
+ "cert_auth_type": "web",
+ "cert_sign": "G1DIQvn71oPfJEifxU4UfoodTwCQP0SUA7v5wPGbq15dW3/T1TG98nohBY/C827PMNZyB+TDPqbKW/G9gGDQ8HI=",
+ "cert_user_id": "inteluga@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "50724441d66db325aa15b7a4dcaaa2f799468647aa63fa7d10d9f2700f4c69da",
+   "size": 94
+  }
+ },
+ "inner_path": "data/users/1EYJGMZsTNtsbvPRLRUZgu8u2pT5TAijY7/content.json",
+ "modified": 1457718102.794,
+ "signs": {
+  "1EYJGMZsTNtsbvPRLRUZgu8u2pT5TAijY7": "HNMCOUM4IfVgPgTPzaaxvyaANRePg1uznaM2qeS8xd+tGIL5hZl3DddpPHrTO7/fgG7M5FlLeqMA0RlLGpbgwBI="
+ }
+}

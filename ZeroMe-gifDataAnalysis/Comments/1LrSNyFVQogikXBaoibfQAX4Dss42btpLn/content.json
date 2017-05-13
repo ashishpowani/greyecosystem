@@ -1,0 +1,17 @@
+{
+ "address": "1Gif7PqWTzVWDQ42Mo7np3zXmGAo3DXc7h",
+ "cert_auth_type": "web",
+ "cert_sign": "G2rq26e/tHfRLjj/oXyiyOzUHOQBQsnQ+13+sMt14lAm+a74WI2+dqAHDr+Cr3+OkgjmEDrlF19+Pe1VrRp9nTs=",
+ "cert_user_id": "mismaelix@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "5227389fcf07558239fd31f49e00259cf9d1d2aecc62f62c46867c88e563921b",
+   "size": 133
+  }
+ },
+ "inner_path": "data/users/1LrSNyFVQogikXBaoibfQAX4Dss42btpLn/content.json",
+ "modified": 1457387141.006,
+ "signs": {
+  "1LrSNyFVQogikXBaoibfQAX4Dss42btpLn": "HNe6HWgoNf8Isf7svUw7YK3J6JgWcmFCz4ZzePSKcbJ3XIAAc7KHKnNsjt+LCm0+niVc6AELSH9Tf2SoGZzMqGk="
+ }
+}

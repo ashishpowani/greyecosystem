@@ -1,0 +1,17 @@
+{
+ "address": "1Gif7PqWTzVWDQ42Mo7np3zXmGAo3DXc7h",
+ "cert_auth_type": "web",
+ "cert_sign": "HKDQABKoMdbytgFo0smRr5DHy8q7gbbWBkHHxgtNPgvIJtVYP453j5yrNjGH9RvKEn8a0NLh78QQb73DLCa4qIw=",
+ "cert_user_id": "kumold@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "a93e91b265737173b7576c4af3992a32af101327e8b7346094ff7b4c92b40900",
+   "size": 213
+  }
+ },
+ "inner_path": "data/users/1NtbDt8U3fJaxDtDAj5NBrfu2n447YskUj/content.json",
+ "modified": 1456938617.745,
+ "signs": {
+  "1NtbDt8U3fJaxDtDAj5NBrfu2n447YskUj": "HOVIEMOWzZcSeZ2yIjPgt34cVteEekaZ120UaG4Ii/Tf8HntnM41n93eiqZ8+hJtjiqbZWjPr4Kma2+3S4Fwiww="
+ }
+}

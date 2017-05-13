@@ -1,0 +1,17 @@
+{
+ "address": "1Gif7PqWTzVWDQ42Mo7np3zXmGAo3DXc7h",
+ "cert_auth_type": "web",
+ "cert_sign": "HH3dWOIQs1Xx7tCW4ChW1eN3Le0ppI5WsEM57Yre3PNhMPJqu8SVl+QtBAsSYkGUbLVUPJ3S0VJ59G88x+eGj/E=",
+ "cert_user_id": "danitox@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "6f46db2a60b9a682faefe2e474d0109ac39d939492f3e177ff3b5fc29684fd3f",
+   "size": 274
+  }
+ },
+ "inner_path": "data/users/1Q73srcUk8KtndFenoDqw9EepwGXpgHnow/content.json",
+ "modified": 1460240584.910997,
+ "signs": {
+  "1Q73srcUk8KtndFenoDqw9EepwGXpgHnow": "HChNZAihXabeI+YHaGnoIyhXH0t/DYKm0oP82gQRtbpED6NrxC7nD/B4jklQuYleAH/lyw3ldL9ZzSSKvBWuKaM="
+ }
+}

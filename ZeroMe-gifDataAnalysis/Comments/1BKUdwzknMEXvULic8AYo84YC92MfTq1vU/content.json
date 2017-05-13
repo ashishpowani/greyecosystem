@@ -1,0 +1,17 @@
+{
+ "address": "1Gif7PqWTzVWDQ42Mo7np3zXmGAo3DXc7h",
+ "cert_auth_type": "web",
+ "cert_sign": "HF+eNw9xrO2zYvfNddIie3FE9pS9+w6N7mSJupHbZzv718qFFphoimfbq1Ci/2AF1NfnGBbcJD8koLoL0SJNsOo=",
+ "cert_user_id": "drhacker@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "d74a6e5c22ba90c7bb255814aa720f120cefca962473acc055029a4441fd4ca4",
+   "size": 94
+  }
+ },
+ "inner_path": "data/users/1BKUdwzknMEXvULic8AYo84YC92MfTq1vU/content.json",
+ "modified": 1461311000.257802,
+ "signs": {
+  "1BKUdwzknMEXvULic8AYo84YC92MfTq1vU": "HB2dGk18S1WFhv0UYZ1MF63cF4ijrnql3h8vaQRsBvwDZR3POqoq5l5KWhtLkX5Rdit90IQXX4Tzm/h0mDW+o7g="
+ }
+}

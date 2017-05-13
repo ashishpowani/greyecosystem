@@ -1,0 +1,17 @@
+{
+ "address": "1Gif7PqWTzVWDQ42Mo7np3zXmGAo3DXc7h",
+ "cert_auth_type": "web",
+ "cert_sign": "GxqNQASfmDAO8BWytxsPF/4NgJ65eAMhlu29hW5LWx7vIQub88PM7U+mkjA8dNdV4X3M7AqpMia6lT77ZmeVFzE=",
+ "cert_user_id": "aviator@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "c74e00198f35128f4161183632a4c7894f36b93c18a00ea9cd2fb12b5006cbc2",
+   "size": 171
+  }
+ },
+ "inner_path": "data/users/15ow7KnfDY1jW2aVvh6hroh64m6iRKqeQS/content.json",
+ "modified": 1460502421.478,
+ "signs": {
+  "15ow7KnfDY1jW2aVvh6hroh64m6iRKqeQS": "G1ijt/s5evMljJ0L6TXNmItMsh3pfffY1PNJR3TVusNURj5oqXYpSN1piYVgdcK3WPob/bpSINpnS/ScMaPy4oA="
+ }
+}

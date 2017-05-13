@@ -1,0 +1,17 @@
+{
+ "address": "1Gif7PqWTzVWDQ42Mo7np3zXmGAo3DXc7h",
+ "cert_auth_type": "web",
+ "cert_sign": "HN1iZ5zVrUaNDUqow8M8GCLOfqSGH5TS6c/NnF4V6NxJs69FH8VAhkTbQnoRfbXesIiE2UoWfZzp65pN6ZaQods=",
+ "cert_user_id": "necklace@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "489708908815756ae462606ea354f2ccf526d6d2a1dd3866e207a9cf42009c5d",
+   "size": 94
+  }
+ },
+ "inner_path": "data/users/1BxnfGNvTGZYvrGp6vf3zgKrowMKxh9PrY/content.json",
+ "modified": 1470050060.78826,
+ "signs": {
+  "1BxnfGNvTGZYvrGp6vf3zgKrowMKxh9PrY": "GxXvumTjPH4H8EiR54us8y7skbv4fojuwB+1upvobdJfq1P9BcTZ3l9c9T+jycqIjV/1ham+G8zzNaxiaXiKxKw="
+ }
+}

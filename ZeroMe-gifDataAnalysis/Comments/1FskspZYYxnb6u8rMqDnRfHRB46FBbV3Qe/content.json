@@ -1,0 +1,17 @@
+{
+ "address": "1Gif7PqWTzVWDQ42Mo7np3zXmGAo3DXc7h",
+ "cert_auth_type": "web",
+ "cert_sign": "G9HWS0yXKcGIRUce0fyrN6Isy1GDt1rv6UKI0TBRqxx45VuHWytMj6eYOsA9oA+40DiwqmswD6RfIGvUGd0jVAE=",
+ "cert_user_id": "zeroking65@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "bf7e599dfe8c1171e98c68f6a0fefe04de6e57ff48ca372ec611600c65c605bc",
+   "size": 159
+  }
+ },
+ "inner_path": "data/users/1FskspZYYxnb6u8rMqDnRfHRB46FBbV3Qe/content.json",
+ "modified": 1462885010.431,
+ "signs": {
+  "1FskspZYYxnb6u8rMqDnRfHRB46FBbV3Qe": "Gy2k8bGndE+2eIvQNqGwdMIoFY9A52nGhwSTKy6OuvLmUaX7y34/VFeoKyaZHRTNNT5IYtC1dx5+pAEOqJtX6Eg="
+ }
+}

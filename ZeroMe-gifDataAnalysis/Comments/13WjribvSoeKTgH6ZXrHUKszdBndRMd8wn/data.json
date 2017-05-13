@@ -1,0 +1,32 @@
+{
+	"next_comment_id": 4,
+	"comment": [
+		{
+			"comment_id": 1,
+			"body": "Jeez, ain't that the friggen truth!!!! Grrrr aaargh aarhrgh aaark! Harrr me code monkeez...\n",
+			"post_id": 1117,
+			"date_added": 1466421788
+		},
+		{
+			"comment_id": 2,
+			"body": "NO, no, no!!! Cat requires claws to be out... Including death stare?!",
+			"post_id": 1118,
+			"date_added": 1466421881
+		},
+		{
+			"comment_id": 3,
+			"body": "Everything in Texas IS bigger & better...",
+			"post_id": 2598,
+			"date_added": 1466422012
+		}
+	],
+	"comment_vote": {},
+	"topic_vote": {},
+	"post_vote": {
+		"615": 1,
+		"663": 1,
+		"1113": 1,
+		"1118": 1,
+		"2598": 1
+	}
+}

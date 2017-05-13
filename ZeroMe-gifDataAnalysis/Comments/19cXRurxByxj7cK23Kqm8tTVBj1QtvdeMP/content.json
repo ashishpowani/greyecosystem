@@ -1,0 +1,17 @@
+{
+ "address": "1Gif7PqWTzVWDQ42Mo7np3zXmGAo3DXc7h",
+ "cert_auth_type": "web",
+ "cert_sign": "HHSYMFWVLVwarrtySoh/3TTo80RtcQtr6vVNklHMEhpVSbE6zhSIoZM0rYc13uMP+vSqHYjmQcUj/zQSw5PX8f4=",
+ "cert_user_id": "gambit@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "468638ec5b73355e2206bacf974b57c640f4365f010538566f5a70e00da0bf22",
+   "size": 322
+  }
+ },
+ "inner_path": "data/users/19cXRurxByxj7cK23Kqm8tTVBj1QtvdeMP/content.json",
+ "modified": 1458852936.560448,
+ "signs": {
+  "19cXRurxByxj7cK23Kqm8tTVBj1QtvdeMP": "HDNQ7s5G1ezPLBPj4RZ0fzs37Jn6nXwRiSWEvPJTIJJv9JzI5MtOnI7ceysMnnwspAA6qIYQ9IT7oYn0Icm4jFM="
+ }
+}

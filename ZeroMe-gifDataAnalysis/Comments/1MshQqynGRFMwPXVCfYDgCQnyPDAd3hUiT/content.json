@@ -1,0 +1,17 @@
+{
+ "address": "1Gif7PqWTzVWDQ42Mo7np3zXmGAo3DXc7h",
+ "cert_auth_type": "web",
+ "cert_sign": "G02uS8+YO0HPOktVNYLjM/T3av0J224z9a889i/s3eMyh7v0NgNPBmPoHf+vBDhF5A3seDvAR77Sq4j90PSlXDo=",
+ "cert_user_id": "lupa18@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "79abc2953941634bd35d03ede9fbc0b5b5b41a4347cc2466113cd6fc907016b3",
+   "size": 94
+  }
+ },
+ "inner_path": "data/users/1MshQqynGRFMwPXVCfYDgCQnyPDAd3hUiT/content.json",
+ "modified": 1490543481,
+ "signs": {
+  "1MshQqynGRFMwPXVCfYDgCQnyPDAd3hUiT": "G+o+AsGrHHLgICYRnaCLpqV3oKiM/R5YrRsWpBlY34jKAi5npiVCtxhToC5X6gSJ4dp1e9UeqZ3kcy9ZeauUwMU="
+ }
+}

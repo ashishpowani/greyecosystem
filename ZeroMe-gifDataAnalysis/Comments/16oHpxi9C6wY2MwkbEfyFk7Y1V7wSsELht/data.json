@@ -1,0 +1,23 @@
+{
+	"next_comment_id": 2,
+	"comment": [
+		{
+			"comment_id": 1,
+			"body": "source pleas? ",
+			"post_id": 1113,
+			"date_added": 1460059863
+		}
+	],
+	"comment_vote": {},
+	"topic_vote": {},
+	"post_vote": {
+		"1683": 1,
+		"1740": 1,
+		"1755": 1,
+		"1770": 1,
+		"1836": 1,
+		"2142": 1,
+		"2325": 1,
+		"2340": 1
+	}
+}

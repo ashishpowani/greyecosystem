@@ -1,0 +1,21 @@
+{
+	"next_comment_id": 2,
+	"comment": [
+		{
+			"comment_id": 1,
+			"body": "perfect!",
+			"post_id": 269,
+			"date_added": 1457293146
+		}
+	],
+	"comment_vote": {},
+	"post_vote": {
+		"249": 1,
+		"296": 1,
+		"590": 1,
+		"1018": 1,
+		"1032": 1,
+		"1117": 1,
+		"1118": 1
+	}
+}

@@ -1,0 +1,17 @@
+{
+	"next_comment_id": 2,
+	"comment": [
+		{
+			"comment_id": 1,
+			"body": "This is so magic mike.\n",
+			"post_id": 3827,
+			"date_added": 1477584876
+		}
+	],
+	"comment_vote": {},
+	"post_vote": {
+		"1386": 1,
+		"1418": 1,
+		"3588": 1
+	}
+}

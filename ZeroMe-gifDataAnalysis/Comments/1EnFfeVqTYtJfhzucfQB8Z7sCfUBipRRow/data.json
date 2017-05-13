@@ -1,0 +1,19 @@
+{
+	"next_comment_id": 2,
+	"comment": [
+		{
+			"comment_id": 1,
+			"body": "holy damn\n",
+			"post_id": 3789,
+			"date_added": 1475671293
+		}
+	],
+	"comment_vote": {},
+	"post_vote": {
+		"3682": 1,
+		"3839": 1,
+		"3863": 1,
+		"3867": 1,
+		"3871": 1
+	}
+}

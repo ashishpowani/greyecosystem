@@ -1,0 +1,17 @@
+{
+ "address": "1Gif7PqWTzVWDQ42Mo7np3zXmGAo3DXc7h",
+ "cert_auth_type": "web",
+ "cert_sign": "HNEvGilgv/uE5m5nPEJdTbvKvLxqZhMVWoo4H4YCwn2wZ7OwulJpVCWqf8azYp1ivqqTrwzy83hKgoDFSjFLWgE=",
+ "cert_user_id": "jazzguitar@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "caed9d61d2eb620d0059aa6ab33df068146de1d57a019da2a142caa37a743cc3",
+   "size": 395
+  }
+ },
+ "inner_path": "data/users/159oA5qFYtQxNb9T2AgcFKFShJPmRwMgkZ/content.json",
+ "modified": 1486424288,
+ "signs": {
+  "159oA5qFYtQxNb9T2AgcFKFShJPmRwMgkZ": "G8w16DIayraMhkchqepLhlxNxRuAp72Km2g56IXuP6DYP3ooLGDYsSEAOYqOjGtKuQDJ4FbdLHDfT/p9CiOXusc="
+ }
+}

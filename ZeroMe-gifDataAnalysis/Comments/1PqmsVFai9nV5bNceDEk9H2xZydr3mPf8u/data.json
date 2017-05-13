@@ -1,0 +1,18 @@
+{
+	"next_comment_id": 2,
+	"comment": [
+		{
+			"comment_id": 1,
+			"body": "source pls ",
+			"post_id": 1107,
+			"date_added": 1462878037
+		}
+	],
+	"comment_vote": {},
+	"topic_vote": {},
+	"post_vote": {
+		"2047": 1,
+		"2048": 1,
+		"2050": 1
+	}
+}

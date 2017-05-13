@@ -1,0 +1,15 @@
+{
+ "cert_auth_type": "web", 
+ "cert_sign": "G21fd3m2eUjkR8e3jt2JWn/XlOCDM8l6aXv1R6gN9SuF9fDzlqhNXwielHT1NRF8YmScHdrpEltNFGt8nXvj8+4=", 
+ "cert_user_id": "cybershield@zeroid.bit", 
+ "files": {
+  "data.json": {
+   "sha512": "32c9df75907ccab3ad23bf9e57816a1db7e2274d8e8ab19c8faf69f1f42bfd6d", 
+   "size": 105
+  }
+ }, 
+ "modified": 1451494286.085829, 
+ "signs": {
+  "1N3iFRxfF1cS9GhraRV8voBmqWxxZ7K8fh": "GwGk7CYyDxHPNbVH033+3T99XB2N4i9uQr+jLL7CKBhskl/VE+Fs4e0M1IG9MglNjVbrC0Eub3qk3zWvk+f/jL0="
+ }
+}

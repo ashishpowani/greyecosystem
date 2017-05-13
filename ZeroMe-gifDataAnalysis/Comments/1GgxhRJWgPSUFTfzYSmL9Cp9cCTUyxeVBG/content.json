@@ -1,0 +1,17 @@
+{
+ "address": "1Gif7PqWTzVWDQ42Mo7np3zXmGAo3DXc7h",
+ "cert_auth_type": "web",
+ "cert_sign": "G82P7NbjZ6k2u6ZJM/m4FuoZQOfYplntQRLrdZd63ol98O7tPVSSKwcrhoAwlOitxXbp8rMUjFBHWLaPja8yI4I=",
+ "cert_user_id": "vuvuz@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "da5321df54a302f5ae2af0e2e20b98fee959f5ae990cd6ec4e2c69c1ea57583c",
+   "size": 118
+  }
+ },
+ "inner_path": "data/users/1GgxhRJWgPSUFTfzYSmL9Cp9cCTUyxeVBG/content.json",
+ "modified": 1457051155.001,
+ "signs": {
+  "1GgxhRJWgPSUFTfzYSmL9Cp9cCTUyxeVBG": "GxyBTBYH+iuOSQTkFV7ThVp26Nun9UwUGsSLcvfoSYv6dDULlPhvZjNvXqCOLoJH3P43H468mhVPLkhs/nli2js="
+ }
+}

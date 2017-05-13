@@ -1,0 +1,17 @@
+{
+ "address": "1Gif7PqWTzVWDQ42Mo7np3zXmGAo3DXc7h",
+ "cert_auth_type": "web",
+ "cert_sign": "GxpEW7cVpXyWCWt6Bm9cAZpSH6e3SIqgl+aynV+99d+mFs9K3B8FanyvMehM09HifGxcBq8yc1CCMnZ5D8ZpmeQ=",
+ "cert_user_id": "vktec@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "3df5f128b4d93e3b3cb37747841de35f553f0636f86dd6229ef4697584b281df",
+   "size": 770
+  }
+ },
+ "inner_path": "data/users/1A3H8spcxEoYo2azFo4jdabqcHXkS88KBs/content.json",
+ "modified": 1476027015.45091,
+ "signs": {
+  "1A3H8spcxEoYo2azFo4jdabqcHXkS88KBs": "G0GKG2sqnt5EMl/Q4QSWLvsvNx4DLBKGMx5veZSVP3zuKNsMyPCbgu32mczGyWroLphdMmkdHJRuuDlK7V6gUFw="
+ }
+}

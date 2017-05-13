@@ -1,0 +1,17 @@
+{
+ "address": "1Gif7PqWTzVWDQ42Mo7np3zXmGAo3DXc7h",
+ "cert_auth_type": "web",
+ "cert_sign": "G8Q38neUZ/xL4alnkNcf1g3iJjXXrSCj2cWe8aGWdwpUqzj7k39RgVF9HKU1SfdtYpvH5uj/cssfK78378mTSIM=",
+ "cert_user_id": "colfield@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "feb0a00cd376b55afb7d299c7d08f838f4489d029c0c2d1ce0432c291927fd44",
+   "size": 120
+  }
+ },
+ "inner_path": "data/users/1PzRhdWnW3kdcb7cTe4akhXPrS7rufemSF/content.json",
+ "modified": 1457000008.122,
+ "signs": {
+  "1PzRhdWnW3kdcb7cTe4akhXPrS7rufemSF": "HH3lWiAfzswxWbU0aC2jOWe3INJgqYKEn7Jynm1PvFcmldp8dUpTwlTs2G1Nx59uPTBIBKOTxxObrZCHVLnaOpQ="
+ }
+}

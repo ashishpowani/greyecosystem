@@ -1,0 +1,16 @@
+{
+	"next_comment_id": 2,
+	"comment": [
+		{
+			"comment_id": 1,
+			"body": "nice and fun way to get headache...",
+			"post_id": 3811,
+			"date_added": 1479087261
+		}
+	],
+	"comment_vote": {},
+	"post_vote": {
+		"3811": 1,
+		"3827": 1
+	}
+}

@@ -1,0 +1,17 @@
+{
+ "address": "1Gif7PqWTzVWDQ42Mo7np3zXmGAo3DXc7h",
+ "cert_auth_type": "web",
+ "cert_sign": "G9CRZXRUqXUo18aMhMcCeWYX3VeObrMZgFUErxS1g1HJa691ht79SqFqk4GRZCTLsLoi6M1c3iZ+msLWRhagT+4=",
+ "cert_user_id": "ilikefreedom@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "9e81220db7832a604e3196076a83b77d3ecbef9ccba5921391f974bd85ac1eb4",
+   "size": 254
+  }
+ },
+ "inner_path": "data/users/14Rd4c9s6bVM4ySKGRu3k8pQJwSnJeyiyR/content.json",
+ "modified": 1494258353,
+ "signs": {
+  "14Rd4c9s6bVM4ySKGRu3k8pQJwSnJeyiyR": "HJRDZjwC2EtImyXIDzjlX0c3gkvrxYuiWSAIeESwSfy3Yv+ecZCx5zmgMU/Im8nS9gNM6GLimmQOn8x0br5SZ5g="
+ }
+}

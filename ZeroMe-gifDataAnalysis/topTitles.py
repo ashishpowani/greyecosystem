@@ -10,7 +10,7 @@ import os, re, fnmatch, nltk
 from nltk.probability import FreqDist
 from datetime import date, timedelta
 
-rootPath = '/Users/Santhosh/Downloads/gif-analysis/Comments'
+rootPath = './Comments'
 pattern = 'data.json'
 
 sys.stdout = open('file', 'w', encoding='Latin-1')

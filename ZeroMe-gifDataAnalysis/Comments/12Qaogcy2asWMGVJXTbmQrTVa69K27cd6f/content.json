@@ -1,0 +1,17 @@
+{
+ "address": "1Gif7PqWTzVWDQ42Mo7np3zXmGAo3DXc7h",
+ "cert_auth_type": "web",
+ "cert_sign": "HKKa2XoaVLBcFoOJxg4MHMYzHe11xWd8yChCWqxKmHzu7Cdhjuj7/6nLo8bXYkr1ktg9yTQ/a0zkR93ckB4UUzM=",
+ "cert_user_id": "shinobiultra@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "a2736cefb6bf8d78b9c191dfdb8a6a5343f428b0bfcfae8f63f62ec14f89bc51",
+   "size": 107
+  }
+ },
+ "inner_path": "data/users/12Qaogcy2asWMGVJXTbmQrTVa69K27cd6f/content.json",
+ "modified": 1483831734,
+ "signs": {
+  "12Qaogcy2asWMGVJXTbmQrTVa69K27cd6f": "HKP9zSGrZoF/55iEXIdjWM67XN6nBXPfosQjyiAV/8KY9RZ9VVy+pGo5J++qOnedRyKBbGrEpRPoXADdBgvftdI="
+ }
+}

@@ -1,0 +1,17 @@
+{
+ "address": "1Gif7PqWTzVWDQ42Mo7np3zXmGAo3DXc7h",
+ "cert_auth_type": "web",
+ "cert_sign": "HPfG6cwNPcwBseTAkK5Vrbsx5otoR+6hioRhDy/7FCfcUcqHNSD+nUn/QnQHk+HkXItEHkcrnG8ou167lvIDy3I=",
+ "cert_user_id": "muckmeh@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "4d26dbd6d38667bf6d7b043f8eddac9aff61bb8c685150a7281ea8b92c0eef14",
+   "size": 94
+  }
+ },
+ "inner_path": "data/users/1CFHu4ZK6uh6d8zmZaywLmWyZyerNSJtNW/content.json",
+ "modified": 1457033908.837,
+ "signs": {
+  "1CFHu4ZK6uh6d8zmZaywLmWyZyerNSJtNW": "HCxn1QayXB5bdEujkvlzFMPFs0eTL+2vs4QgFCB1p2daG0Zffr324HNKC16DHiB0WaqDIQ0Gx1/D6f3frlMV2zQ="
+ }
+}

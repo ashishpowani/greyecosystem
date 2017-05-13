@@ -1,0 +1,18 @@
+{
+	"next_comment_id": 2,
+	"comment": [
+		{
+			"comment_id": 1,
+			"body": "We know her name?",
+			"post_id": 3033,
+			"date_added": 1470033670
+		}
+	],
+	"comment_vote": {},
+	"topic_vote": {},
+	"post_vote": {
+		"681": 1,
+		"1030": 1,
+		"1940": 1
+	}
+}

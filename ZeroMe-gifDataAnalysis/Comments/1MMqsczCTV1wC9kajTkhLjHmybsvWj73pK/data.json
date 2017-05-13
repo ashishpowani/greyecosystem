@@ -1,0 +1,17 @@
+{
+	"next_comment_id": 2,
+	"comment": [
+		{
+			"comment_id": 1,
+			"body": "Instinct du Samoyède et chasseur sportif de coquillages.",
+			"post_id": 2905,
+			"date_added": 1469828520
+		}
+	],
+	"comment_vote": {},
+	"post_vote": {
+		"1974": 1,
+		"2463": 1,
+		"2952": 1
+	}
+}

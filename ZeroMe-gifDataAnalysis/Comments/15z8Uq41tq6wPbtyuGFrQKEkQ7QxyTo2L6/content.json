@@ -1,0 +1,17 @@
+{
+ "address": "1Gif7PqWTzVWDQ42Mo7np3zXmGAo3DXc7h",
+ "cert_auth_type": "web",
+ "cert_sign": "G7sJYavVKVvFMArmJNkycdZj2qtoxYOfXq05begPHZgjJiCwZM6tGwEdu0lTDZRBextCgdYKBZ2rwsXbrfEsu1A=",
+ "cert_user_id": "greenheadeddog@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "a48ed9912869e58039031b2a2ffe2b703b0401b0b2038003b3544dda44f010e0",
+   "size": 107
+  }
+ },
+ "inner_path": "data/users/15z8Uq41tq6wPbtyuGFrQKEkQ7QxyTo2L6/content.json",
+ "modified": 1476772711.351293,
+ "signs": {
+  "15z8Uq41tq6wPbtyuGFrQKEkQ7QxyTo2L6": "G5U7nM3UMwqPB/BPxbZofnOr1YLIc74ZgPIoP3quwroFKnDQCPS5zpDGUCqkjSv4RmJQcaM5CMPMqZAowhH0d4E="
+ }
+}

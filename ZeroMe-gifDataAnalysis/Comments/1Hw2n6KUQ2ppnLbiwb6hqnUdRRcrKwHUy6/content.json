@@ -1,0 +1,17 @@
+{
+ "address": "1Gif7PqWTzVWDQ42Mo7np3zXmGAo3DXc7h",
+ "cert_auth_type": "web",
+ "cert_sign": "HK4kwpYuYImr3mXNFQ7hzr+Ughx8c/oYg3SYq2emZYk7qVylK7MMXHRamk/AdN/Ex4fqO3ayrIqN2bGkwLTqN/8=",
+ "cert_user_id": "waleed122@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "48e3844fbbfc62abc8771ccd523f80f570de7353ac3ffb635147f8d02283c57c",
+   "size": 94
+  }
+ },
+ "inner_path": "data/users/1Hw2n6KUQ2ppnLbiwb6hqnUdRRcrKwHUy6/content.json",
+ "modified": 1477683427.592,
+ "signs": {
+  "1Hw2n6KUQ2ppnLbiwb6hqnUdRRcrKwHUy6": "G6lMZTE7uI7vNwGKLxB0SGU3KzSn8FlrL28hg3csUjv9Fwp6p+lN40THzL0N7z+KvEY8ZdkSWtEV8D5oDFLkUc4="
+ }
+}

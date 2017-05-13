@@ -1,0 +1,17 @@
+{
+ "address": "1Gif7PqWTzVWDQ42Mo7np3zXmGAo3DXc7h",
+ "cert_auth_type": "web",
+ "cert_sign": "HMLM3C7NxHz3d94CXUpDwbSfEcqHI+7PERDcXJsHHjgX8lgdKiUDRrVlB88/Axm/ihNfuhLW3/rPuqC9ej9KyLY=",
+ "cert_user_id": "inaltoasin1stra@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "b2fa3871abcf2ec9755fbb064e3b2bd2b22749c2952aa5d02e312194bf63a1fa",
+   "size": 80
+  }
+ },
+ "inner_path": "data/users/1GtX5tfyKvs5mqBeSNzkFF2XnAhnwANZmR/content.json",
+ "modified": 1480584400.024352,
+ "signs": {
+  "1GtX5tfyKvs5mqBeSNzkFF2XnAhnwANZmR": "G4OGp4LKVbxSMHv9eg5BNzFzO4f6ewBvTEdNlxTsW5yq2qtAVWOWaM3JoudRYHRXgwRaYq5vLlzcQXzHqK6CDs8="
+ }
+}

@@ -1,0 +1,17 @@
+{
+ "address": "1Gif7PqWTzVWDQ42Mo7np3zXmGAo3DXc7h",
+ "cert_auth_type": "web",
+ "cert_sign": "HF9ZR2x9LHoSr52iak1Xvc9rvDlEjjHfSBtqQ2/z6/Bvr75mNMEqIfs3r3scDSca+DoNx7rycCiWNHFbDeXiWVU=",
+ "cert_user_id": "weshalors@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "30cc6e15336ecc35070579539f7b1b43390f42b8e031b871f7c650405625d840",
+   "size": 237
+  }
+ },
+ "inner_path": "data/users/1LQQVfVNMQFBbPqGmTca8SVejp76Q7BgMa/content.json",
+ "modified": 1492067169,
+ "signs": {
+  "1LQQVfVNMQFBbPqGmTca8SVejp76Q7BgMa": "G6E0JIHkJfs8umxqYB7hknCKnyDgyUh8P6Uw2yMfltwVI9fTRRbaINi+WtA8vXGWw4K1GNdpRubp5IgCFFTZf6o="
+ }
+}

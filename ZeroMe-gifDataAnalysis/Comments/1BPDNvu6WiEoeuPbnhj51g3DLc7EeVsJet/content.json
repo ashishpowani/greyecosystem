@@ -1,0 +1,17 @@
+{
+ "address": "1Gif7PqWTzVWDQ42Mo7np3zXmGAo3DXc7h",
+ "cert_auth_type": "web",
+ "cert_sign": "GzqSgPayrU1Id9aM4UD/yFtnpG1pLuIhxJkQuZhoBSQEDAh2R8Lbnq9aDrv2AMNbcT26uLLx4UAU6eXwurK6l90=",
+ "cert_user_id": "camoes14@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "89dd3893ea08d1434f8bd5eebb65872f3056f8891570966880ed5416495fefa8",
+   "size": 141
+  }
+ },
+ "inner_path": "data/users/1BPDNvu6WiEoeuPbnhj51g3DLc7EeVsJet/content.json",
+ "modified": 1456980554.869,
+ "signs": {
+  "1BPDNvu6WiEoeuPbnhj51g3DLc7EeVsJet": "HKmmwNeL0jfF5YlhmMs52hD4Zhq/efjOujJ2eQ851ht2F0p2EBxRnoMVQE46tIIDM/ofmVBknHREOauaCDD1llw="
+ }
+}

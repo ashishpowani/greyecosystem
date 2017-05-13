@@ -1,0 +1,17 @@
+{
+ "address": "1Gif7PqWTzVWDQ42Mo7np3zXmGAo3DXc7h",
+ "cert_auth_type": "web",
+ "cert_sign": "HMr7uhuB/dIQuTlCgOkAaB7nEVEK249ybIh0kVExtqx6ikGTre+cR+DHLjfyp+to8MrD9pXaIBrI4fjnSXUdKOQ=",
+ "cert_user_id": "drcoltflakes@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "53da6dd4ac3fc54e5f93f60d27ccecfde997f3e74beab702d5b01f5692736f1d",
+   "size": 94
+  }
+ },
+ "inner_path": "data/users/16fE7aSxKvn3N94WdGVERh2Q1TRmy1k7dk/content.json",
+ "modified": 1469621693.081374,
+ "signs": {
+  "16fE7aSxKvn3N94WdGVERh2Q1TRmy1k7dk": "HHjrQi8nJKHQAT+IGvkHNbmAJYnVPoRPPfGbKfN+Z2aricrLwp2JUL5BY9uAwUZ4exWk1okF7iCRYNNt7vRTq6Q="
+ }
+}

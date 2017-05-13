@@ -1,0 +1,17 @@
+{
+	"next_comment_id": 2,
+	"comment": [
+		{
+			"comment_id": 1,
+			"body": "forte",
+			"post_id": 2246,
+			"date_added": 1464697970
+		}
+	],
+	"comment_vote": {},
+	"topic_vote": {},
+	"post_vote": {
+		"2489": 1,
+		"2605": 1
+	}
+}

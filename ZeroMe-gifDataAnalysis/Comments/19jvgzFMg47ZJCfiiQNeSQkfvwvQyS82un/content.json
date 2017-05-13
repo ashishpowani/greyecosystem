@@ -1,0 +1,17 @@
+{
+ "address": "1Gif7PqWTzVWDQ42Mo7np3zXmGAo3DXc7h",
+ "cert_auth_type": "web",
+ "cert_sign": "HNTJxqCf2aCCT/OZPZiEt2Pp8fmlCS1dlN8vaB7nkvIGaImShu3BxNBE3B2F0U8UFYrMfVkY3VW5PuH8H9cbzjM=",
+ "cert_user_id": "borland@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "73997c5f0ba1bb56f14445e3310ee2f0cb0fbb14a5d6f300a774aa6482eab6c4",
+   "size": 94
+  }
+ },
+ "inner_path": "data/users/19jvgzFMg47ZJCfiiQNeSQkfvwvQyS82un/content.json",
+ "modified": 1457027959.513,
+ "signs": {
+  "19jvgzFMg47ZJCfiiQNeSQkfvwvQyS82un": "HHAc67rTqnGzczHXINz4CIIZwhA0jU1Y40gipFSPi1qpVOSjQtckZ6hk6eP7JPmvXK6n8FzeJx6/pwt7cRH7TTc="
+ }
+}

@@ -1,0 +1,16 @@
+{
+	"next_comment_id": 2,
+	"comment": [
+		{
+			"comment_id": 1,
+			"body": "wot",
+			"post_id": 1096,
+			"date_added": 1456703700
+		}
+	],
+	"comment_vote": {},
+	"post_vote": {
+		"1096": 1,
+		"2960": 1
+	}
+}

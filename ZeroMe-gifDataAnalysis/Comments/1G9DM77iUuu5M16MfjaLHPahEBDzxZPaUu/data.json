@@ -1,0 +1,25 @@
+{
+	"next_comment_id": 3,
+	"comment": [
+		{
+			"comment_id": 1,
+			"body": "Fuck. That is hot",
+			"post_id": 2019,
+			"date_added": 1465459330
+		},
+		{
+			"comment_id": 2,
+			"body": "Good question",
+			"post_id": 1944,
+			"date_added": 1465459350
+		}
+	],
+	"comment_vote": {},
+	"post_vote": {
+		"1027": 1,
+		"1892": 1,
+		"2019": 1,
+		"2176": 1,
+		"2307": 1
+	}
+}

@@ -1,0 +1,21 @@
+{
+	"next_comment_id": 2,
+	"comment": [
+		{
+			"comment_id": 1,
+			"body": "> [Worf](https://www.youtube.com/watch?v=SDrABWb9VIQ): Good tea, nice house",
+			"post_id": 752,
+			"date_added": 1452556192
+		}
+	],
+	"comment_vote": {},
+	"post_vote": {
+		"633": 1,
+		"663": 1,
+		"664": 1,
+		"681": 1,
+		"752": 1,
+		"797": 1,
+		"804": 1
+	}
+}

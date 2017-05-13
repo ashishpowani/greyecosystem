@@ -1,0 +1,17 @@
+{
+ "address": "1Gif7PqWTzVWDQ42Mo7np3zXmGAo3DXc7h",
+ "cert_auth_type": "web",
+ "cert_sign": "HJfJgLH0qf18u/WpyQIxzhn3e5HFDn+ToH+eiosvbPO+LJuR2U5iitjhebBT53XoDkXfCiKUyKLUqAgTXGLBZ34=",
+ "cert_user_id": "kinopio@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "3c84e4b7c60baf509f24c2cfc5100a8393c2fd322fffb8e689271bb41c8d620d",
+   "size": 184
+  }
+ },
+ "inner_path": "data/users/1HjbrfeKtBqpfbGbxCLFbdnbSpnbeHpPD1/content.json",
+ "modified": 1473312909.823259,
+ "signs": {
+  "1HjbrfeKtBqpfbGbxCLFbdnbSpnbeHpPD1": "HPO2bou0wdh98QL5MWWtnJ7fAX2lqYqFdwIi2eulQLbxdbcaV9T5RGBJBwf/gn7gSYRPfxs1buHc6ck0Dg49OZU="
+ }
+}

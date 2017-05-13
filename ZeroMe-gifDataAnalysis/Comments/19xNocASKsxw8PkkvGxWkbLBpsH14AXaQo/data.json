@@ -1,0 +1,23 @@
+{
+	"next_comment_id": 3,
+	"comment": [
+		{
+			"comment_id": 1,
+			"body": "> [dowhilegeek](#comment_1_1FHHMQmWb6jH7qwHzURh31iSVGuqAqGwGN): What is this thing actually called?\n\nA footcycle.",
+			"post_id": 929,
+			"date_added": 1457724265
+		},
+		{
+			"comment_id": 2,
+			"body": "I want to say he's doing it wrong... but I can't.",
+			"post_id": 392,
+			"date_added": 1457724735
+		}
+	],
+	"comment_vote": {},
+	"topic_vote": {},
+	"post_vote": {
+		"394": 1,
+		"490": 1
+	}
+}

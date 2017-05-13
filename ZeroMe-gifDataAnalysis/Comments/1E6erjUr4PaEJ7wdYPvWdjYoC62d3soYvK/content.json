@@ -1,0 +1,12 @@
+{
+ "address": "1Gif7PqWTzVWDQ42Mo7np3zXmGAo3DXc7h",
+ "cert_auth_type": "web",
+ "cert_sign": "HH9H9CrejNJrZaCtX3dsdcdr7ltzwhyI8rIRvat+oD40mZIhtjp/GRXaGIPu+pblZP61fIU5VGl+ynWg8ASl9Y8=",
+ "cert_user_id": "hety@zeroid.bit",
+ "files": {},
+ "inner_path": "data/users/1E6erjUr4PaEJ7wdYPvWdjYoC62d3soYvK/content.json",
+ "modified": 1486263250,
+ "signs": {
+  "1E6erjUr4PaEJ7wdYPvWdjYoC62d3soYvK": "G8Q6ZE7TKx0DSzvXeSvPMGCnjuhQQS6xvxO2qWFke/rLS6tdsvcV0vSooubR6cIm5fXoh5Jd8GickbZahmnnVPs="
+ }
+}

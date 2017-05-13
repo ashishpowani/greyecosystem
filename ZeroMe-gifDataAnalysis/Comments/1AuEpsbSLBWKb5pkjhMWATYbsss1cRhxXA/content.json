@@ -1,0 +1,17 @@
+{
+ "address": "1Gif7PqWTzVWDQ42Mo7np3zXmGAo3DXc7h",
+ "cert_auth_type": "web",
+ "cert_sign": "G6fdyweq/+fBomWckdI9mSUXXuKtsJ94OTCkgMNo4eBd7YFErAFB0M3o2UuF7RYKbPZYHEbBisdOWhttGm14ly8=",
+ "cert_user_id": "berock212@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "8c0f98d43d0552237663864acdde2985096fd08fb4bd95083fa6cc0292a03fa5",
+   "size": 133
+  }
+ },
+ "inner_path": "data/users/1AuEpsbSLBWKb5pkjhMWATYbsss1cRhxXA/content.json",
+ "modified": 1485491911,
+ "signs": {
+  "1AuEpsbSLBWKb5pkjhMWATYbsss1cRhxXA": "HCswsTU9HxdnrioWDjdsvbDdyOylaELMbXnfhK5qX1yUwvM+WeAAUMNGz8LwV8gYdzZctWrzjq2R/QOAEqq4/i0="
+ }
+}

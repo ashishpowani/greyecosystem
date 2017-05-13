@@ -1,0 +1,17 @@
+{
+ "address": "1Gif7PqWTzVWDQ42Mo7np3zXmGAo3DXc7h",
+ "cert_auth_type": "web",
+ "cert_sign": "G7r9rKM5GatLLbNwzq3E5HhL5D0geVz8HDu8MCpQ6esgvY4QjrxrCbWaN4cCVcKDLhVuDtyJjUO0ISp83MFBM6g=",
+ "cert_user_id": "dankezik@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "d17ca704acdd65b85bb26c3286cf426265931385ab73a6dddcb0abe7c81534cb",
+   "size": 171
+  }
+ },
+ "inner_path": "data/users/1Kg78bpJSKJ5FRBUN8jqRE9Y9h2cPectH8/content.json",
+ "modified": 1474161251.603174,
+ "signs": {
+  "1Kg78bpJSKJ5FRBUN8jqRE9Y9h2cPectH8": "HCsW1zARwGmjieZYjO6WYWSOrCC0HZN9d3KJhNrWRLwq178AwCZv0QWqZIumW3EPCpQx0q74aVTuDQyAsCjEyio="
+ }
+}

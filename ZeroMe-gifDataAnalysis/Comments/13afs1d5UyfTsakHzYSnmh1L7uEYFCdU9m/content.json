@@ -1,0 +1,17 @@
+{
+ "address": "1Gif7PqWTzVWDQ42Mo7np3zXmGAo3DXc7h",
+ "cert_auth_type": "web",
+ "cert_sign": "G4hnyNE17SlcDK9pr5frLQ1Ll+Qbpp7MHQBbg3wckZ7i85tnRx7b5cmBhxwN5KMAyqzCkrIj+xVPm0Lf8Rf7w+Q=",
+ "cert_user_id": "winlolo@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "489708908815756ae462606ea354f2ccf526d6d2a1dd3866e207a9cf42009c5d",
+   "size": 94
+  }
+ },
+ "inner_path": "data/users/13afs1d5UyfTsakHzYSnmh1L7uEYFCdU9m/content.json",
+ "modified": 1457499122.547,
+ "signs": {
+  "13afs1d5UyfTsakHzYSnmh1L7uEYFCdU9m": "G4npUcRDjX6BNh+nxkyjPE7BR5GpcLPqUtsXb73OfMrqewYT/zCLVxs7ifc83fPJ37Ku4aQmBdljki7nLlHje1M="
+ }
+}

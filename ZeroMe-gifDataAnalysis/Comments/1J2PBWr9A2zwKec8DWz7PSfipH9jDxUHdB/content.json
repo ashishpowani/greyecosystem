@@ -1,0 +1,17 @@
+{
+ "address": "1Gif7PqWTzVWDQ42Mo7np3zXmGAo3DXc7h",
+ "cert_auth_type": "web",
+ "cert_sign": "G5DjD8dsKGaaZoEtCjBicuYgj3v6iVjDfth8mn4BWVHYrzN7NJmgeH8+7xYt9fOQPESjrO9/8waIohZk0VInlAo=",
+ "cert_user_id": "hairbollocks@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "8a049e681bb8e862e66e4008a39a999d8448df24934b74721c657bdf9676ca72",
+   "size": 146
+  }
+ },
+ "inner_path": "data/users/1J2PBWr9A2zwKec8DWz7PSfipH9jDxUHdB/content.json",
+ "modified": 1492601234,
+ "signs": {
+  "1J2PBWr9A2zwKec8DWz7PSfipH9jDxUHdB": "G8rcbsvFAptbVoxEVP4HCwR+ejZb0Ji7koFwu6GwCUy5ecModU+hjCjg7jrlppvFv/yEnrNsmipxJV2ah2W+5D0="
+ }
+}

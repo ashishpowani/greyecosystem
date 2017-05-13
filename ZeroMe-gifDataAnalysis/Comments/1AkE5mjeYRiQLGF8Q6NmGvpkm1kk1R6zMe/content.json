@@ -1,0 +1,17 @@
+{
+ "address": "1Gif7PqWTzVWDQ42Mo7np3zXmGAo3DXc7h",
+ "cert_auth_type": "web",
+ "cert_sign": "HNdDc3zlG8IWDC2eyneV+T35zbF5F627rWjvqiBeSalCmYFopktHI3Y9kONGvJDJNCtXKXN/BSWgDB+Y1RHfTbE=",
+ "cert_user_id": "neflyte49@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "e7fd580dfb720f4a99d2ca309178599fbc8d0efcac1f961b3242f701ce4352b8",
+   "size": 132
+  }
+ },
+ "inner_path": "data/users/1AkE5mjeYRiQLGF8Q6NmGvpkm1kk1R6zMe/content.json",
+ "modified": 1477341540.253,
+ "signs": {
+  "1AkE5mjeYRiQLGF8Q6NmGvpkm1kk1R6zMe": "HP9ayj89egurGhijfRSyQkKA+KhpfWN31p5J3d7EOXYoGV6H7VXrD6dF0RVfu6Z7vhgXn5W3V1AxXt1RXOgTmdc="
+ }
+}

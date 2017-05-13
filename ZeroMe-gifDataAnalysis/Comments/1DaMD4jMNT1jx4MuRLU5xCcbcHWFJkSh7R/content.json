@@ -1,0 +1,17 @@
+{
+ "address": "1Gif7PqWTzVWDQ42Mo7np3zXmGAo3DXc7h",
+ "cert_auth_type": "web",
+ "cert_sign": "HFkMCrmjsTltywdk7YrmIhtycJoATts2gRJy95pvTDOKPYE2oiU3ml8KZamH4XQcf8eWp88nKI225t0D8qilXqE=",
+ "cert_user_id": "lexusnova@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "21ff94677181527e16f98b7922fc54c21c2ce0208eee2e86f8841dd4d39984cc",
+   "size": 93
+  }
+ },
+ "inner_path": "data/users/1DaMD4jMNT1jx4MuRLU5xCcbcHWFJkSh7R/content.json",
+ "modified": 1464838444.672,
+ "signs": {
+  "1DaMD4jMNT1jx4MuRLU5xCcbcHWFJkSh7R": "HBdQTk86YqVvC8MMA6ZHc2TXiLFItYjS4va1qM0EELT9n2yYkhrI2Bawo+JZKbA5I7AbecTZqqSE9ea0AZeKWq8="
+ }
+}

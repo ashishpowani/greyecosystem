@@ -1,0 +1,17 @@
+{
+ "address": "1Gif7PqWTzVWDQ42Mo7np3zXmGAo3DXc7h",
+ "cert_auth_type": "web",
+ "cert_sign": "G3yh88EW0ziqf/YmuaYExw/GoSJKufVuw1iiXpu0Fg/jxt2rmOsGORsNXrBFQGSMZ43WklTBYy/BwX1tw6wS8Ag=",
+ "cert_user_id": "lalutte@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "6a2a6f55234608686a4ccf0abf5217ffd39c0d7bfb6b18a9ee1aba8e105f7dce",
+   "size": 94
+  }
+ },
+ "inner_path": "data/users/1DnVaf6eVvUPmY83TaSTeE41ozjhh48R5f/content.json",
+ "modified": 1460487224.716374,
+ "signs": {
+  "1DnVaf6eVvUPmY83TaSTeE41ozjhh48R5f": "HIGYV1hQSKraDT6Pm/y6PHNoO/1kMMd6ct1HxP5GlwsDc8oCLtB93qd1GvJ1oVzH8KAQy8cDS6LuSh+oisMNrtI="
+ }
+}

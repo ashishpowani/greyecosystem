@@ -1,0 +1,16 @@
+{
+	"next_comment_id": 2,
+	"comment": [
+		{
+			"comment_id": 1,
+			"body": "ROFL, THIS IS AWSOME",
+			"post_id": 1118,
+			"date_added": 1457901724
+		}
+	],
+	"comment_vote": {},
+	"post_vote": {
+		"1118": 1,
+		"1208": 1
+	}
+}

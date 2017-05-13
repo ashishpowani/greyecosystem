@@ -1,0 +1,17 @@
+{
+ "address": "1Gif7PqWTzVWDQ42Mo7np3zXmGAo3DXc7h",
+ "cert_auth_type": "web",
+ "cert_sign": "G4dB1hBIi5p+NoQCPxLglMsljXui5br8YGwwiblf+IPfc+nVOndrz44P8XahjiuDLm8+RCoSiQwFMGKqHu5i1qg=",
+ "cert_user_id": "paprikadou@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "efff7a90277b75f3517414356817445d1ae80b05d6a02ddd8ff0058da7732a34",
+   "size": 354
+  }
+ },
+ "inner_path": "data/users/1Lrp4L3KzHe1qibXKKnLyRQiYYAx4RSmfP/content.json",
+ "modified": 1472831165.991,
+ "signs": {
+  "1Lrp4L3KzHe1qibXKKnLyRQiYYAx4RSmfP": "G9AbVCN8KopR1QvR2d3zVhwWbiUix59SkmLWxNBjYCyK4OIuK+p5ZS4McrpUMZTDhYqM8yfZ0Y6GrHyDR7UZqJc="
+ }
+}

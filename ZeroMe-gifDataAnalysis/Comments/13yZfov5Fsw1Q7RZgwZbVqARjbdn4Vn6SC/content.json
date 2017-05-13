@@ -1,0 +1,17 @@
+{
+ "address": "1Gif7PqWTzVWDQ42Mo7np3zXmGAo3DXc7h",
+ "cert_auth_type": "web",
+ "cert_sign": "G7w6zdNbnl2sR5jQBl+HA52CvotnMrtJAy4/dKGgtxq9id/qeTCRbSCt2OIZ9sscAKgyw0BHw8H9Z3kYKhT+tPY=",
+ "cert_user_id": "sahlie1985@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "1a89dc3193baabfe1ae977559b78344db6eef1e0fd20a834d0bb07219a0f1fe8",
+   "size": 155
+  }
+ },
+ "inner_path": "data/users/13yZfov5Fsw1Q7RZgwZbVqARjbdn4Vn6SC/content.json",
+ "modified": 1456930138.049,
+ "signs": {
+  "13yZfov5Fsw1Q7RZgwZbVqARjbdn4Vn6SC": "HHaElUWjyYIxJCM5HSLzW5GiaJsmhV3uMYGWFsUplGK/hSFxprxLpYnrp9McBpwInAx+f31s918O/1+Y9PUoLvA="
+ }
+}

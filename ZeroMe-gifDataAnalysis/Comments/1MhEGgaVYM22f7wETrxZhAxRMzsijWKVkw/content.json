@@ -1,0 +1,17 @@
+{
+ "address": "1Gif7PqWTzVWDQ42Mo7np3zXmGAo3DXc7h",
+ "cert_auth_type": "web",
+ "cert_sign": "G8Fsk6U49h44VCmZYAjOOhOkPFrw+/CN6asnw3klm8NtoI3Tc+w9sJQJApt8LEqfVCrIQtCdMk20sKCJAwEl+K4=",
+ "cert_user_id": "blackiron@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "428a3d4fbf6268b66d23ef8cf94b5a36c1cad427b17dd78643aff29428d2b0fa",
+   "size": 796
+  }
+ },
+ "inner_path": "data/users/1MhEGgaVYM22f7wETrxZhAxRMzsijWKVkw/content.json",
+ "modified": 1488581589,
+ "signs": {
+  "1MhEGgaVYM22f7wETrxZhAxRMzsijWKVkw": "GwdbadXnETN96qKp461+VqMyA2Hgy1ZXfHFYsuL6uvjCF0FccBMIM6d5H3WjkX2kZx7Yx0qHpC+3d3aN9eDdMIY="
+ }
+}

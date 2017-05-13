@@ -1,0 +1,20 @@
+{
+	"next_comment_id": 2,
+	"comment": [
+		{
+			"comment_id": 1,
+			"body": "Let's obey physic's laws they said. It'll be okay they said. Nothing can go wrong they said",
+			"post_id": 1032,
+			"date_added": 1457202740
+		}
+	],
+	"comment_vote": {},
+	"post_vote": {
+		"402": 1,
+		"929": 1,
+		"988": 1,
+		"1032": 1,
+		"1076": 1,
+		"1116": 1
+	}
+}

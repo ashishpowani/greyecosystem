@@ -1,0 +1,17 @@
+{
+ "address": "1Gif7PqWTzVWDQ42Mo7np3zXmGAo3DXc7h",
+ "cert_auth_type": "web",
+ "cert_sign": "G5Xsdk0qKGX+76ANud7ofdkuClE5gUXF1V1zesdzlI5dN4sUfFgndTiZg00joDyXfKFEmvvQxQCB21mF6qI+EWk=",
+ "cert_user_id": "bluefalcon@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "846f2da8c16cb57cee6ee3bee62496746bee26534d386009255aee7743eec933",
+   "size": 367
+  }
+ },
+ "inner_path": "data/users/1B8FfxXELmL4ayyfqQcZr1Bdhw29DFzMmA/content.json",
+ "modified": 1471151811.414,
+ "signs": {
+  "1B8FfxXELmL4ayyfqQcZr1Bdhw29DFzMmA": "G46nNGzHCKGj+Wtuuy4lVG+Jb82o5lJ9LkPTDEYYJX3sE82tbguBY6yxenZ8Paj43sAlscry0ybvkSIj/mDN1tg="
+ }
+}

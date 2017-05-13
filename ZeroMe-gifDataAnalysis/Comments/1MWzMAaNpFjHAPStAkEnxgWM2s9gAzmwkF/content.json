@@ -1,0 +1,17 @@
+{
+ "address": "1Gif7PqWTzVWDQ42Mo7np3zXmGAo3DXc7h",
+ "cert_auth_type": "web",
+ "cert_sign": "HByYG7ng2CBEd9PIQGONhyazZiIyiDQeb9r/gUwTDbjGKAMnpgHlJ93YSYBoH5xDMnzeH628GS1YwAOvdjTx2yQ=",
+ "cert_user_id": "clebermatheus@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "8b0c34d7e2c9378f9cd6154d750f1f1d6a2dd4b78a87b09c4e2dddd525035cf4",
+   "size": 1836
+  }
+ },
+ "inner_path": "data/users/1MWzMAaNpFjHAPStAkEnxgWM2s9gAzmwkF/content.json",
+ "modified": 1481416326.598,
+ "signs": {
+  "1MWzMAaNpFjHAPStAkEnxgWM2s9gAzmwkF": "G84LhHmj6k4k3TMF7fU0rsFOZXskTRglt+mxjQXJybbdFtEM86ssE2xY8/dPye0V6qLmpUc2cKv8trIUk1RwBPY="
+ }
+}

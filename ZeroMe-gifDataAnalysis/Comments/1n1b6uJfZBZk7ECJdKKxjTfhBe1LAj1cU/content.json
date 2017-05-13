@@ -1,0 +1,17 @@
+{
+ "address": "1Gif7PqWTzVWDQ42Mo7np3zXmGAo3DXc7h",
+ "cert_auth_type": "web",
+ "cert_sign": "G9rPFYV1LFR7wGoF9R6zGYk/n1mMjVvC9h4RQwevWUuA88LVORv8OHDnUZhlptmGywcVUoPri1QiHiw1JNTJuUo=",
+ "cert_user_id": "masoncodes@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "b8d1d810d47fa836e48ee86e918a580f23608907706d305c794bf3d7ca2ee615",
+   "size": 94
+  }
+ },
+ "inner_path": "data/users/1n1b6uJfZBZk7ECJdKKxjTfhBe1LAj1cU/content.json",
+ "modified": 1457043707.89,
+ "signs": {
+  "1n1b6uJfZBZk7ECJdKKxjTfhBe1LAj1cU": "HAgN22vj16U54d/WAOJfv+BWUrca9mxbNho7Xguo1QGE17IIbFDEC3nX0l2rPxjVqsEwFKDbDRvBdqe3juszBxg="
+ }
+}

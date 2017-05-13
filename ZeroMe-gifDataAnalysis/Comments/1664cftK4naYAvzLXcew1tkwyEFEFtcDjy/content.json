@@ -1,0 +1,17 @@
+{
+ "address": "1Gif7PqWTzVWDQ42Mo7np3zXmGAo3DXc7h",
+ "cert_auth_type": "web",
+ "cert_sign": "G0Y0NxfQ2TpIT5ARvabgfLdNw3mKTM5YXYrIFTwvD7YkHpJnKLplV/FKBlnMjXzNAOJMYbl5V1FFEHMF57jn3a4=",
+ "cert_user_id": "tibocut@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "45bd2dea2d6b332fcb48a8a50efa5eb102c111e47b8622bf3f2c0476001853c4",
+   "size": 238
+  }
+ },
+ "inner_path": "data/users/1664cftK4naYAvzLXcew1tkwyEFEFtcDjy/content.json",
+ "modified": 1457303185.900948,
+ "signs": {
+  "1664cftK4naYAvzLXcew1tkwyEFEFtcDjy": "G4HNVUQHCHT/QEfcqPojPArP3murXfQcQ9EHACp+jPnpcT9562eJocH0PA99n1R2i4nRPFvD0mq0102YApNUqDc="
+ }
+}

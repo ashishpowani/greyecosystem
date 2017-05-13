@@ -1,0 +1,17 @@
+{
+	"next_comment_id": 2,
+	"comment": [
+		{
+			"comment_id": 1,
+			"body": "This is way too satisfying.",
+			"post_id": 3861,
+			"date_added": 1475850548
+		}
+	],
+	"comment_vote": {},
+	"post_vote": {
+		"402": 1,
+		"3828": 1,
+		"3861": 1
+	}
+}

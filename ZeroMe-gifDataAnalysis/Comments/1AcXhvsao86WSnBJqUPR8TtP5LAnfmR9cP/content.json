@@ -1,0 +1,17 @@
+{
+ "address": "1Gif7PqWTzVWDQ42Mo7np3zXmGAo3DXc7h",
+ "cert_auth_type": "web",
+ "cert_sign": "HFXg5SDhIKOH91CGDo68BQlcXDSKueKkBPdXcRc2RnkmJ1aDUvjSWtSpkJYnPdVZrdct2IEdVtAmACqPalDssYI=",
+ "cert_user_id": "arduino@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "17dc11f7a9bbc078a77cb1838f0486b8c2b8ad7708e2be9599986b07ebfd1756",
+   "size": 106
+  }
+ },
+ "inner_path": "data/users/1AcXhvsao86WSnBJqUPR8TtP5LAnfmR9cP/content.json",
+ "modified": 1457024916.389908,
+ "signs": {
+  "1AcXhvsao86WSnBJqUPR8TtP5LAnfmR9cP": "G7PRWYakWd/slp+05Snb6dL8b9e1mPUjd6s2736c8po6y2lkOJiPM++i2/DgU5pmgKnli6Mxsf/Ev0ff8QBNDAU="
+ }
+}

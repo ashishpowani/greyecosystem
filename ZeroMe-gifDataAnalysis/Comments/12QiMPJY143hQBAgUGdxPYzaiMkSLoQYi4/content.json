@@ -1,0 +1,17 @@
+{
+ "address": "1Gif7PqWTzVWDQ42Mo7np3zXmGAo3DXc7h",
+ "cert_auth_type": "web",
+ "cert_sign": "Gz+FM/jEvbVnGoSp7XjUrHGIXeN43I8wfwQfctctaQcIJQnLp8yKo6XAGymvMRecpC+GQ+wbY+U7GgH143d2nK0=",
+ "cert_user_id": "fabrock@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "be73f5d120b185f45583ffb2b7ef295c81671d7f7b031241ec4a19d4e782fd76",
+   "size": 254
+  }
+ },
+ "inner_path": "data/users/12QiMPJY143hQBAgUGdxPYzaiMkSLoQYi4/content.json",
+ "modified": 1478127422.153,
+ "signs": {
+  "12QiMPJY143hQBAgUGdxPYzaiMkSLoQYi4": "HMjywuqgc7N2zao2Opr2ZuVLQ/rrvWzW0KnQNfqF7lUPwC28MxQluGQ2szH+PGecEyx7qA3F/smnHn9m5W92SxI="
+ }
+}

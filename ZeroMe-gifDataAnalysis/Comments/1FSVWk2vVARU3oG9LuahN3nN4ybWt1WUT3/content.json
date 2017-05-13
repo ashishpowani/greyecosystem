@@ -1,0 +1,17 @@
+{
+ "address": "1Gif7PqWTzVWDQ42Mo7np3zXmGAo3DXc7h",
+ "cert_auth_type": "web",
+ "cert_sign": "G8EeTfITFuHEP38DPRDUz/aOPRgmaywKuQLS+be/TDXswZfmenngePdz9hfiGqTVvYrNbWqjdraLapGKqRxdMyk=",
+ "cert_user_id": "porksauce@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "dccc3d6a016df169232f98ce0331f180ec457f38d375d010e0d375d9b684b510",
+   "size": 159
+  }
+ },
+ "inner_path": "data/users/1FSVWk2vVARU3oG9LuahN3nN4ybWt1WUT3/content.json",
+ "modified": 1493360836.394,
+ "signs": {
+  "1FSVWk2vVARU3oG9LuahN3nN4ybWt1WUT3": "G+lGnHRpyMjucWXlLG0NVhXgBLvKjNGUPBmDrUwaHFraaj2d4pUc9A2OrTjmP/DD+aKLCZmBsxQnkHrmozCKhrA="
+ }
+}

@@ -1,0 +1,17 @@
+{
+ "address": "1Gif7PqWTzVWDQ42Mo7np3zXmGAo3DXc7h",
+ "cert_auth_type": "web",
+ "cert_sign": "G95qzs+WE6OoGiEmDSZCwUC4jAzG66dacUhUzkKZo0c1kFOVam8PfiVCsi7h6cY9QBKp70grECwHqV2LG0nan9Q=",
+ "cert_user_id": "niccomalenotti@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "3c2c61f9c576bccdc95c49d809aef2605bc51475074d4d4781a70bf995625473",
+   "size": 107
+  }
+ },
+ "inner_path": "data/users/124JucjiW4WwCWQ5GHfQ1aX6LJyPWMs32t/content.json",
+ "modified": 1458474119.13,
+ "signs": {
+  "124JucjiW4WwCWQ5GHfQ1aX6LJyPWMs32t": "GwWDZ8tp06tnY/by/klWrsqsd33lEjVSFUs0Z/2TpJJa87bgaDq7dTSeFr5k0eFu1Wt3HcfbuEUWukRIwyazEvQ="
+ }
+}

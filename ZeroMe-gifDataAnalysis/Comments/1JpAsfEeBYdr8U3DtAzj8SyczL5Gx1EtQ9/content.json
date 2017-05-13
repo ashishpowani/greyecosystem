@@ -1,0 +1,17 @@
+{
+ "address": "1Gif7PqWTzVWDQ42Mo7np3zXmGAo3DXc7h",
+ "cert_auth_type": "web",
+ "cert_sign": "HFVM47XvuYGrBHDgZDAARUmhBRxQvH05pYl6XnWmptkyMeaIAIGLvdBu9oYI8+dtQZ3qidi4s/UaX5unifIR84U=",
+ "cert_user_id": "trashish@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "aff2ef2ac3afad8d157686450a1d549e9a09d3c03864bd56ddfe1ac9d86b6ba5",
+   "size": 224
+  }
+ },
+ "inner_path": "data/users/1JpAsfEeBYdr8U3DtAzj8SyczL5Gx1EtQ9/content.json",
+ "modified": 1466698072.723,
+ "signs": {
+  "1JpAsfEeBYdr8U3DtAzj8SyczL5Gx1EtQ9": "G0+sr9EYOQdMwv6crdfOecZ5rEBJ3pCBKPGsS7FXts3ScUuJvGajzTa1j6ne5ZDlPqbUMMmZdbovEa8r/54+CB4="
+ }
+}

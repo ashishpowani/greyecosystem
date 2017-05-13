@@ -1,0 +1,17 @@
+{
+ "address": "1Gif7PqWTzVWDQ42Mo7np3zXmGAo3DXc7h",
+ "cert_auth_type": "web",
+ "cert_sign": "GzYUsTNwQCYvuyHqGySgpNxnj5eeQQ6ImX35iZN5giDIb7sJqM3lBSWh4lzy1z12eS2LHDdNmJkeTOckF6JWKFA=",
+ "cert_user_id": "skyfather@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "48e3844fbbfc62abc8771ccd523f80f570de7353ac3ffb635147f8d02283c57c",
+   "size": 94
+  }
+ },
+ "inner_path": "data/users/1C9qbnsPNL1abBSNe85xX24nNsMcNDGYZt/content.json",
+ "modified": 1479970625.909376,
+ "signs": {
+  "1C9qbnsPNL1abBSNe85xX24nNsMcNDGYZt": "HGxZUgU4Rvq5IPwJmL1+xMdJxwQ2PZ1eqjKFLNWd+A24IXQNW5jpJAp4vDyesyWrZphXvDwxQbSV6RqbuZ95NQE="
+ }
+}

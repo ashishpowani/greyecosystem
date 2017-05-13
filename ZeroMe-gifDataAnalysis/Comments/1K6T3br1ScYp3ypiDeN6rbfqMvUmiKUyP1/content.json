@@ -1,0 +1,17 @@
+{
+ "address": "1Gif7PqWTzVWDQ42Mo7np3zXmGAo3DXc7h",
+ "cert_auth_type": "web",
+ "cert_sign": "HHlu7P8q/5elzyWDeBmzwda9Qv9HMCK2vcnwYZE9UvyZPSWeKD0qC/79zyv7m3Mlea/v7XtgswfJybHB8UO4kSs=",
+ "cert_user_id": "metro1102@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "d75a6a4f03d46f64abec7ad57a443412c812ab2f39d9c46316eaf4b467b834df",
+   "size": 133
+  }
+ },
+ "inner_path": "data/users/1K6T3br1ScYp3ypiDeN6rbfqMvUmiKUyP1/content.json",
+ "modified": 1469125687.106,
+ "signs": {
+  "1K6T3br1ScYp3ypiDeN6rbfqMvUmiKUyP1": "HJCBgMJcN29GolSvzxwWCp/wn4w68TXxGq0XS752HLQtG/bRuN5pdFl52MswnUMTOpaWex5Z1hUNe93LBI3C6YM="
+ }
+}

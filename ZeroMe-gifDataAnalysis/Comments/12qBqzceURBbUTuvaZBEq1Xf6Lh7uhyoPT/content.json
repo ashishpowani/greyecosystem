@@ -1,0 +1,17 @@
+{
+ "address": "1Gif7PqWTzVWDQ42Mo7np3zXmGAo3DXc7h",
+ "cert_auth_type": "web",
+ "cert_sign": "HPBP4ELCYEh1grecH7EG8tWRH+wwf9hhaTNywwRRxGZqEZj6t7rjqI+tzPUXfbhdMXyzZVpQP7Djk64/HE3EPm8=",
+ "cert_user_id": "sunpark2@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "15dba4854f330d9eca57908e2a3f961ed82fac2ea18182590990f37fb70bd457",
+   "size": 367
+  }
+ },
+ "inner_path": "data/users/12qBqzceURBbUTuvaZBEq1Xf6Lh7uhyoPT/content.json",
+ "modified": 1461743261.987,
+ "signs": {
+  "12qBqzceURBbUTuvaZBEq1Xf6Lh7uhyoPT": "HNxIJrNVhITOhrOf54Im0+K5LtvkvaKpoPgM1Do9tRtVYFuTTBV4z6QuOrvA4r1XSPM8DuvH/q1PQy2/J9Ct5IA="
+ }
+}

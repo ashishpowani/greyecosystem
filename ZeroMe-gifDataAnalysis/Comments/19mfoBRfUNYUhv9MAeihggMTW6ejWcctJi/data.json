@@ -1,0 +1,27 @@
+{
+	"next_comment_id": 4,
+	"comment": [
+		{
+			"comment_id": 1,
+			"body": "Oh god, I can hear it.",
+			"post_id": 2142,
+			"date_added": 1465351198
+		},
+		{
+			"comment_id": 2,
+			"body": "Cue the angry phone support calls from people who broke their old tablets trying to replicate this.",
+			"post_id": 2489,
+			"date_added": 1465779693
+		},
+		{
+			"comment_id": 3,
+			"body": "What did they do, line the walls with papier mache?  It's like everything in or from China is effectively dollar-store quality.",
+			"post_id": 2480,
+			"date_added": 1465780016
+		}
+	],
+	"comment_vote": {},
+	"post_vote": {
+		"2142": 1
+	}
+}

@@ -1,0 +1,17 @@
+{
+ "address": "1Gif7PqWTzVWDQ42Mo7np3zXmGAo3DXc7h",
+ "cert_auth_type": "web",
+ "cert_sign": "Gzx1mLqqK+h2Y8K0biEnLkZ51qL09pqY1XSiv08Y09m+X5xCVTrxG+HnohI34hEowXS+RbwvxPXIzkAgsQ9ZubY=",
+ "cert_user_id": "doomhack@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "b6dd59955ba207624359bf6ce8b7a12f1bbf17a689fa8a00ee884a37a221ee8b",
+   "size": 94
+  }
+ },
+ "inner_path": "data/users/1KDLKNSHLdbYrFfyeBSvNDc4AcgGHaSvJR/content.json",
+ "modified": 1460970599.049,
+ "signs": {
+  "1KDLKNSHLdbYrFfyeBSvNDc4AcgGHaSvJR": "HIIp8xkL69aEq/C9EiVPI6hKUVNQehau2c+yiVmnXdXTjO/X/0semV3lx0HBgDScHHpjMiKiSuIwN3bxnsw4xaU="
+ }
+}

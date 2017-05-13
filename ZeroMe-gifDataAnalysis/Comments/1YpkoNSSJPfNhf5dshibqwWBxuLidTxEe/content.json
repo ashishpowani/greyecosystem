@@ -1,0 +1,17 @@
+{
+ "address": "1Gif7PqWTzVWDQ42Mo7np3zXmGAo3DXc7h",
+ "cert_auth_type": "web",
+ "cert_sign": "G3r+T/oK/TNng1ZV3EF734ur2hbML9g3Lt9MpeofWUnTjJUhhKgKDzyznb5Ur1cjRXAAUE/wgQepGV/9UQ+0gbY=",
+ "cert_user_id": "physx@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "afad309ecdd98cd0fd656d048b4f45e672228e1e3b7bc318818e58758fd9ce75",
+   "size": 146
+  }
+ },
+ "inner_path": "data/users/1YpkoNSSJPfNhf5dshibqwWBxuLidTxEe/content.json",
+ "modified": 1485602922,
+ "signs": {
+  "1YpkoNSSJPfNhf5dshibqwWBxuLidTxEe": "G3GOKLHV0FghY8j4jwgPKnMH7Yqcov2rUIrMI+UavBZxByG3bEPDZ43g4bmZxb1rOiLjXEEqfNjB67k8O0KhouU="
+ }
+}

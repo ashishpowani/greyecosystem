@@ -1,0 +1,17 @@
+{
+ "address": "1Gif7PqWTzVWDQ42Mo7np3zXmGAo3DXc7h",
+ "cert_auth_type": "web",
+ "cert_sign": "G0+PBaJxQ1qu3wi6PYy4Dw1G8sOJtMUAB1D8Ty0q7f54shYvmv6wMZ9lzlhkBbcOoSXAsy71m6TzCvmLb12DJOY=",
+ "cert_user_id": "xinsiliuli@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "fb063a187c3d3add569cabdd71fd74953c6424fe0701db014e06586e167d698b",
+   "size": 94
+  }
+ },
+ "inner_path": "data/users/1Mgoq6kevKX1tUbDw5M775Sp5enkQNxqPi/content.json",
+ "modified": 1462786806.266,
+ "signs": {
+  "1Mgoq6kevKX1tUbDw5M775Sp5enkQNxqPi": "G6lkXSWsJAAG/Gb9ji3le2Q8Rpw12hf4KH3lXuUKMQQTNmYsaiCaUyaUgpqv2vperroE1MybJorJu90JDu/02Qw="
+ }
+}

@@ -1,0 +1,17 @@
+{
+ "address": "1Gif7PqWTzVWDQ42Mo7np3zXmGAo3DXc7h",
+ "cert_auth_type": "web",
+ "cert_sign": "HHRiykso5H8KT1LB8qNj/3NKWBaEa2UzyR2uyf13E+veOkJlDmKPTPeTAg1UzfCUojRZRtZ8AgoxhDAKQmBpuPQ=",
+ "cert_user_id": "dasmith91@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "489708908815756ae462606ea354f2ccf526d6d2a1dd3866e207a9cf42009c5d",
+   "size": 94
+  }
+ },
+ "inner_path": "data/users/13FYxiYe2bb9uAuJgT7Mk3zJTFQvbVCks9/content.json",
+ "modified": 1457520680.128083,
+ "signs": {
+  "13FYxiYe2bb9uAuJgT7Mk3zJTFQvbVCks9": "G2kibvGrFliQmyLfw16qT5A+33tRJQOpmX5hl+1yNIqlxhA+IjPwtKTsU/LOFAFLyWRaoAc1vipXvfGHkuWsG6A="
+ }
+}

@@ -1,0 +1,17 @@
+{
+ "address": "1Gif7PqWTzVWDQ42Mo7np3zXmGAo3DXc7h",
+ "cert_auth_type": "web",
+ "cert_sign": "G848B1ctFFiJZ202Grpwu52+jcsTy184Tk9S14aC9fue4wK+we6ZRgXCDywp6CpTktpUgD+e+J8UPUbQqwr1g74=",
+ "cert_user_id": "keksneg1322@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "61cb4e5b65cc9e74762ddc820db161cd6a5927550d1b93994d539d9a2c946892",
+   "size": 94
+  }
+ },
+ "inner_path": "data/users/14S4nXRnTSCehkK5erPRaS7oBT18ehMkPk/content.json",
+ "modified": 1494099057,
+ "signs": {
+  "14S4nXRnTSCehkK5erPRaS7oBT18ehMkPk": "HI1b1j2nhISj1RUf4TMs+wEV+AuR+M4YDSCpfY6OIOEIYaIGY7Ah9pLzmqjHNKvo5dHpkwc6FnkKYcOLT18IyJ4="
+ }
+}

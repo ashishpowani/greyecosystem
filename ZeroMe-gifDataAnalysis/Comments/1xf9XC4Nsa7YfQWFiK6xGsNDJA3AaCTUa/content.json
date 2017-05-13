@@ -1,0 +1,17 @@
+{
+ "address": "1Gif7PqWTzVWDQ42Mo7np3zXmGAo3DXc7h",
+ "cert_auth_type": "web",
+ "cert_sign": "Gwfm4S43wHHgHY5kZb14D4a4h01DzelE2lAQY4Ie6ufMR671jOmzmT2Aw1Ve2JTy2zeT0/ivcpBKYNpeYcQGxpc=",
+ "cert_user_id": "deafboy@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "bdf9ccd8707728bac01f02eaa879211521d739c6693c392e250202412650df10",
+   "size": 1195
+  }
+ },
+ "inner_path": "data/users/1xf9XC4Nsa7YfQWFiK6xGsNDJA3AaCTUa/content.json",
+ "modified": 1487449894,
+ "signs": {
+  "1xf9XC4Nsa7YfQWFiK6xGsNDJA3AaCTUa": "G7W4KcYj4Rom2HP1lCIldB6hiuyzrkM5gfOsoNtJ9w0ybPai4sIerncUOgsa2J3KW7fAcqRS0zdmkbTMlXXr/To="
+ }
+}

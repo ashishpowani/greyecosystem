@@ -1,0 +1,17 @@
+{
+ "address": "1Gif7PqWTzVWDQ42Mo7np3zXmGAo3DXc7h",
+ "cert_auth_type": "web",
+ "cert_sign": "G52EKWpEVRobYaFsCE1bKFCAxJKxesXMuzgFhPvEVR4R9AyEYck4ru2nR3qGQkpFica62jIHMLurCi1eULZtBO0=",
+ "cert_user_id": "peregrintux@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "25e61ac1389065c251cefc2c9ccb9812554bbcd85af2d8a613af13cc4ca1c5b9",
+   "size": 231
+  }
+ },
+ "inner_path": "data/users/16kXvxiDrU1nis1WxXkaWQT2qwuuPg94kf/content.json",
+ "modified": 1457548813.838557,
+ "signs": {
+  "16kXvxiDrU1nis1WxXkaWQT2qwuuPg94kf": "HBi+lD9v3jhAe1R9C9G4/oE0TpliyYiMC9izQpMd5jE3MoN8QX/p3XCd/Z4yT77uNFRfnGf7B/6Kg4mhWF01Wkw="
+ }
+}

@@ -1,0 +1,17 @@
+{
+ "address": "1Gif7PqWTzVWDQ42Mo7np3zXmGAo3DXc7h",
+ "cert_auth_type": "web",
+ "cert_sign": "G02bBu0pjH/HPRqu65Z9cMnUqDRoXgwf/qmuL5S3tzRgozAtDShq+CvwZL+guKhyrz6UO9TCVw31WkRsTjL/cNM=",
+ "cert_user_id": "mytacos@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "407d3ba0de1e1bb17656a067d20822e277610399d61aaa66d876b847f7460593",
+   "size": 5217
+  }
+ },
+ "inner_path": "data/users/1D3BMNc8Pamu5Ndy6HfD7gJ62XBeExeQSh/content.json",
+ "modified": 1485823651,
+ "signs": {
+  "1D3BMNc8Pamu5Ndy6HfD7gJ62XBeExeQSh": "GwuV2UfC+4N/kgsrTPNGrSbP0ozgqzbDTjSExqIaHD/E/SKy0uAtQ7zKPH1A52QFmAe8hJQhtVAMjUlG5eMVGXs="
+ }
+}

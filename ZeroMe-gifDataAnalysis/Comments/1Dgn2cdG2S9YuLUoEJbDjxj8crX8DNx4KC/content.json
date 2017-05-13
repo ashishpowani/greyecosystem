@@ -1,0 +1,17 @@
+{
+ "address": "1Gif7PqWTzVWDQ42Mo7np3zXmGAo3DXc7h",
+ "cert_auth_type": "web",
+ "cert_sign": "G7J+gi9up8YA0wohGToFSzPe1693QdhCwa9SmkYnk8KiTpRkoXmLe9aK8ZVT/E6KA503vEo68Oz+Vh9hXC9+oWA=",
+ "cert_user_id": "gentam@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "c9a2c54973bb5da46fdd40a5e759e98b24f7f947486ab0357b0725acd2c7f490",
+   "size": 119
+  }
+ },
+ "inner_path": "data/users/1Dgn2cdG2S9YuLUoEJbDjxj8crX8DNx4KC/content.json",
+ "modified": 1457164297.715884,
+ "signs": {
+  "1Dgn2cdG2S9YuLUoEJbDjxj8crX8DNx4KC": "HM17IaU/QVqrNcyJZADyIjLMTiufiTqb1vRWIZX/wbJdhz46tqxTlQOwSmSI3YMOvChwqvCb6CciX6ycdQAUyrM="
+ }
+}

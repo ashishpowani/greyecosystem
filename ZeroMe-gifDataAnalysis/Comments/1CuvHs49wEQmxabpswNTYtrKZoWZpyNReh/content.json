@@ -1,0 +1,17 @@
+{
+ "address": "1Gif7PqWTzVWDQ42Mo7np3zXmGAo3DXc7h",
+ "cert_auth_type": "web",
+ "cert_sign": "GwpEQ7cQpRI7/7jlejWumIcvlGmNTHLyP6zlTpSfUnO7B3zicTKrJ6y+E5ym0HPCLrf9J3schuONCUuXLoKJJXs=",
+ "cert_user_id": "blackpawn@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "5af8491415dde71e3aeb5e1a7b652e12e7eebc412c427e02e6be62145843fec4",
+   "size": 133
+  }
+ },
+ "inner_path": "data/users/1CuvHs49wEQmxabpswNTYtrKZoWZpyNReh/content.json",
+ "modified": 1486805338,
+ "signs": {
+  "1CuvHs49wEQmxabpswNTYtrKZoWZpyNReh": "G8G26NmAhE16pktHYXwu4HHuDFdcQ/+grApwhPdk0fKYVAkHYm20h/xEgS79X2jpiTcYoUu6IkuqKyvUeDYm8Dg="
+ }
+}

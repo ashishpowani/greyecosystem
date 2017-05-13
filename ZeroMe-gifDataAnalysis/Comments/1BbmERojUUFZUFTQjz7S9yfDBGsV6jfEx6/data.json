@@ -1,0 +1,17 @@
+{
+	"next_comment_id": 2,
+	"comment": [
+		{
+			"comment_id": 1,
+			"body": "Yes. Tommen!",
+			"post_id": 1018,
+			"date_added": 1473972566
+		}
+	],
+	"comment_vote": {},
+	"post_vote": {
+		"405": 1,
+		"2506": 1,
+		"3520": 1
+	}
+}

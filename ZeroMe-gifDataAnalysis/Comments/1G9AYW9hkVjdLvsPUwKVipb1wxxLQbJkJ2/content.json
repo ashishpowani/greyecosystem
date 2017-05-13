@@ -1,0 +1,17 @@
+{
+ "address": "1Gif7PqWTzVWDQ42Mo7np3zXmGAo3DXc7h",
+ "cert_auth_type": "web",
+ "cert_sign": "HGHD7Wu3k7fBybNqzduQMAOFC0FZyqWv5XlWWhIjhPoCXjf5r1YNNPHl3CIERB3k2nMVJ0BrixP2RpGaT97HkUg=",
+ "cert_user_id": "trinity@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "48e3844fbbfc62abc8771ccd523f80f570de7353ac3ffb635147f8d02283c57c",
+   "size": 94
+  }
+ },
+ "inner_path": "data/users/1G9AYW9hkVjdLvsPUwKVipb1wxxLQbJkJ2/content.json",
+ "modified": 1477354234.562719,
+ "signs": {
+  "1G9AYW9hkVjdLvsPUwKVipb1wxxLQbJkJ2": "HP9Lcq2Wk6xfaqEILombqo3q36ylj3g3FPBCmaA9S7B67ArDkqHpksu4aYS38uktJIXajZ4s1dhqRJBGDnaenUs="
+ }
+}

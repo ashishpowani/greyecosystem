@@ -1,0 +1,22 @@
+{
+	"next_comment_id": 2,
+	"comment": [
+		{
+			"comment_id": 1,
+			"body": "Is it a 12 hours day cycle?",
+			"post_id": 1135,
+			"date_added": 1457285932
+		}
+	],
+	"comment_vote": {},
+	"post_vote": {
+		"873": 1,
+		"929": 1,
+		"975": 1,
+		"995": 1,
+		"1046": 1,
+		"1179": 1,
+		"1188": 1,
+		"1189": 1
+	}
+}

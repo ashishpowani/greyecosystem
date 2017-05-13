@@ -1,0 +1,15 @@
+{
+ "cert_auth_type": "web", 
+ "cert_sign": "HNLUhOB7NIb69xfvihcMgW4UtD8aiD5PPnIwK6BwLYv93b+8ypD81Do3eOYEaphmHUXxFWrFre4+rGHGpVJtKrk=", 
+ "cert_user_id": "gemwork@zeroid.bit", 
+ "files": {
+  "data.json": {
+   "sha512": "07a945a7768b5d4423693568c72fe7b9895da2cb4a4b9c4af357ab6ec33fe375", 
+   "size": 189
+  }
+ }, 
+ "modified": 1451481528.220451, 
+ "signs": {
+  "1EbDPiWAZ5k1Lo5Q4NyKT6Us2kGTN7HBj2": "G0p/8Y0QYgeXpqV50QzePlH2okvmRLqSxh3vFUaSWjzzF7192Y4upgx0tPWQLaRqDfWEk4WMnimIzhzjKyGgcGk="
+ }
+}

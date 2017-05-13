@@ -1,0 +1,17 @@
+{
+ "address": "1Gif7PqWTzVWDQ42Mo7np3zXmGAo3DXc7h",
+ "cert_auth_type": "web",
+ "cert_sign": "G4kJqesKfxyjIVzu+YMuu0BfuqGeuMQ20BthxsJV3Fw1V0HDcfEtf70XxAcKHMdxc0U7SMs3zkJrXRjavc7dxE4=",
+ "cert_user_id": "karytabilu@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "c71e66c145779d4c7db28e99beb141be70bd0e4d7a99103557020d9fc4267491",
+   "size": 107
+  }
+ },
+ "inner_path": "data/users/16VSq3swoGxy6SYN3GuGYxYmugE7KwUmwX/content.json",
+ "modified": 1484853102,
+ "signs": {
+  "16VSq3swoGxy6SYN3GuGYxYmugE7KwUmwX": "HBJ0EatvLF4gFMfMtAk3cbHsRNKRaYg8BOcisOwhHJVjyqi/bsBLZD9q3pnsKFRyf2fILJi2c6HkO+T6HDAqRTo="
+ }
+}

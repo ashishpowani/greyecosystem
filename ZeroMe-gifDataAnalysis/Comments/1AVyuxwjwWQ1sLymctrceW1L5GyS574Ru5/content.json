@@ -1,0 +1,17 @@
+{
+ "address": "1Gif7PqWTzVWDQ42Mo7np3zXmGAo3DXc7h",
+ "cert_auth_type": "web",
+ "cert_sign": "G0nR3Ck29/HDVEdd9P6sy6Ob2cmHLFMqJwrCjeJ2deF00k5SjFJHKY1bMZ7r//1EEe/vLjYAp1+lJSawS6sxcAU=",
+ "cert_user_id": "manoblanca@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "583116e1522cb60fa2b7d715b8c2e55cbb9eb15750ad7226acf48c6fe0777226",
+   "size": 146
+  }
+ },
+ "inner_path": "data/users/1AVyuxwjwWQ1sLymctrceW1L5GyS574Ru5/content.json",
+ "modified": 1463334013.617,
+ "signs": {
+  "1AVyuxwjwWQ1sLymctrceW1L5GyS574Ru5": "GzeXnwAj62LS+uMvmsi0nXWWA6XbrWy6mA0GXAvKA42vLkJy1/W7Eip9ASEv5KnV8FlOhvurZ+GjIe3jxTHbZ0s="
+ }
+}

@@ -1,0 +1,17 @@
+{
+ "address": "1Gif7PqWTzVWDQ42Mo7np3zXmGAo3DXc7h",
+ "cert_auth_type": "web",
+ "cert_sign": "G3VkqNAeLfczvE69ctL5Re44LQgcz8CVa0JTlY7MOSL3AsWNedKZh5IDhQlu5NnUar0nYBQryqXxNFxWN5mWfFo=",
+ "cert_user_id": "jachikore@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "b0850f1a64c88728465ad416e437d8b16a348313c27e0e3c337ec918d9f347d9",
+   "size": 120
+  }
+ },
+ "inner_path": "data/users/1ATGkNqX4ge6i59fVSoTHvCRqRqAd7iP36/content.json",
+ "modified": 1486920030,
+ "signs": {
+  "1ATGkNqX4ge6i59fVSoTHvCRqRqAd7iP36": "GyHc40snL1F3WTQdERU1zDgUjuHsvJ62NPQl/Dye5hfmq497S2uo+I832urjaQ5GcIjx4ZvfsRqjVXQNDZ0GaHQ="
+ }
+}

@@ -1,0 +1,17 @@
+{
+ "address": "1Gif7PqWTzVWDQ42Mo7np3zXmGAo3DXc7h",
+ "cert_auth_type": "web",
+ "cert_sign": "G8tEhPtOMNkxXnVtFsu9bBjd8/PKxR49Kq4qS+WCgQmsJEififnoaindCGw7XVB7g53Tm3b1CK/ycttgQ/Yvdl4=",
+ "cert_user_id": "killbotvii@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "dc05696ede12b81f337c0fcdb2d124bf72816c2b548a445bda7a44e339c460da",
+   "size": 120
+  }
+ },
+ "inner_path": "data/users/18SnQz5JhcaeKfh5XL2vUqM44F5ffueVYq/content.json",
+ "modified": 1457052323.141,
+ "signs": {
+  "18SnQz5JhcaeKfh5XL2vUqM44F5ffueVYq": "G+I0wAZ45H1hKeHm+ahsj3x/C5qQi3yaAtG2vSdGBfXWO4KDz6U0jh9AE3bISeUwh3ALDEyBXU2fnqUFbm9kzZo="
+ }
+}

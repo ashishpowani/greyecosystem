@@ -1,0 +1,17 @@
+{
+ "address": "1Gif7PqWTzVWDQ42Mo7np3zXmGAo3DXc7h",
+ "cert_auth_type": "web",
+ "cert_sign": "G1E/OM6oNJjOxvAqKP2BWHUsluGMasvLgZ+bp/TANPXTGgce8V48cFcPfxcvi0DyDmbGN5FDOJ4gSMbXzZ3YKTY=",
+ "cert_user_id": "zionspartan@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "a50f34775d025b13e829cf4203b7a6a4600e8a5d4bdcac42e3d7e6eaf38f4c0d",
+   "size": 250
+  }
+ },
+ "inner_path": "data/users/1NAf76c5BMSQH7xc7DDNTsaD6z3T7FGoZa/content.json",
+ "modified": 1463076688.228,
+ "signs": {
+  "1NAf76c5BMSQH7xc7DDNTsaD6z3T7FGoZa": "G+Rdzn3VdnraS9B39ACjU+3H/g9zIQRvjjCYXXlBcggC8Q+wIRlIFwQNqsIZFBAqpQILw4LX7Dytz5RF+BPtSKs="
+ }
+}

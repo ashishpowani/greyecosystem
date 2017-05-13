@@ -1,0 +1,15 @@
+{
+ "cert_auth_type": "web", 
+ "cert_sign": "G/1mbk1YjbwZoajFmJiqqMvxt/t/KrTT738EFsXkV2HftvUuz82bA4NzH2jkSG8XBx4BAws2aFo6oZnommllM1Q=", 
+ "cert_user_id": "cipherscruples@zeroid.bit", 
+ "files": {
+  "data.json": {
+   "sha512": "aa1d9aabdf21e7fae1c5c4dd299b7d2ba6daf35776f5c54e0fa495ddfb45c525", 
+   "size": 129
+  }
+ }, 
+ "modified": 1450235822.926706, 
+ "signs": {
+  "1FXpnA98r8AUne2Na3kr9q2P5Ly5Y4ycJr": "HL37qHw9x0tb7emHMsIQmfWCNHR6jiZFWiZwEt5JW5wtKEYu1v/DmYpK7HwLmQVGH1rVJg5WmSLEoIaAmfNVkpI="
+ }
+}

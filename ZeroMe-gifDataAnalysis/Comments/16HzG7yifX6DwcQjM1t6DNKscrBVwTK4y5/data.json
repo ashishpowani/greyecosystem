@@ -1,0 +1,17 @@
+{
+	"next_comment_id": 2,
+	"comment": [
+		{
+			"comment_id": 1,
+			"body": "ok",
+			"post_id": 6807,
+			"date_added": 1494577230
+		}
+	],
+	"comment_vote": {},
+	"post_vote": {
+		"6814": 1,
+		"6816": 1,
+		"6826": 1
+	}
+}

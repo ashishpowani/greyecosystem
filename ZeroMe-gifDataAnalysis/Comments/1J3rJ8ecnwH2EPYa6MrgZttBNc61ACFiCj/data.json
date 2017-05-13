@@ -1,0 +1,76 @@
+{
+	"next_comment_id": 6,
+	"comment": [
+		{
+			"comment_id": 1,
+			"body": "yeah\n\nhello\n\nbello",
+			"post_id": 6,
+			"date_added": 1446853475
+		},
+		{
+			"comment_id": 2,
+			"body": "> [nofish](#comment_1_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj): yeah\nahha",
+			"post_id": 6,
+			"date_added": 1446860938
+		},
+		{
+			"comment_id": 3,
+			"body": "> [nofish](#comment_1_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj): yeah\n> hello\n> bello\n\nvalami",
+			"post_id": 6,
+			"date_added": 1446902922
+		},
+		{
+			"comment_id": 4,
+			"body": "Wohoo :)",
+			"post_id": 386,
+			"date_added": 1447023796
+		},
+		{
+			"comment_id": 5,
+			"body": "The last \"Everything is dead\" frame is lost on gif -> mp4 conversion. Please let me know if anyone know a fix for this. Thanks! :)\n\nCurrent parameters: https://github.com/HelloZeroNet/ReactionGIFs/blob/master/updater/updater.py#L44",
+			"post_id": 373,
+			"date_added": 1447188433
+		}
+	],
+	"comment_vote": {},
+	"post_vote": {
+		"1": 1,
+		"8": 1,
+		"85": 1,
+		"251": 1,
+		"312": 1,
+		"320": 1,
+		"329": 1,
+		"357": 1,
+		"384": 1,
+		"394": 1,
+		"395": 1,
+		"398": 1,
+		"402": 1,
+		"405": 1,
+		"445": 1,
+		"460": 1,
+		"481": 1,
+		"615": 1,
+		"649": 1,
+		"711": 1,
+		"943": 1,
+		"1027": 1,
+		"1030": 1,
+		"1033": 1,
+		"1044": 1,
+		"1219": 1,
+		"1240": 1,
+		"1327": 1,
+		"1373": 1,
+		"1418": 1,
+		"1477": 1,
+		"1504": 1,
+		"1513": 1,
+		"1524": 1,
+		"1533": 1,
+		"1535": 1,
+		"1683": 1,
+		"2506": 1
+	}
+}

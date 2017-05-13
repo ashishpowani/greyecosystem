@@ -1,0 +1,17 @@
+{
+ "address": "1Gif7PqWTzVWDQ42Mo7np3zXmGAo3DXc7h",
+ "cert_auth_type": "web",
+ "cert_sign": "G0MnbEWQL2aKChmHyZeHbTPZ/IqLhEwbPrfYr6CNKvyil69UOhH62zepVaQH9OeQVXs6JARf9JSsVyKhQVvWmU8=",
+ "cert_user_id": "vixa@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "5a094b91943aacfc60ce7b1579b50f93853542977951e57c45d68911ff5205f6",
+   "size": 536
+  }
+ },
+ "inner_path": "data/users/1QESmp3qVTC4wekwXp8yzeScpLGsLhMgHM/content.json",
+ "modified": 1493281158,
+ "signs": {
+  "1QESmp3qVTC4wekwXp8yzeScpLGsLhMgHM": "G7lKIKD3hIt1wj/2ysZs3yDs5FKk4MH26mn12VgoHS4WZZhWlNJEz1DcFq5E2ZnKR4E6Fh7YVNR9hqGpFh+4N+M="
+ }
+}

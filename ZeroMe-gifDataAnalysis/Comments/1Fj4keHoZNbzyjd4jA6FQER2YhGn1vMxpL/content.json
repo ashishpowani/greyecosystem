@@ -1,0 +1,17 @@
+{
+ "address": "1Gif7PqWTzVWDQ42Mo7np3zXmGAo3DXc7h",
+ "cert_auth_type": "web",
+ "cert_sign": "G4rm/AqHertWvxRb5nK7lqGbQ68r6dbLdHr4cVV6rxncHM72Cq9Y+3gMLQch9gEMyz87mvza3yxENuicRZRi6zU=",
+ "cert_user_id": "hamzamix@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "dbd25105761986fa6c0d3d6a5bdd9af504a0a55c636d45f3ff5e02adc8b8c4af",
+   "size": 107
+  }
+ },
+ "inner_path": "data/users/1Fj4keHoZNbzyjd4jA6FQER2YhGn1vMxpL/content.json",
+ "modified": 1459370220.329,
+ "signs": {
+  "1Fj4keHoZNbzyjd4jA6FQER2YhGn1vMxpL": "G8T2YG7ZATiVuQJdtp+fW8jq3jf4aTVA24FQawM4UIKkS2EiVJGlCUbb6i2fKEyHHef24tavDPjlVwrJ9XriAn4="
+ }
+}

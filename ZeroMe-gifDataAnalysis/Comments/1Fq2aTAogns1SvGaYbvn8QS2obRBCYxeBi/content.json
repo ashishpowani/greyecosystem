@@ -1,0 +1,15 @@
+{
+ "cert_auth_type": "web", 
+ "cert_sign": "GzB0lr0Xot1vqIvgd6xPluoN0SYNX8VFtbMBaRBlQBjrH19lVqhomCjBz/3mJFnWa+aY9G2d8RC9dVtLJHcHvoI=", 
+ "cert_user_id": "sugarpussy@zeroid.bit", 
+ "files": {
+  "data.json": {
+   "sha512": "51fdf863ff27d9b793780d4101c003d720fb46e16e3c3996a942b145acceaac6", 
+   "size": 93
+  }
+ }, 
+ "modified": 1451156740.004504, 
+ "signs": {
+  "1Fq2aTAogns1SvGaYbvn8QS2obRBCYxeBi": "G6D4oW+2acUn0wCCfEr5qCWa2BcZypIE5PSbpWSOpjEqsMI1Ihwqa2+twfYfjRjEbqQHkxhSABRa0CUNGPN4lJQ="
+ }
+}

@@ -1,0 +1,17 @@
+{
+ "address": "1Gif7PqWTzVWDQ42Mo7np3zXmGAo3DXc7h",
+ "cert_auth_type": "web",
+ "cert_sign": "HNPBq+PSBRSZkmVY7qgjVRbMzPa5nKW+pCdkB8jnZMQcZK32q5OusVCd+3qUOep86y8SqwTYG/55RZeJ4+gzFhc=",
+ "cert_user_id": "mobius@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "48d709459cef1578a50b000c7cdd8cedf5e43b56ddfef3443efd26970e83e15d",
+   "size": 94
+  }
+ },
+ "inner_path": "data/users/1DRc3xcNisRhZVribGr38aYYN1Bbb13EJc/content.json",
+ "modified": 1470706947.95,
+ "signs": {
+  "1DRc3xcNisRhZVribGr38aYYN1Bbb13EJc": "HMl9WfK0kRf9wObYkuas9vD0crWX1+K4/t2kGC0qY8gT/UowBgZ59CAexbwkZtxYlP9noVaHCak83Dy/siPje5o="
+ }
+}

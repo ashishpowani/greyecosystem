@@ -1,0 +1,17 @@
+{
+ "address": "1Gif7PqWTzVWDQ42Mo7np3zXmGAo3DXc7h",
+ "cert_auth_type": "web",
+ "cert_sign": "HFuMJqMKrKDlYPMBj0xXAd+eVckL3GofLFM+qqGYylh1W0J1UAzdJRhwJLHT0ye93P5kCZQnJ/nv6w9mIztvjx0=",
+ "cert_user_id": "loveexception@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "a9dacf06592ad5c3919891182c689316cd543a669d825ea4375d7d05e5185536",
+   "size": 131
+  }
+ },
+ "inner_path": "data/users/1KTiTLGjLL6LhAVJ3znUiey2UptEswwqgs/content.json",
+ "modified": 1480077975.319,
+ "signs": {
+  "1KTiTLGjLL6LhAVJ3znUiey2UptEswwqgs": "HIfIRIbRW3tGmQfEUOnRSbWY2+LXikkz4TGTdZLVIb1OV/aUNAnUbMKrjFz3o0pSHXiGzIqeY9TX+BvI92N0lNE="
+ }
+}

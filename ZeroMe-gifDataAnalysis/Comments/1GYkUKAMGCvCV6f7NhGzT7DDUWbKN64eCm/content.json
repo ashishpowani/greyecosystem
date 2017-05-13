@@ -1,0 +1,17 @@
+{
+ "address": "1Gif7PqWTzVWDQ42Mo7np3zXmGAo3DXc7h",
+ "cert_auth_type": "web",
+ "cert_sign": "G8iCLo7KaeDfR0oZUOjTspzUMXG6tu0Dxt4IYKiqw0Z/9oRrCt30t0qnbdvc3ym3U6UrZkW9RKTSqJpvk4F9L5o=",
+ "cert_user_id": "nesticle8bit@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "ca06769daac53c6314b99aead11af1e047119b58b817138ae83d5853e1ff379b",
+   "size": 156
+  }
+ },
+ "inner_path": "data/users/1GYkUKAMGCvCV6f7NhGzT7DDUWbKN64eCm/content.json",
+ "modified": 1456969731.783,
+ "signs": {
+  "1GYkUKAMGCvCV6f7NhGzT7DDUWbKN64eCm": "G+hvmTHDmtoeoIkY/4pV3/p1NWafLADqLVCZzKSs5f5F3YFoChG4/tGBaeknIwHl+jSdFMS/FBC18IzCJhgaEkI="
+ }
+}

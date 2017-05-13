@@ -1,0 +1,17 @@
+{
+ "address": "1Gif7PqWTzVWDQ42Mo7np3zXmGAo3DXc7h",
+ "cert_auth_type": "web",
+ "cert_sign": "GwCh1gsi/2lkiyB3OWqbVN8/WlKP6vhwjk/0P3H00Lr1H2ROkxAKbU4RonsdWH0g6pLlpOw30FN2qk65uMHUets=",
+ "cert_user_id": "riquifer@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "e984138375650e4fcd1912f4ba5b4681c7894d419666f5abc73c203435db0300",
+   "size": 1294
+  }
+ },
+ "inner_path": "data/users/1PkF8cwrUHhKjTh5uuLGY2QpA4GhyjdFkt/content.json",
+ "modified": 1476511366.856,
+ "signs": {
+  "1PkF8cwrUHhKjTh5uuLGY2QpA4GhyjdFkt": "HOVQ4s0aXfPCbSwogjrydEYWnEXw24OqsI2H7zFxPXfmaNQQKsW0lJvmk8Si/a2AxAA+ULxpxaLm00cJ3yB/AWI="
+ }
+}

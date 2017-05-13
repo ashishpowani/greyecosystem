@@ -1,0 +1,17 @@
+{
+ "address": "1Gif7PqWTzVWDQ42Mo7np3zXmGAo3DXc7h",
+ "cert_auth_type": "web",
+ "cert_sign": "G6xhkW65iIpGX4rDlnQo+X1mBHCe/GSlsZc72jSOUm4U4OL4WJYPoLWGj0ifPjNhagkxQuLaTGDPy7ScOZ7WLhs=",
+ "cert_user_id": "thepra@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "47505db648de0fc1145a5ebb1b11029df190547d79715bda14a3513fb94ef7f9",
+   "size": 302
+  }
+ },
+ "inner_path": "data/users/1HZ31NnbPEtxBWkvVHYPTK6cHmibeLGs9j/content.json",
+ "modified": 1482670899.478,
+ "signs": {
+  "1HZ31NnbPEtxBWkvVHYPTK6cHmibeLGs9j": "G3xSAEpauoYMG7iwDEJ6SjDAd58WTdpZnamcWz0lA+jrYa2F2F9dLaDJp7F0vGd1TbleH1wZCKbFHjyFcTzA0Gs="
+ }
+}

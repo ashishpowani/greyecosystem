@@ -1,0 +1,17 @@
+{
+ "address": "1Gif7PqWTzVWDQ42Mo7np3zXmGAo3DXc7h",
+ "cert_auth_type": "web",
+ "cert_sign": "HARZHvZA7nFII8wU8wtBgwM38eKpHJVfbLqrIJeJIn3TrcKL9vks8NXbleZoTU57rnHGAQhnSiniTGi8wX7o1xw=",
+ "cert_user_id": "deadgirlrising@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "a7ce221c30fbb91cb208e81b09cb721e4506eea11df976a0dd2b67b07e3dc5cd",
+   "size": 132
+  }
+ },
+ "inner_path": "data/users/14EvNT4CXZKyHpo4GPaq4YT4zTfumK2WSL/content.json",
+ "modified": 1457036584.762,
+ "signs": {
+  "14EvNT4CXZKyHpo4GPaq4YT4zTfumK2WSL": "G//IuKLMjb9JmYdksps07DYZATVkzLCD53Qb3TjdnfZSCIRr4PKlGr9bXX8UNqHjUd+63qzC8Gq7JETRhEhVRtI="
+ }
+}

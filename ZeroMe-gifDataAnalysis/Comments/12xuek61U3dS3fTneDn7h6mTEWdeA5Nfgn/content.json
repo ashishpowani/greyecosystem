@@ -1,0 +1,17 @@
+{
+ "address": "1Gif7PqWTzVWDQ42Mo7np3zXmGAo3DXc7h",
+ "cert_auth_type": "web",
+ "cert_sign": "G6Z8z6Yw55aiBglvbN4Hosoov3iIjIvPC7dhldMOGhzPoGzfP1d152RbWvfiVswLWK7xe19dwyiqGqYPt0vcr4s=",
+ "cert_user_id": "terriblegoatmilk@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "d75d8622baa7d8edcfb5beb9c3a394fc5c14096de60eb4772eb850315b223cde",
+   "size": 237
+  }
+ },
+ "inner_path": "data/users/12xuek61U3dS3fTneDn7h6mTEWdeA5Nfgn/content.json",
+ "modified": 1483646689.074,
+ "signs": {
+  "12xuek61U3dS3fTneDn7h6mTEWdeA5Nfgn": "HKcyVcIc885mawc8j6Kir/Zgdx28xV36bJmUwR+aAKhmtKFmxv83mHTD+CH06EwocheofY3zJglYG8eIKpnW7Q4="
+ }
+}

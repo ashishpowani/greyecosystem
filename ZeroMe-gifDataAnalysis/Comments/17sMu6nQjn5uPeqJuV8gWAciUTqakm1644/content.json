@@ -1,0 +1,17 @@
+{
+ "address": "1Gif7PqWTzVWDQ42Mo7np3zXmGAo3DXc7h",
+ "cert_auth_type": "web",
+ "cert_sign": "HF5GRa4ivId9DQvt+4JM1XmgQ/Jm1/3T4TUZMUno7SdqsuaWDYbeWjoDhXlgABmlJS+rLXQkUfsBKEZ6nEukfUI=",
+ "cert_user_id": "suicidal360flip@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "b46082202cbfb2b2c178688ae386d56b6c041056812dda88df4abdcef40b6f8c",
+   "size": 106
+  }
+ },
+ "inner_path": "data/users/17sMu6nQjn5uPeqJuV8gWAciUTqakm1644/content.json",
+ "modified": 1469654282.039,
+ "signs": {
+  "17sMu6nQjn5uPeqJuV8gWAciUTqakm1644": "G5EFxpft8cW/L/de+AYdeYwQq6bxfelaOFjmc1DbpvsJL2nymztLvD2sZLKSxgXDbqEuc/zsX0vBh2Ku0H7XsVg="
+ }
+}

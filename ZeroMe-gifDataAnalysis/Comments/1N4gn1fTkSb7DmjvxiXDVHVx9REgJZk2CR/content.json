@@ -1,0 +1,15 @@
+{
+ "cert_auth_type": "web", 
+ "cert_sign": "GxyoissYYxNnQr9c6AGK3eaOkvMzWGFRmrwLWra4RwTg24dwYidZJ/tsMDm8zAfTdSiHj3i954veg8WleRbhAqk=", 
+ "cert_user_id": "petko@zeroid.bit", 
+ "files": {
+  "data.json": {
+   "sha512": "8a39825e6431259174b2c372765ab2d1927ce3ca1bdfa7dceeafb15b9a7153ed", 
+   "size": 251
+  }
+ }, 
+ "modified": 1448988680.374, 
+ "signs": {
+  "1N4gn1fTkSb7DmjvxiXDVHVx9REgJZk2CR": "HBTfZNNGo4R4CEaTFjdn/3aaGHUYJG0SSlZOfhCSnO08wCybjrZDnXHg1lj3RCaSFth97RyAEy2/2/g7I4lGugs="
+ }
+}

@@ -1,0 +1,25 @@
+{
+	"next_comment_id": 2,
+	"comment": [
+		{
+			"comment_id": 1,
+			"body": "He still hit the a car thought",
+			"post_id": 4166,
+			"date_added": 1477950670
+		}
+	],
+	"comment_vote": {},
+	"post_vote": {
+		"3289": 1,
+		"4113": 1,
+		"4118": 1,
+		"4138": 1,
+		"4162": 1,
+		"4163": 1,
+		"4587": 1,
+		"4597": 1,
+		"4747": 1,
+		"4794": 1,
+		"4802": 1
+	}
+}

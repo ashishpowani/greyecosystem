@@ -1,0 +1,17 @@
+{
+ "address": "1Gif7PqWTzVWDQ42Mo7np3zXmGAo3DXc7h",
+ "cert_auth_type": "web",
+ "cert_sign": "G9T5KrCtwDtuhaOrBjny8oV6AaLlO+jis7WBkfE0gbvnW7g3Hu10kARlsxzRkkrgONQFLFR6fP5PC3qQHCEO5Qk=",
+ "cert_user_id": "stigmax@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "236f3be427a8bf22766ef483749d34e38f88508ced45ffe49ad1a29eafbf36d4",
+   "size": 94
+  }
+ },
+ "inner_path": "data/users/1CnetMi93ePccQhjUJcHjzD6e2DVRjWzqm/content.json",
+ "modified": 1484380844,
+ "signs": {
+  "1CnetMi93ePccQhjUJcHjzD6e2DVRjWzqm": "G/RKNoXLg931Dz9ReB+wOH0Mu8QJ2HkvZkUAJRmOYEreMiWnWtEWvYhYau+pQayQUp81nxICjfkYO7Z4TrTbvwI="
+ }
+}

@@ -1,0 +1,17 @@
+{
+ "address": "1Gif7PqWTzVWDQ42Mo7np3zXmGAo3DXc7h",
+ "cert_auth_type": "web",
+ "cert_sign": "HPuDJ2gIWMapGllTvRwyvTnRDYyvqiomjJMAwitEioO9gwB1Z7eNh5Wm84G10tN0Ib2x67Us1yNUKp4VR6G6d2U=",
+ "cert_user_id": "ilovegod@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "b2fa3871abcf2ec9755fbb064e3b2bd2b22749c2952aa5d02e312194bf63a1fa",
+   "size": 80
+  }
+ },
+ "inner_path": "data/users/1Kxzy3gnpf1JreU5Wigxgy3hRFYs5Gkbeb/content.json",
+ "modified": 1466250993.778,
+ "signs": {
+  "1Kxzy3gnpf1JreU5Wigxgy3hRFYs5Gkbeb": "G63eouI6kBnon4KKXv3Csr3kyy76VMu2R5blkUJt9C2A6UzsruTclGNhgpd6CEsnPzw7DsSga953Yj6ISBs3L48="
+ }
+}

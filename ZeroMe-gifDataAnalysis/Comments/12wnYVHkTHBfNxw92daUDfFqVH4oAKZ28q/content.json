@@ -1,0 +1,17 @@
+{
+ "address": "1Gif7PqWTzVWDQ42Mo7np3zXmGAo3DXc7h",
+ "cert_auth_type": "web",
+ "cert_sign": "G1BuoUO19uoRQDZ5d1pM49VsuWCTNhu9mkthXUar9PZnuBzLyZZ1AQjhDe/jdEbFyEVJABFkAkec/S3rwbNjCJc=",
+ "cert_user_id": "centia@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "08452a3f869c18bddae19b4dfee206e67445e7a3c34615da077f75cdf441ddba",
+   "size": 158
+  }
+ },
+ "inner_path": "data/users/12wnYVHkTHBfNxw92daUDfFqVH4oAKZ28q/content.json",
+ "modified": 1472955408.425187,
+ "signs": {
+  "12wnYVHkTHBfNxw92daUDfFqVH4oAKZ28q": "Gx6s8bOlhKrEwj7UHqEdEqQt8hhgfGn1nrh4paHm96S8UOz4+RAjBnn4DwQw2Ikp3ch+NwgdK46CHxZbB6Y1NRI="
+ }
+}

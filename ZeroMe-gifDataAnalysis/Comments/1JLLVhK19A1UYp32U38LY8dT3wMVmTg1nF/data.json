@@ -1,0 +1,16 @@
+{
+	"next_comment_id": 2,
+	"comment": [
+		{
+			"comment_id": 1,
+			"body": "Very funny, seach if this is on youtube.",
+			"post_id": 3811,
+			"date_added": 1477463011
+		}
+	],
+	"comment_vote": {},
+	"post_vote": {
+		"3811": 1,
+		"3827": 1
+	}
+}

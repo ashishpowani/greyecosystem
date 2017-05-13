@@ -1,0 +1,17 @@
+{
+ "address": "1Gif7PqWTzVWDQ42Mo7np3zXmGAo3DXc7h",
+ "cert_auth_type": "web",
+ "cert_sign": "G0TR5cjhglE+pkvvSQcJezJTKKCYfG1JAbYmFUKGy8bs3sUtpEfqG58Vv3Wr0uxpHRqB8CmR4EBbkS0ce0Ezyo0=",
+ "cert_user_id": "disgustingwall@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "7fca60e958771190a94569785f77c24f2c06c400b41d468e5adb052f3f03c269",
+   "size": 459
+  }
+ },
+ "inner_path": "data/users/17F6vBZz8qmZ6RcZKxJAaw8GH7cTRr7cSg/content.json",
+ "modified": 1464533171.361044,
+ "signs": {
+  "17F6vBZz8qmZ6RcZKxJAaw8GH7cTRr7cSg": "HOo5yraC8mZVujeEleGNflahbPa6ueQAgLNg/fRXyTZnxJY2+GP7AFkNf4f7VXJlqtISI7YfhpYJSK/ja2e30BY="
+ }
+}

@@ -1,0 +1,17 @@
+{
+ "address": "1Gif7PqWTzVWDQ42Mo7np3zXmGAo3DXc7h",
+ "cert_auth_type": "web",
+ "cert_sign": "G83QYYa0OtjvLLLeF1LPC9ckF9W8jXv7xZrXctv0D7U7HrjZQDAdSOk4ZnCIufY1KH0oqGYYYUxPwUREy7Gpp58=",
+ "cert_user_id": "kadircanersahin@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "e9b44943b07c45e7c975f34dbdc2d328626a7e039dab9be7c4f960c57b29f51a",
+   "size": 120
+  }
+ },
+ "inner_path": "data/users/18dJtMSGjRdnYF3Cfpu5mthcTWNV5Qc5oJ/content.json",
+ "modified": 1461155114.817,
+ "signs": {
+  "18dJtMSGjRdnYF3Cfpu5mthcTWNV5Qc5oJ": "G4f6HCMnFZwwV+l5Lj8tczfundMANZCI1fTf1piLYTwcDWtrPldlhvCgeyVCERc0dFmOF8q/M8zoHnYH8jK624A="
+ }
+}

@@ -1,0 +1,17 @@
+{
+ "address": "1Gif7PqWTzVWDQ42Mo7np3zXmGAo3DXc7h",
+ "cert_auth_type": "web",
+ "cert_sign": "G7mI6awh9A6a4kuKDVOhpuYILZkkFVKEC0VhbwU6AgX/eJWdWWlqpwfqbfKzn5GdyygzXHJHlSKD4DvdU0t6z+M=",
+ "cert_user_id": "samanthalockie@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "100df871b6708bda6d38a5f7269a24c70ee4190fc657f5096fd6ff7956a8f458",
+   "size": 94
+  }
+ },
+ "inner_path": "data/users/1DmP6sSUyHWtF4sDBNJMapsGzEBHsHiVCK/content.json",
+ "modified": 1487216615,
+ "signs": {
+  "1DmP6sSUyHWtF4sDBNJMapsGzEBHsHiVCK": "G747xkXcLOIsDiJusB1kAamuXZqGtTH8DN2elE/aMqdw8qpzBJw4T+3VEDDLsHdJylfV4/GkXQus4kTS2uiDJvU="
+ }
+}

@@ -1,0 +1,17 @@
+{
+ "address": "1Gif7PqWTzVWDQ42Mo7np3zXmGAo3DXc7h",
+ "cert_auth_type": "web",
+ "cert_sign": "HHdWo1Kg9gHqBiTG5BLDcMXyO2JRSsAoAJg+H0efsLlCsIJTWvLG7ClLN1FQ9XyNgLJc5EvX/zmuBLoU/c1qtH4=",
+ "cert_user_id": "gravityfallscity@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "5bd9646b01b22de621c1194f37798009c3c94f6dfb927abc572ea45d599d2f68",
+   "size": 1089
+  }
+ },
+ "inner_path": "data/users/16RrySPFBj6CCGue89y2qpngE7reNRHHEN/content.json",
+ "modified": 1483452792.272,
+ "signs": {
+  "16RrySPFBj6CCGue89y2qpngE7reNRHHEN": "HDMnhBz60esAL3i9Ym8jWmSVdEhx8JMVqq5LbV6aVQf6I0pO+tdgKuGXsuYWeT1TrIk+3Fgpehc9Lv8OQxhzacw="
+ }
+}
