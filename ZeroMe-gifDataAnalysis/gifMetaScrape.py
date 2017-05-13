@@ -10,6 +10,7 @@ import csv, re, sys, nltk
 from nltk.probability import FreqDist
 from nltk.corpus import stopwords
 
+sys.stdout = open('file', 'w', encoding='Latin-1')
 f = open('./result.csv', 'rt', encoding='Latin-1')
 count = 0;
 wordList = []

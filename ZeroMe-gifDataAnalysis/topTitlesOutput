@@ -1,0 +1,505 @@
+A dictionary of top 250 post IDs and their frequencies based on their number of occurances in the comment section:
+[('1118', 171), ('3827', 158), ('1135', 141), ('1116', 110), ('402', 107), ('3610', 107), ('3811', 105), ('1359', 104), ('1035', 96), ('3634', 95), ('3588', 95), ('3772', 95), ('404', 94), ('3660', 94), ('1117', 93), ('3752', 92), ('3599', 90), ('1683', 88), ('135', 83), ('1027', 83), ('1032', 81), ('2506', 80), ('1182', 80), ('1561', 77), ('3564', 77), ('929', 76), ('975', 75), ('3272', 74), ('1044', 73), ('3682', 73), ('2599', 69), ('2451', 65), ('1108', 64), ('2184', 64), ('1095', 63), ('3311', 62), ('1770', 61), ('2883', 61), ('3320', 61), ('988', 61), ('3648', 60), ('1300', 60), ('3260', 59), ('1727', 59), ('1018', 57), ('354', 55), ('1064', 54), ('3739', 54), ('2952', 53), ('3575', 53), ('2160', 52), ('3670', 51), ('2648', 51), ('2172', 50), ('1668', 49), ('3175', 49), ('1015', 49), ('1192', 48), ('2563', 48), ('2980', 48), ('2082', 48), ('3238', 46), ('1172', 45), ('1096', 43), ('1103', 42), ('2857', 42), ('1899', 42), ('1106', 42), ('2463', 42), ('340', 42), ('1217', 41), ('1836', 41), ('965', 41), ('2913', 41), ('1327', 40), ('1418', 40), ('2843', 40), ('1142', 39), ('2634', 39), ('1208', 39), ('1509', 39), ('1386', 38), ('2620', 38), ('590', 38), ('2410', 38), ('1740', 38), ('405', 38), ('2967', 37), ('2905', 37), ('1219', 36), ('1007', 35), ('1545', 35), ('3162', 35), ('2539', 34), ('2893', 33), ('1312', 33), ('1400', 33), ('1575', 32), ('769', 32), ('372', 32), ('726', 32), ('1373', 32), ('964', 32), ('2609', 32), ('1152', 31), ('1076', 31), ('2550', 31), ('1030', 31), ('347', 30), ('1882', 30), ('1990', 30), ('654', 30), ('225', 30), ('780', 30), ('2128', 30), ('770', 29), ('779', 29), ('1139', 29), ('1199', 29), ('1197', 29), ('1974', 29), ('1124', 29), ('395', 29), ('1491', 29), ('414', 29), ('305', 29), ('1188', 28), ('138', 28), ('365', 28), ('3125', 28), ('1477', 28), ('1031', 28), ('711', 27), ('604', 27), ('737', 27), ('2142', 27), ('1288', 26), ('1755', 26), ('1240', 26), ('992', 25), ('496', 25), ('241', 25), ('1194', 25), ('1737', 25), ('1695', 25), ('1236', 25), ('949', 24), ('1583', 24), ('394', 24), ('1111', 23), ('1189', 23), ('1940', 23), ('3135', 23), ('570', 23), ('906', 23), ('1187', 23), ('324', 23), ('1004', 23), ('982', 22), ('1151', 22), ('1173', 22), ('371', 22), ('1179', 22), ('1497', 22), ('575', 22), ('285', 22), ('378', 22), ('2525', 22), ('309', 22), ('386', 22), ('1150', 21), ('413', 21), ('793', 21), ('1107', 21), ('561', 21), ('945', 21), ('890', 20), ('1069', 20), ('681', 20), ('873', 20), ('376', 20), ('2434', 20), ('1600', 20), ('1113', 20), ('175', 20), ('252', 20), ('1022', 20), ('1641', 19), ('977', 19), ('1164', 19), ('1170', 19), ('490', 19), ('1201', 19), ('1271', 19), ('222', 19), ('1413', 19), ('2742', 18), ('1232', 18), ('1290', 18), ('2976', 18), ('1169', 18), ('589', 18), ('2750', 18), ('406', 18), ('3333', 18), ('898', 18), ('1865', 18), ('663', 18), ('1784', 18), ('1075', 18), ('2125', 18), ('1068', 18), ('1177', 18), ('1052', 18), ('397', 18), ('1196', 17), ('1872', 17), ('1178', 17), ('1947', 17), ('591', 17), ('1112', 17), ('278', 17), ('1043', 17), ('1126', 17), ('2122', 17), ('954', 17), ('781', 17), ('1050', 17), ('2927', 17), ('204', 17), ('537', 17), ('1608', 17), ('409', 17), ('1102', 16), ('1136', 16), ('1492', 16), ('633', 16), ('381', 16), ('246', 16), ('1059', 16), ('2869', 16), ('1053', 16), ('878', 16), ('1110', 16), ('587', 16), ('3254', 16), ('1091', 16), ('2176', 16), ('939', 16), ('382', 15)]
+
+
+Top 20 post IDs and their Titles:
+Post ID: 1118
+Post Title: When someone doesn&rsquo;t follow the coding style guidelines
+Post ID: 3827
+Post Title: Solving a problem by looking at the source code
+Post ID: 1135
+Post Title: The perfect week
+Post ID: 1116
+Post Title: On-site interviews at Google
+Post ID: 402
+Post Title: CSS
+Post ID: 3610
+Post Title: How tar -zcf works
+Post ID: 3811
+Post Title: Trying the first prototype&hellip; Good enough.
+Post ID: 1359
+Post Title: When the Windows admin fills in for the Linux admin
+Post ID: 1035
+Post Title: Trying to identify a problem without adequate permissions
+Post ID: 3634
+Post Title: Junior dev being awesome
+Post ID: 3588
+Post Title: When you realize who is behind all the pointless feature requests you have to implement
+Post ID: 3772
+Post Title: Not handling errors in your code
+Post ID: 404
+Post Title: Live migration
+Post ID: 3660
+Post Title: Job freezes with unexpected input
+Post ID: 1117
+Post Title: When you fix a bug that you&rsquo;ve been working on all night
+Post ID: 3752
+Post Title: gdb
+Post ID: 3599
+Post Title: Overengineering
+Post ID: 1683
+Post Title: Our Development Process
+Post ID: 135
+Post Title: Senior in action
+Post ID: 1027
+Post Title: That guy behind her seems focused on his work
+Post ID: 1032
+Post Title: Just run this command they said. It&rsquo;s straightforward they said. It can&rsquo;t go wrong they said
+Post ID: 2506
+Post Title: Just returned from vacation; git pull
+Post ID: 1182
+Post Title: CI running the automated tests
+Post ID: 1561
+Post Title: When you notice that the &ldquo;automation&rdquo; ended up being the intern doing it
+Post ID: 3564
+Post Title: Making the best out of a boring task
+Post ID: 929
+Post Title: New framework
+Post ID: 975
+Post Title: Working on a small bug and noticing an sql injection vulnerability
+Post ID: 3272
+Post Title: Coming to the conclusion that restarting things does not fix the app
+Post ID: 1044
+Post Title: Science B*tch!
+Post ID: 3682
+Post Title: Reaction of a senior engineer, having seen it all before
+Post ID: 2599
+Post Title: Not standard usage of standard library
+Post ID: 2451
+Post Title: Getting the job done by mistake
+Post ID: 1108
+Post Title: Gravity
+Post ID: 2184
+Post Title: Looking at old code
+Post ID: 1095
+Post Title: That colleague that always rejects new ideas
+Post ID: 3311
+Post Title: Successfully executing unknown commands on production environments
+Post ID: 1770
+Post Title: Falling back to IPv4
+Post ID: 2883
+Post Title: When devs think that because they added a feature, people will use it
+Post ID: 3320
+Post Title: Using a framework that you do not understand
+Post ID: 988
+Post Title: The technical account manager when you&rsquo;re investigating
+Post ID: 3648
+Post Title: Petting your incomprehensible piece of code
+Post ID: 1300
+Post Title: Checking the firewall logs
+Post ID: 3260
+Post Title: Major change request 1 day before the release
+Post ID: 1727
+Post Title: Coming across the UI changes that were deployed on Friday
+Post ID: 1018
+Post Title: Thinking of leaving the company and get handed a legacy project
+Post ID: 354
+Post Title: Looking at a simple bug
+Post ID: 1064
+Post Title: Trying things that take time to complete
+Post ID: 3739
+Post Title: Getting your build through the pipeline
+Post ID: 2952
+Post Title: Hey boss, is it true that we will have to work on Christmas eve?
+Post ID: 3575
+Post Title: Getting schooled by the technical lead of another team
+Post ID: 2160
+Post Title: CTO introduces me to the visiting investors during an outage
+Post ID: 3670
+Post Title: When you lose another service during a major outage
+Post ID: 2648
+Post Title: When the tickets just keep coming
+Post ID: 2172
+Post Title: When you need to create a mock service ASAP
+Post ID: 1668
+Post Title: When docker upgrade goes without a hitch
+Post ID: 3175
+Post Title: How you see a technical meeting when the vendor has sent only a sales team.
+Post ID: 1015
+Post Title: Diver frees Whale shark from commercial fishing rope
+Post ID: 1192
+Post Title: The effect of GIL on multithreaded Python programs
+Post ID: 2563
+Post Title: Ops&rsquo; report: three out of five app servers&rsquo; behaviour is a little bit strange.
+Post ID: 2980
+Post Title: Trying to work with live traffic
+Post ID: 2082
+Post Title: When you know that you are getting closer to the bug
+Post ID: 3238
+Post Title: High risk deployment went fine
+Post ID: 1172
+Post Title: Here , you play i gotta suck this dick
+Post ID: 1096
+Post Title: The coffee machine is out
+Post ID: 1103
+Post Title: Hoverboard that actually hovers
+Post ID: 2857
+Post Title: Altering the virtualized hardware of a live VM
+Post ID: 1899
+Post Title: Preparing for a deploy
+Post ID: 1106
+Post Title: Riding with care
+Post ID: 2463
+Post Title: Waiting the late night deploy to finish
+Post ID: 340
+Post Title: Losing focus in a meeting
+Post ID: 1217
+Post Title: High Ping in real life
+Post ID: 1836
+Post Title: When the customer finds out that the service was a mock
+Post ID: 965
+Post Title: When your team becomes noisy and the manager of the other team arrives
+Post ID: 2913
+Post Title: How people that reject new technologies look like
+Post ID: 1327
+Post Title: Realizing the CTO is behind you while browsing devopsreactions
+Post ID: 1418
+Post Title: Trying to do normal stuff with SELinux enabled
+Post ID: 2843
+Post Title: High traffic hits the operations team
+Post ID: 1142
+Post Title: She thinks the white sheets on the bed are snow...
+Post ID: 2634
+Post Title: When you try to fix a bug but have no idea of what you are doing
+Post ID: 1208
+Post Title: Did you hear that they are gonna give us a raise? Whaaat?
+Post ID: 1509
+Post Title: When you notice a bug but don&rsquo;t pay attention to it
+Post ID: 1386
+Post Title: HR next to a Developer performing an interview
+Post ID: 2620
+Post Title: traceroute of a loop
+Post ID: 590
+Post Title: Perfect exception catching/handling
+Post ID: 2410
+Post Title: Problem Escalation
+Post ID: 1740
+Post Title: When the build fails at the last step
+Post ID: 405
+Post Title: Monday&rsquo;s login after Friday&rsquo;s password change
+Post ID: 2967
+Post Title: When someone commits with the tests not passing
+Post ID: 2905
+Post Title: Searching for that bug that no one else managed to find
+Post ID: 1219
+Post Title: Launching a new product &hellip;and how the Internet treats it
+Post ID: 1007
+Post Title: When the firewall was left off
+Post ID: 1545
+Post Title: When the technical debt unrolls
+Post ID: 3162
+Post Title: Getting outside when you are a home worker
+Post ID: 2539
+Post Title: Trying to catch the race condition
+Post ID: 2893
+Post Title: Looking for a bug in an unknown project
+Post ID: 1312
+Post Title: Working with juniors
+Post ID: 1400
+Post Title: Dev to QA, QA to Ops
+Post ID: 1575
+Post Title: Diving into the legacy code to find a bug
+Post ID: 769
+Post Title: Why She Spends So Much Time in the Bathroom
+Post ID: 372
+Post Title: Applying a hotfix
+Post ID: 726
+Post Title: Fixing a bug during the deploy
+Post ID: 1373
+Post Title: When the Linux admin fills in for the Windows admin
+Post ID: 964
+Post Title: What a great looking ass
+Post ID: 2609
+Post Title: Your boss dragging you to a meeting that you do not want to go
+Post ID: 1152
+Post Title: Shelter dog flips out after realizing he's been adopted
+Post ID: 1076
+Post Title: Failing UAT
+Post ID: 2550
+Post Title: When AWS has a problem, but your stuff keep going
+Post ID: 1030
+Post Title: She turns translucent in the sun
+Post ID: 347
+Post Title: Using a framework to write a very small app
+Post ID: 1882
+Post Title: Taking over a legacy project
+Post ID: 1990
+Post Title: Old code refactoring
+Post ID: 654
+Post Title: Jumpy jumping
+Post ID: 225
+Post Title: Entering the BIOS
+Post ID: 780
+Post Title: Reviewing the intern&rsquo;s commits
+Post ID: 2128
+Post Title: The one that doesn&rsquo;t let the bad practices go
+Post ID: 770
+Post Title: When you forgot to use screen and your connection dies
+Post ID: 779
+Post Title: Things are going bad and you&rsquo;re searching man pages
+Post ID: 1139
+Post Title: Spooky ghost
+Post ID: 1199
+Post Title: Molten Salt into Water
+Post ID: 1197
+Post Title: International snow artist Simon Beck creates the largest snow tribute to Game of Thrones on Earth
+Post ID: 1974
+Post Title: When you get accustomed to some bugs
+Post ID: 1124
+Post Title: "Good God woman, your weather is showing..."
+Post ID: 395
+Post Title: Junior in their first outage, thinking that this is the end
+Post ID: 1491
+Post Title: Hitting the corner case that you left uncovered
+Post ID: 414
+Post Title: Senior&rsquo;s reaction when asked to stay late
+Post ID: 305
+Post Title: Using the right command on the wrong environment&hellip; as root
+Post ID: 1188
+Post Title: It's just a prank bro
+Post ID: 138
+Post Title: Senior checking new framework
+Post ID: 365
+Post Title: Classic development cycle
+Post ID: 3125
+Post Title: When you get invited to a meeting to talk about your delayed project
+Post ID: 1477
+Post Title: Trying to cover all corner cases
+Post ID: 1031
+Post Title: triple kiss
+Post ID: 711
+Post Title: Mmmmmmm Cotton Candy .... :(
+Post ID: 604
+Post Title: Joseline Kelly serving smoothies
+Post ID: 737
+Post Title: /etc/init.d/redis stop
+Post ID: 2142
+Post Title: Making fun of others&rsquo; technical mishaps
+Post ID: 1288
+Post Title: Checking shared hosting mail queues
+Post ID: 1755
+Post Title: Starting an old legacy server
+Post ID: 1240
+Post Title: Wink
+Post ID: 992
+Post Title: Paradise
+Post ID: 496
+Post Title: Good girl
+Post ID: 241
+Post Title: Logging in to an old server to update bash
+Post ID: 1194
+Post Title: Trombone player pretending to play while eating
+Post ID: 1737
+Post Title: The way it opens...
+Post ID: 1695
+Post Title: When SecOps shows up to the meeting
+Post ID: 1236
+Post Title: i got it master
+Post ID: 949
+Post Title: A finger and a baby chameleon
+Post ID: 1583
+Post Title: Your definition of success -vs- PM-trying-to-meet-the-deadline&rsquo;s definition of success
+Post ID: 394
+Post Title: Inheriting a legacy codebase
+Post ID: 1111
+Post Title: HEEEREŠ—ÈS JOHNNY!
+Post ID: 1189
+Post Title: This fish casually changing tanks
+Post ID: 1940
+Post Title: The cutest pussy
+Post ID: 3135
+Post Title: When a bug is provoking you
+Post ID: 570
+Post Title: When you are surrounded by developers of a different language
+Post ID: 906
+Post Title: When you have to use a hack
+Post ID: 1187
+Post Title: Girl Bounces on Slackline
+Post ID: 324
+Post Title: When the system doesn&rsquo;t support what the customer asks, yet we try
+Post ID: 1004
+Post Title: that's some advanced technique
+Post ID: 982
+Post Title: *Sigh* ...I give up.
+Post ID: 1151
+Post Title: Reunited
+Post ID: 1173
+Post Title: How to stop kids from disturbing you during prayers
+Post ID: 371
+Post Title: What customers want from support
+Post ID: 1179
+Post Title: Beautiful colors
+Post ID: 1497
+Post Title: When the awesome feature bites you
+Post ID: 575
+Post Title: Watching people code without adequate understanding of the language and its libraries
+Post ID: 285
+Post Title: Reading your own code
+Post ID: 378
+Post Title: The CEO testing a new feature
+Post ID: 2525
+Post Title: Manager on a call during an outage
+Post ID: 309
+Post Title: When you&nbsp; are focused
+Post ID: 386
+Post Title: When the new hardware arrives
+Post ID: 1150
+Post Title: How to terrify all your cats at once
+Post ID: 413
+Post Title: Trying to figure out an elusive bug
+Post ID: 793
+Post Title: Ready? Ready? Here are the Goods!
+Post ID: 1107
+Post Title: A dream come true?
+Post ID: 561
+Post Title: Looking for someone to assign the bug to
+Post ID: 945
+Post Title: How a developer sees their new manager
+Post ID: 890
+Post Title: Pool table that tracks where the ball will go
+Post ID: 1069
+Post Title: Just a cat on her slave's car.
+Post ID: 681
+Post Title: Girlfriends Loving in the Shower
+Post ID: 873
+Post Title: Java benchmarks
+Post ID: 376
+Post Title: Midnight Coding
+Post ID: 2434
+Post Title: Unrealistic project estimation
+Post ID: 1600
+Post Title: Tension before deployment
+Post ID: 1113
+Post Title: Riley Reid - Work Out Session
+Post ID: 175
+Post Title: Describing our network infrastructure
+Post ID: 252
+Post Title: Coming home after work
+Post ID: 1022
+Post Title: Baby offers woman cake
+Post ID: 1641
+Post Title: Engineers around the world when SpaceX landed the Falcon-9
+Post ID: 977
+Post Title: Fully Automatic Writting Clock
+Post ID: 1164
+Post Title: Snowski
+Post ID: 1170
+Post Title: Boxer's reaction to trying a lime.
+Post ID: 490
+Post Title: Delivering all your stories with time to spare
+Post ID: 1201
+Post Title: When your long BPF expression catches the traffic on the first attempt
+Post ID: 1271
+Post Title: Monday morning zabbix
+Post ID: 222
+Post Title: Fetching a package with dependencies
+Post ID: 1413
+Post Title: Undressing
+Post ID: 2742
+Post Title: The facial expressions of skilled professionals
+Post ID: 1232
+Post Title: Stupid bird tries to steal from a caged Eagle.
+Post ID: 1290
+Post Title: Our planet's shield in action.
+Post ID: 2976
+Post Title: Electricity finding the path of least resistance on a piece of wood
+Post ID: 1169
+Post Title: Everyone needs a nap time buddy
+Post ID: 589
+Post Title: Merry Xmas
+Post ID: 2750
+Post Title: Climax Collapse
+Post ID: 406
+Post Title: When you know exactly what your code does
+Post ID: 3333
+Post Title: Next level hula hooping
+Post ID: 898
+Post Title: Efficient snow removal.
+Post ID: 1865
+Post Title: cgroups vs resources
+Post ID: 663
+Post Title: Take...it...off.... (r/takeitoff)
+Post ID: 1784
+Post Title: Switching to the bleeding-edge version
+Post ID: 1075
+Post Title: Dealing with substandard hardware
+Post ID: 2125
+Post Title: When my full time project is canceled
+Post ID: 1068
+Post Title: My school's toilet view in Norway
+Post ID: 1177
+Post Title: Time-lapse of an injured thumb, that took 5 months to grow out.
+Post ID: 1052
+Post Title: Tim Cook&rsquo;s response to the FBI
+Post ID: 397
+Post Title: Load testing
+Post ID: 1196
+Post Title: Acceleration
+Post ID: 1872
+Post Title: Asian Girlfriend Shares Her Fantastic Road Trip Tits
+Post ID: 1178
+Post Title: Dragon Ball rotating-paper-cup
+Post ID: 1947
+Post Title: When the customer calls during an outage
+Post ID: 591
+Post Title: Trying to avoid a meeting but getting stuck in two
+Post ID: 1112
+Post Title: she was reluctant at first.
+Post ID: 278
+Post Title: When you accidentally run the wrong script
+Post ID: 1043
+Post Title: Bird flight formation.
+Post ID: 1126
+Post Title: Deep Brain Stimulation off vs on in a patient with Parkinson's disease.
+Post ID: 2122
+Post Title: Devs, after Ops declare the outage to be over
+Post ID: 954
+Post Title: Demoing the site
+Post ID: 781
+Post Title: Watching the last release on Friday at 6pm unfold
+Post ID: 1050
+Post Title: Above average
+Post ID: 2927
+Post Title: When you criticize a customer and they are visiting the place
+Post ID: 204
+Post Title: Bug passes QA
+Post ID: 537
+Post Title: Alexa Rydell from a hot POV
+Post ID: 1608
+Post Title: In the splash zone.
+Post ID: 409
+Post Title: Dev team looks at the legacy code
+Post ID: 1102
+Post Title: 100% Skill
+Post ID: 1136
+Post Title: Iguana's are honestly terrifying...
+Post ID: 1492
+Post Title: Opening the box of joy.
+Post ID: 633
+Post Title: Amazing Ass
+Post ID: 381
+Post Title: Salesperson coming after you on Friday, end of month
+Post ID: 246
+Post Title: Forgot &ldquo;-w&rdquo; on tcpdump
+Post ID: 1059
+Post Title: This dog can jump unbelievably far
+Post ID: 2869
+Post Title: When someone is swearing at the code
+Post ID: 1053
+Post Title: So all your estimates were random
+Post ID: 878
+Post Title: Dog moves bed to sun
+Post ID: 1110
+Post Title: Nope! Back it up!
+Post ID: 587
+Post Title: Self-Declared Slut is Fucked
+Post ID: 3254
+Post Title: AIX admins at LISA
+Post ID: 1091
+Post Title: Aria Alexander
+Post ID: 2176
+Post Title: That instant change of her expression.
+Post ID: 939
+Post Title: The exact moment she lost her innocence
+Post ID: 382
+Post Title: Applying SVN habits to Git
