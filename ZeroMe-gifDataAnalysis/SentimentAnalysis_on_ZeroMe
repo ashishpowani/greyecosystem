@@ -1,0 +1,73 @@
+install.packages("devtools")
+library(devtools)
+library(ggplot2)
+library(NLP)
+library(tm)
+install.packages("RColorBrewer")
+library(RColorBrewer)
+install.packages("syuzhet")
+library(syuzhet)
+
+setwd("C:/Users/cutes/Desktop/Hackathon")
+a <- read.csv("a.csv")
+
+
+r_text_corpus <- Corpus(VectorSource(a$title))
+
+r_text_cleansing <- r_text_corpus
+
+r_text_cleansing <- tm_map(r_text_corpus, stripWhitespace)
+
+r_text_cleansing <- tm_map(r_text_cleansing, removeNumbers)
+
+
+r_text_cleansing <- tm_map(r_text_cleansing, removePunctuation)
+
+
+r_text_cleansing <- tm_map(r_text_cleansing, content_transformer(tolower))
+
+#install.packages("syuzhet")
+
+
+isNull <- function(data) {
+  if(is.null(data))
+    return(0)
+  else
+    return(data)
+}
+
+text_vec = c()
+anger = c() ; anticipation=c() ; disgust=c() ; fear=c() ; joy=c() ;
+
+sadness=c() ; surprise=c() ; trust=c() ; nrc_negative=c() ; nrc_positive=c();
+
+
+for(i in 1:length(r_text_cleansing)){
+  text <- lapply(r_text_cleansing[i], as.character)
+  text <- gsub("http\\w+", "", text)
+  nrc_emotions <- get_nrc_sentiment(text)
+  
+ text_vec[i] <- text
+  anger[i] <- isNull(nrc_emotions$anger)
+  anticipation[i] <- isNull(nrc_emotions$anticipation)
+  disgust[i] <- isNull(nrc_emotions$disgust)
+  fear[i] <- isNull(nrc_emotions$fear)
+  joy[i] <- isNull(nrc_emotions$joy)
+  sadness[i] <- isNull(nrc_emotions$sadness)
+  surprise[i] <- isNull(nrc_emotions$surprise)
+  trust[i] <- isNull(nrc_emotions$trust)
+  nrc_negative[i] <- isNull(nrc_emotions$negative)
+  nrc_positive[i] <- isNull(nrc_emotions$positive)
+}
+
+
+nrc_df <- data.frame(text_vec,anger,anticipation,disgust,fear,joy,sadness,surprise,
+                     trust,nrc_negative,nrc_positive)
+
+nrc_df[1:500,1:11]
+
+par(mar=c(5.1,5,4.1,2.1))
+
+sort(colSums(prop.table(nrc_df[, 2:9])))
+
+sort(colSums(prop.table(nrc_df[, 10:11])))

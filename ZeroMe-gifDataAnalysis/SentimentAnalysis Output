@@ -1,0 +1,9 @@
+
+Results :
+
+disgust       sadness          anger      surprise          fear          joy         anticipation         trust
+0.07560568    0.08228906    0.09649123    0.09857978      0.13533835   0.16416040       0.16959064       0.17794486
+
+
+nrc_negative    nrc_positive
+   0.4036765      0.5963235
