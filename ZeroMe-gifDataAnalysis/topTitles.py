@@ -37,7 +37,7 @@ print('A dictionary of top 250 post IDs and their frequencies based on their num
 print(sortPID)
 print('\n')
 
-print('Top 20 post IDs and their Titles:')
+print('Top 250 post IDs and their Titles:')
 for postIDVal in sortPID:
     for item in re.findall(r'\'+\w+\'', str(postIDVal)):
         f = open('/Users/Santhosh/Downloads/result.csv', 'rt', encoding='Latin-1')
